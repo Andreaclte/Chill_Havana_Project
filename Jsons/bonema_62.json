@@ -46,7 +46,7 @@
     },
     "rating": 4.5,
     "intake_capacity": "media",
-    "cuisine": ["turca", "internacional", "cocteleria", "italiana"],
+    "cuisine": ["turca", "internacional", "italiana"],
     "services": {
         "plant": false,
         "child_care": true,

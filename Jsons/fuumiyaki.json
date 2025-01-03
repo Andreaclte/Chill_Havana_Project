@@ -46,7 +46,7 @@
     },
     "rating": 4.0,
     "intake_capacity": "baja",
-    "cuisine": ["japonesa", "asiatica", "cubana"],
+    "cuisine": ["japonesa", "asiática", "cubana"],
     "services": {
         "plant": true,
         "child_care": true,

@@ -46,7 +46,7 @@
     },
     "rating": 4.0,
     "intake_capacity": "alta",
-    "cuisine": ["caribeña", "barbacoa", "cubana"],
+    "cuisine": ["caribeña", "cubana"],
     "services": {
         "plant": null,
         "child_care": true,

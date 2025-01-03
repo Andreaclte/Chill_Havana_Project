@@ -46,7 +46,7 @@
     },
     "rating": null,
     "intake_capacity": "media",
-    "cuisine": ["italiana", "mediterranea", "cocteleria"],
+    "cuisine": ["italiana", "mediterranea"],
     "services": {
         "plant": false,
         "child_care": false,

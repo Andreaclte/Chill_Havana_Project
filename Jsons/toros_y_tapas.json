@@ -46,7 +46,7 @@
     },
     "rating": 4.5,
     "intake_capacity": "alta",
-    "cuisine": ["caribeña", "mediterránea"," española", "cubana"],
+    "cuisine": ["caribeña", "mediterranea", "española", "cubana"],
     "services": {
         "plant": true,
         "child_care": true,

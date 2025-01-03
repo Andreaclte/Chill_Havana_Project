@@ -46,7 +46,7 @@
     },
     "rating": 5.0,
     "intake_capacity": "media",
-    "cuisine": ["cocteleria", "italiana"],
+    "cuisine": ["italiana"],
     "services": {
         "plant": false,
         "child_care": false,

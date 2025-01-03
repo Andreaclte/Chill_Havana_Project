@@ -46,7 +46,7 @@
     },
     "rating": 4.5,
     "intake_capacity": "alta",
-    "cuisine": ["latina, internacional, cubana", "criolla"],
+    "cuisine": ["latina", "internacional", "cubana", "criolla"],
     "services": {
         "plant": true,
         "child_care": true,

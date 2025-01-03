@@ -46,7 +46,7 @@
     },
     "rating": 4.0,
     "intake_capacity": "media",
-    "cuisine": ["cubana", "cocteleria"],
+    "cuisine": ["cubana"],
     "services": {
         "plant": false,
         "child_care": false,
