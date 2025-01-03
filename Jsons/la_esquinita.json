@@ -1,0 +1,267 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Esquinita",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.099966714430586, 
+        "longitude": -82.37927216484684
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["americana", "cubana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 300
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 450
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 500
+                },
+                {
+                    "name": "picadera",
+                    "price": 1500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 450
+                },
+                {
+                    "name": "hamburguesa (jamón)",
+                    "price": 550
+                },
+                {
+                    "name": "hamburguesa (gouda)",
+                    "price": 550
+                },
+                {
+                    "name": "hamburguesa (jamón y gouda)",
+                    "price": 650
+                },
+                {
+                    "name": "hamburguesa especial 'la esquinita'",
+                    "price": 750
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 700
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1200
+                },
+                {
+                    "name": "pechuga de pollo grillé",
+                    "price": 1200
+                },
+                {
+                    "name": "chop suey de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "cordon bleu",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 1500
+                },
+                {
+                    "name": "bistec encebollado de res",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza pequeña de queso blanco",
+                    "price": 200
+                },
+                {
+                    "name": "pizza pequeña queso blanco hawaiana",
+                    "price": 400
+                },
+                {
+                    "name": "pizza pequeña queso gouda",
+                    "price": 300
+                },
+                {
+                    "name": "pizza pequeña queso gouda hawaiana",
+                    "price": 450
+                },
+                {
+                    "name": "pizza grande de queso blanco",
+                    "price": 400
+                },
+                {
+                    "name": "pizza grande de queso blanco hawaiana",
+                    "price": 550
+                },
+                {
+                    "name": "pizza grande de queso gouda",
+                    "price": 650
+                },
+                {
+                    "name": "pizza grande de queso gouda hawaiana",
+                    "price": 800
+                },
+                {
+                    "name": "pizza pequeña especial 'la esquinita'",
+                    "price": 600
+                },
+                {
+                    "name": "pizza grande especial 'la esquinita'",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza familiar 'la esquinita'",
+                    "price": 3000
+                },
+                {
+                    "name": "spaghetti (blanco)",
+                    "price": 350
+                },
+                {
+                    "name": "spaghetti (gouda)",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti (blanco y jamón)",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti (gouda y jamón)",
+                    "price": 600
+                },
+                {
+                    "name": "spaghetti (blanco y chorizo)",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti (gouda y chorizo)",
+                    "price": 600
+                },
+                {
+                    "name": "spaghetti (blanco y cebolla)",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti (gouda y cebolla)",
+                    "price": 600
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "doble queso blanco",
+                    "price": 100
+                },
+                {
+                    "name": "doble queso gouda",
+                    "price": 250
+                },
+                {
+                    "name": "jamón",
+                    "price": 100
+                },
+                {
+                    "name": "chorizo",
+                    "price": 100
+                },
+                {
+                    "name": "cebolla",
+                    "price": 100
+                },
+                {
+                    "name": "pimiento",
+                    "price": 100
+                },
+                {
+                    "name": "piña",
+                    "price": 100
+                },
+                {
+                    "name": "aceituna",
+                    "price": 150
+                },
+                {
+                    "name": "atún",
+                    "price": 300
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

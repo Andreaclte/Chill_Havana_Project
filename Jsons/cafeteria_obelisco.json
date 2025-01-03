@@ -1,0 +1,144 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Cafeteria Obelisco",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.084914482920695, 
+        "longitude": -82.42430664968636
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "1800"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": "criolla",
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": false
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "pan con queso y embutido",
+                    "price": 250
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "bolitas de carne",
+                    "price": 20
+                },
+                {
+                    "name": "dados de queso",
+                    "price": 180
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 200
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "frijol negro",
+                    "price": 55
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 70
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua saborizada",
+                    "price": 50
+                },
+                {
+                    "name": "agua natural",
+                    "price": 180
+                }
+            ],
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal",
+                    "price": 180
+                },
+                {
+                    "name": "vino blanco entre rio",
+                    "price": 160
+                },
+                {
+                    "name": "vino blanco",
+                    "price": 160
+                },
+                {
+                    "name": "cerveza",
+                    "price": 50
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

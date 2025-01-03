@@ -1,0 +1,317 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Kopas",
+    "district": "Habana del Este",
+    "coordinates": {
+        "latitude": 23.16957153159522, 
+        "longitude": -82.13720147859289
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://tienda.tecopos.com/kopas",
+        "whatsapp": "51566616",
+        "facebook": "kopas_bar_restaurant",
+        "instagram": "@kopas_bar_restaurant"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2300"
+        }
+    },
+    "rating": 4.3,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tacos de camaron",
+                    "price": 1250
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 995
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 975
+                },
+                {
+                    "name": "tacos de langosta",
+                    "price": 1350
+                },
+                {
+                    "name": "tacos de pescado",
+                    "price": 975
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 750
+                },
+                {
+                    "name": "tostones rellenos de camaron",
+                    "price": 1100
+                },
+                {
+                    "name": "tostones rellenos de jamon y queso",
+                    "price": 975
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "brochetas de langosta",
+                    "price": 2350
+                },
+                {
+                    "name": "brochetas de camaron",
+                    "price": 2100
+                },
+                {
+                    "name": "brochetas de cerdo",
+                    "price": 1850
+                },
+                {
+                    "name": "brochetas de pollo",
+                    "price": 1550
+                },
+                {
+                    "name": "langosta a las brasas",
+                    "price": 2350
+                },
+                {
+                    "name": "lomo de pescado a las brasas",
+                    "price": 2200
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 3650
+                },
+                {
+                    "name": "rueda de albacora a las brasas",
+                    "price": 1775
+                },
+                {
+                    "name": "fajitas de pollo empanadas",
+                    "price": 1450
+                },
+                {
+                    "name": "bistec de pollo grille",
+                    "price": 1250
+                },
+                {
+                    "name": "pechuga de pollo en salsa de jengibre y ajonjoli",
+                    "price": 1450
+                },
+                {
+                    "name": "pollo al limon y al oregano",
+                    "price": 1350
+                },
+                {
+                    "name": "pollo a la parmesana",
+                    "price": 1650
+                },
+                {
+                    "name": "pollo al ajo y vino blanco",
+                    "price": 1350
+                },
+                {
+                    "name": "fajitas de pollo a la pina y miel",
+                    "price": 1275
+                },
+                {
+                    "name": "pollo princesa",
+                    "price": 1650
+                },
+                {
+                    "name": "fajitas de cerdo a la pina y miel",
+                    "price": 1875
+                },
+                {
+                    "name": "uruguayo de cerdo",
+                    "price": 2250
+                },
+                {
+                    "name": "bistec de cerdo princesa",
+                    "price": 2000
+                },
+                {
+                    "name": "masa de cerdo al estilo kopas",
+                    "price": 1875
+                },
+                {
+                    "name": "bistec de cerdo encebollado",
+                    "price": 1550
+                },
+                {
+                    "name": "lomo de cerdo ahumado con salsa barbecue",
+                    "price": 1850
+                },
+                {
+                    "name": "lomo de cerdo ahumado con salsa agridulce",
+                    "price": 1875
+                },
+                {
+                    "name": "lomo de cerdo ahumado encebollado",
+                    "price": 1775
+                },
+                {
+                    "name": "bistec de res encebollado",
+                    "price": 1750
+                },
+                {
+                    "name": "fajitas de res",
+                    "price": 1750
+                },
+                {
+                    "name": "mignon salsa del chef",
+                    "price": 1850
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1575
+                },
+                {
+                    "name": "uruguayo de res",
+                    "price": 2250
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1450
+                },
+                {
+                    "name": "filete a la deutch",
+                    "price": 1750
+                },
+                {
+                    "name": "filete de pescado princesa",
+                    "price": 2150
+                },
+                {
+                    "name": "filete de pescado en salsa de limon",
+                    "price": 1975
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 2475
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 2100
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2300
+                },
+                {
+                    "name": "camaron grille",
+                    "price": 2000
+                },
+                {
+                    "name": "camaron empanado",
+                    "price": 2300
+                },
+                {
+                    "name": "camarones al ajillo",
+                    "price": 2200
+                },
+                {
+                    "name": "langosta al ajillo",
+                    "price": 2250
+                },
+                {
+                    "name": "filete de pescado costa sur",
+                    "price": 2650
+                },
+                {
+                    "name": "dados de pescado al ajillo",
+                    "price": 1750
+                },
+                {
+                    "name": "camaron tropical",
+                    "price": 3250
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "vodka ciroc red berry",
+                    "price": 8900
+                },
+                {
+                    "name": "whisky jameson",
+                    "price": 8500
+                },
+                {
+                    "name": "whisky j&b rare",
+                    "price": 5900
+                },
+                {
+                    "name": "whisky elliot hall",
+                    "price": 4900
+                },
+                {
+                    "name": "whisky chanceler",
+                    "price": 2900
+                },
+                {
+                    "name": "whisky ballantines",
+                    "price": 8500
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

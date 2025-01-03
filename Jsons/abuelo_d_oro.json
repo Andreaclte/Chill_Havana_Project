@@ -1,0 +1,260 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Abuelo D'Oro",
+    "district": "Boyeros",
+    "coordinates": {
+        "latitude": 23.057838724569645, 
+        "longitude": -82.38286186315446
+    },
+    "contact": {
+        "phone_number": "76472100",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Abuelo D' Oro",
+        "instagram": "@abuelo_d_oro_cuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "tuesday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "wednesday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "thursday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "friday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "saturday": {
+            "open": "1130",
+            "close": "2330"
+        },
+        "sunday": {
+            "open": "1130",
+            "close": "2330"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "internacional"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "desayuno de oro",
+                    "price": 2500
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 500
+                },
+                {
+                    "name": "empanadas",
+                    "price": 500
+                },
+                {
+                    "name": "frituras",
+                    "price": 500
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 1000
+                },
+                {
+                    "name": "papas bravas",
+                    "price": 500
+                },
+                {
+                    "name": "papas doradas",
+                    "price": 450
+                },
+                {
+                    "name": "ceviche",
+                    "price": 2000
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 2000
+                },
+                {
+                    "name": "coctel de langosta",
+                    "price": 2000
+                },
+                {
+                    "name": "tabla surtida",
+                    "price": 3000
+                },
+                {
+                    "name": "taco ropa vieja",
+                    "price": 1500
+                },
+                {
+                    "name": "taco vaca frita",
+                    "price": 1450
+                },
+                {
+                    "name": "taco de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 1500
+                },
+                {
+                    "name": "sandwich de pechuga y queso",
+                    "price": 1800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza jamon",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1400
+                },
+                {
+                    "name": "pizza cebolla",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza pimientos",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza pepperoni",
+                    "price": 1500
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti jamon",
+                    "price": 1500
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 3000
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 3000
+                },
+                {
+                    "name": "bistec de res en cazuela",
+                    "price": 3500
+                },
+                {
+                    "name": "picadillo habanera",
+                    "price": 2900
+                },
+                {
+                    "name": "bistec encebollado",
+                    "price": 2500
+                },
+                {
+                    "name": "cerdo salteado",
+                    "price": 2800
+                },
+                {
+                    "name": "medalla con jamon y queso",
+                    "price": 3800
+                },
+                {
+                    "name": "medalla con ropa vieja y queso",
+                    "price": 3800
+                },
+                {
+                    "name": "chuletilla",
+                    "price": 3000
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 3000
+                },
+                {
+                    "name": "filete de pescado montado",
+                    "price": 4000
+                },
+                {
+                    "name": "gratin del mar",
+                    "price": 4000
+                },
+                {
+                    "name": "langosta variada",
+                    "price": 4800
+                },
+                {
+                    "name": "camaron variado",
+                    "price": 4800
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 3000
+                },
+                {
+                    "name": "pechuga salteada",
+                    "price": 3500
+                },
+                {
+                    "name": "pollo frito 1/4",
+                    "price": 2500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": [
+            {
+                "name": "1kg cerdo asado",
+                "price": 15000
+            },
+            {
+                "name": "chuleton de cerdo",
+                "price": 6500
+            },
+            {
+                "name": "mar y tierra",
+                "price": 19000
+            }
+        ]
+    }
+}

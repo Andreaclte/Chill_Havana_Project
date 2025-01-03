@@ -1,0 +1,244 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Rico Rico",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.12627363995597,
+        "longitude": -82.38090833528463
+    },
+    "contact": {
+        "phone_number": "78701632",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "51483086",
+        "facebook": "RicoRicopizzeria",
+        "instagram": "@ricoricopizzeria"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2300"
+        }
+    },
+    "rating": 2.4,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "Ensalada fria de atun (pequeña)",
+                    "price": 645
+                },
+                {
+                    "name": "Ensalada fria de atun (mediana)",
+                    "price": 1200
+                },
+                {
+                    "name": "Ensalada fria de atun (grande)",
+                    "price": 2205
+                },
+                {
+                    "name": "Ensalada fria de jamon y queso (pequeña)",
+                    "price": 495
+                },
+                {
+                    "name": "Ensalada fria de atun (mediana)",
+                    "price": 950
+                },
+                {
+                    "name": "Ensalada fria de atun (grande)",
+                    "price": 1745
+                },
+                {
+                    "name": "Pizzeta de Napole",
+                    "price": 230
+                },
+                {
+                    "name": "Pizzeta de Chorizo",
+                    "price": 325
+                },
+                {
+                    "name": "Bastones de Queso",
+                    "price": 780
+                },
+                {
+                    "name": "Empanadas Gallegas",
+                    "price": 380
+                },
+                {
+                    "name": "Tequeños",
+                    "price": 350
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "Pizza Napoles",
+                    "price": 920
+                },
+                {
+                    "name": "Pasta Napoles",
+                    "price": 920
+                },
+                {
+                    "name": "Pasta Carbonara",
+                    "price": 1000
+                },
+                {
+                    "name": "Calzone Napoles",
+                    "price": 1090
+                },
+                {
+                    "name": "Megacalzone",
+                    "price": 1440
+                },
+                {
+                    "name": "Lasaña Boloñesa",
+                    "price": 1550
+                },
+                {
+                    "name": "Lasaña de Jamon",
+                    "price": 1490
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "Aceitunas",
+                    "price": 220
+                },
+                {
+                    "name": "Piña",
+                    "price": 220
+                },
+                {
+                    "name": "Cebolla",
+                    "price": 400
+                },
+                {
+                    "name": "Atun",
+                    "price": 550
+                },
+                {
+                    "name": "Chorizo",
+                    "price": 2390
+                },
+                {
+                    "name": "Bacon",
+                    "price": 360
+                },
+                {
+                    "name": "Jamon",
+                    "price": 320
+                },
+                {
+                    "name": "Jamon serrano",
+                    "price": 480
+                },
+                {
+                    "name": "Parmesano",
+                    "price": 350
+                },
+                {
+                    "name": "Gouda",
+                    "price": 360
+                },
+                {
+                    "name": "Lomo ahumado",
+                    "price": 380
+                },
+                {
+                    "name": "Queso azul",
+                    "price": 300
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "Pastelito de ojaldre de guayaba o coco",
+                    "price" : 260
+                },
+                {
+                    "name": "Pastelito de ojaldre de jamon y queso",
+                    "price" : 280
+                },
+                {
+                    "name" : "Flan",
+                    "price" : 590
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : null,
+            "soft_drinks" : null,
+            "juices" : [
+                {
+                    "name": "Frappi Rico",
+                    "price": 180
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name" : "Mega Bati Bati",
+                    "price" : 990
+                },
+                {
+                    "name" : "Super Bati Bati",
+                    "price" : 785
+                },
+                {
+                    "name" : "Bati Frutas",
+                    "price" : 675
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

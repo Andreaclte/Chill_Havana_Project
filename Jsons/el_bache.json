@@ -1,0 +1,137 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Bache",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.04303644487019, 
+        "longitude": -82.26306815148284
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://el-bache.ola.click/",
+        "whatsapp": "54703920",
+        "facebook": "Pizzería El Bache",
+        "instagram": "@_elbache"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1030",
+            "close": "2230"
+        },
+        "tuesday": {
+            "open": "1030",
+            "close": "2230"
+        },
+        "wednesday": {
+            "open": "1030",
+            "close": "2230"
+        },
+        "thursday": {
+            "open": "1030",
+            "close": "2230"
+        },
+        "friday": {
+            "open": "1030",
+            "close": "2230"
+        },
+        "saturday": {
+            "open": false,
+            "close": false
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana",
+                    "price": 600
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 800
+                },
+                {
+                    "name": "pizza queso gouda",
+                    "price": 900
+                },
+                {
+                    "name": "pizza jamón",
+                    "price": 800
+                },
+                {
+                    "name": "pizza chorizo",
+                    "price": 800
+                },
+                {
+                    "name": "pizza aceituna",
+                    "price": 800
+                },
+                {
+                    "name": "pizza aceituna",
+                    "price": 1350
+                },
+                {
+                    "name": "pizza atún",
+                    "price": 800
+                },
+                {
+                    "name": "pizza cebolla",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1450
+                },
+                {
+                    "name": "pizza 4 estaciones",
+                    "price": 1450
+                },
+                {
+                    "name": "lasaña",
+                    "price": 800
+                },
+                {
+                    "name": "lasaña de queso gouda",
+                    "price": 1200
+                },
+                {
+                    "name": "spaguetti con queso gouda",
+                    "price": 900
+                },
+                {
+                    "name": "spaguetti",
+                    "price": 600
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

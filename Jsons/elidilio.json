@@ -1,0 +1,480 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Idilio",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.140043632958008, 
+        "longitude": -82.39049077833423
+    },
+    "contact": {
+        "phone_number": "78307921",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59705810",
+        "facebook": "El Idilio - Restaurant",
+        "instagram": "@el_idilio_restaurante"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                { 
+                    "name": "ensalada mixta de vegetales", 
+                    "price": 500 
+                },
+                { 
+                    "name": "ensalada cesar de pollo", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "ensalada cesar de atún", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "tacos de camarones", 
+                    "price": 2700 
+                },
+                { 
+                    "name": "tacos de pollo", 
+                    "price": 1900 
+                },
+                { 
+                    "name": "tacos de cerdo", 
+                    "price": 2400 
+                },
+                { 
+                    "name": "ceviche", 
+                    "price": 1750 
+                },
+                { 
+                    "name": "carpaccio de res", 
+                    "price": 3300 
+                },
+                { 
+                    "name": "empanadas de la casa", 
+                    "price": 900 
+                },
+                { 
+                    "name": "tablas de queso de jamón", 
+                    "price": 4200 
+                },
+                { 
+                    "name": "croquetas de la casa", 
+                    "price": 850 
+                },
+                { 
+                    "name": "tostones rellenos", 
+                    "price": 980 
+                },
+                { 
+                    "name": "picadera de la casa", 
+                    "price": 2700 
+                },
+                { 
+                    "name": "fritura de malanga", 
+                    "price": 550 
+                },
+                { 
+                    "name": "crema de calabaza c/salsa de queso", 
+                    "price": 950 
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { 
+                    "name": "arroz negro con langosta y camarones", 
+                    "price": 4300 
+                },
+                { 
+                    "name": "paella marinera", 
+                    "price": 4000 
+                },
+                { 
+                    "name": "pasta amatriciana", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "pasta carbonara", 
+                    "price": 3100 
+                },
+                { 
+                    "name": "pasta alfred con camarón", 
+                    "price": 3300 
+                },
+                { 
+                    "name": "pasta alfred con jamón", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "pasta con puntas de filete", 
+                    "price": 5000 
+                },
+                { 
+                    "name": "bistec de la abuela", 
+                    "price": 7300 
+                },
+                { 
+                    "name": "pechuga de pollo grille", 
+                    "price": 2100 
+                },
+                { 
+                    "name": "pollo en textura con salsa oriental", 
+                    "price": 2400 
+                },
+                { 
+                    "name": "ropa vieja", 
+                    "price": 2500 
+                },
+                { 
+                    "name": "solomillo de res a la losa", 
+                    "price": 7250 
+                },
+                { 
+                    "name": "chateubriand a la losa", 
+                    "price": 14500 
+                },
+                { 
+                    "name": "punta de filete de res", 
+                    "price": 5200 
+                },
+                { 
+                    "name": "moro relleno con cerdo", 
+                    "price": 3200 
+                },
+                { 
+                    "name": "camarones en suquet de mariscos", 
+                    "price": 3200 
+                },
+                { 
+                    "name": "langosta a su antojo/lobster", 
+                    "price": 3500 
+                },
+                { 
+                    "name": "pulpo a la brasa/al ajillo", 
+                    "price": 5200 
+                },
+                { 
+                    "name": "grillada del mar", 
+                    "price": 8300 
+                },
+                { 
+                    "name": "fil de pescado grille en salsa muselina", 
+                    "price": 2500 
+                },
+                { 
+                    "name": "masas de cerdo", 
+                    "price": 3500 
+                },
+                { 
+                    "name": "cordero a la ñora", 
+                    "price": 3800 
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                { 
+                    "name": "agua natural", 
+                    "price": 250 
+                },
+                { 
+                    "name": "agua tónica", 
+                    "price": 900 
+                },
+                { 
+                    "name": "agua gaseada", 
+                    "price": 500 
+                }
+            ],
+            "soft_drinks" : [
+                { 
+                    "name": "refrescos", 
+                    "price": 375 
+                },
+                { 
+                    "name": "malta", 
+                    "price": 395 
+                },
+                { 
+                    "name": "ginger ale", 
+                    "price": 500 
+                }
+            ],
+            "juices" : [
+                { 
+                    "name": "jugos naturales", 
+                    "price": 250 
+                },
+                { 
+                    "name": "limonada frape", 
+                    "price": 500 
+                },
+                { 
+                    "name": "sorbetes tropicales", 
+                    "price": 650 
+                },
+                { 
+                    "name": "jugo de tomate", 
+                    "price": 360 
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                { 
+                    "name": "copa de vino tinto", 
+                    "price": 850 
+                },
+                { 
+                    "name": "louis latour (pinot noir)", 
+                    "price": 12000 
+                },
+                { 
+                    "name": "neprica (primitivo)", 
+                    "price": 9300 
+                },
+                { 
+                    "name": "chateau haut-bicou (bordeaux)", 
+                    "price": 9300 
+                },
+                { 
+                    "name": "copa de vino blanco", 
+                    "price": 850 
+                },
+                { 
+                    "name": "murari", 
+                    "price": 400 
+                },
+                { 
+                    "name": "louis latour (chardonnay)", 
+                    "price": 10300 
+                },
+                { 
+                    "name": "espumoso brut montparnasse", 
+                    "price": 4300 
+                },
+                { 
+                    "name": "mojito", 
+                    "price": 750 
+                },
+                { 
+                    "name": "daiquiri", 
+                    "price": 650 
+                },
+                { 
+                    "name": "cuba libre", 
+                    "price": 750 
+                },
+                { 
+                    "name": "cubanito", 
+                    "price": 950 
+                },
+                { 
+                    "name": "ron collins", 
+                    "price": 650 
+                },
+                { 
+                    "name": "sorbete de piña", 
+                    "price": 1200 
+                },
+                { 
+                    "name": "tinto de verano", 
+                    "price": 950 
+                },
+                { 
+                    "name": "caipirisima/ caipirita", 
+                    "price": 650 
+                },
+                { 
+                    "name": "carpirinha/ caipiroska", 
+                    "price": 650 
+                },
+                { 
+                    "name": "blooddy mary", 
+                    "price": 950 
+                },
+                { 
+                    "name": "tom collins master", 
+                    "price": 995 
+                },
+                { 
+                    "name": "margarita", 
+                    "price": 750 
+                },
+                { 
+                    "name": "negroni", 
+                    "price": 1200 
+                },
+                { 
+                    "name": "screwdriver", 
+                    "price": 650 
+                },
+                { 
+                    "name": "gin tonic master", 
+                    "price": 2100 
+                },
+                { 
+                    "name": "verano mule", 
+                    "price": 1100 
+                },
+                { 
+                    "name": "aperol spritz", 
+                    "price": 3500 
+                },
+                { 
+                    "name": "campari spritz",  
+                    "price": 2900  
+                },
+                { 
+                    "name": "ron santiago 8 años", 
+                    "price": 650 
+                },
+                { 
+                    "name": "ron santiago 11 y 12 años", 
+                    "price": 800 
+                },
+                { 
+                    "name": "ron bacardi", 
+                    "price": 750 
+                },
+                { 
+                    "name": "ron zacapa", 
+                    "price": 3300 
+                },
+                { 
+                    "name": "ron flor de caña", 
+                    "price": 1200 
+                },
+                { 
+                    "name": "hc selección de maestros", 
+                    "price": 1700 
+                },
+                { 
+                    "name": "ballantine", 
+                    "price": 650 
+                },
+                { 
+                    "name": "tequila reposado", 
+                    "price": 500 
+                },
+                { 
+                    "name": "tequila jose cuervo reposado", 
+                    "price": 1200 
+                },
+                { 
+                    "name": "vodka tito's", 
+                    "price": 650 
+                },
+                { 
+                    "name": "cognac remy martin", 
+                    "price": 2450 
+                },
+                { 
+                    "name": "vodka ciroc", 
+                    "price": 1600 
+                },
+                { 
+                    "name": "jack daniel", 
+                    "price": 1100 
+                },
+                { 
+                    "name": "j.w black label", 
+                    "price": 1650 
+                },
+                { 
+                    "name": "j.w double black", 
+                    "price": 2150 
+                },
+                { 
+                    "name": "j.w golden label", 
+                    "price": 3250 
+                },
+                { 
+                    "name": "j.w blue label", 
+                    "price": 10000
+                },
+                { 
+                    "name": "j.w red label",  
+                    "price": 750
+                },
+                { 
+                    "name": "buchanans",  
+                    "price": 1900
+                },
+                { 
+                    "name": "famous grouse",  
+                    "price": 650
+                },
+                { 
+                    "name": "chivas regal xv",  
+                    "price": 850
+                },
+                { 
+                    "name": "cerveza cristal", 
+                    "price": 500 
+                },
+                { 
+                    "name": "red bull", 
+                    "price": 700 
+                },
+                { 
+                    "name": "kermato", 
+                    "price": 750 
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

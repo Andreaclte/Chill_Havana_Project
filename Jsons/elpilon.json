@@ -1,0 +1,431 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Pilón",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.139923880574944, 
+        "longitude": -82.38105453418326
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53232552",
+        "facebook": "Cafetería Pilón ",
+        "instagram": "@cafeteria_pilon"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2400"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "media",
+    "cuisine": ["internacional"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 590
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 550
+                },
+                {
+                    "name": "fruturas de maiz",
+                    "price": 590
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 590
+                },
+                {
+                    "name": "empanadillas",
+                    "price": 550
+                },
+                {
+                    "name": "brusquetas de jamon",
+                    "price": 550
+                },
+                {
+                    "name": "nachos con salsas",
+                    "price": 590
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 650
+                },
+                {
+                    "name": "tamal c/Mojito y Carne mechada",
+                    "price": 750
+                },
+                {
+                    "name": "ceviche de pescado",
+                    "price": 950
+                },
+                {
+                    "name": "pilonazo del dia",
+                    "price": 1500
+                },
+                {
+                    "name": "tabla pilona",
+                    "price": 1900
+                },
+                {
+                    "name": "tabla cubana",
+                    "price": 2300
+                },
+                {
+                    "name": "tabla exotica",
+                    "price": 2800
+                },
+                {
+                    "name": "waffle habanero",
+                    "price": 950
+                },
+                {
+                    "name": "waffle nacional",
+                    "price": 950
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza margarita",
+                    "price": 990
+                },
+                {
+                    "name": "pastas",
+                    "price": 850
+                },
+                {
+                    "name": "lasagna de jamon y queso",
+                    "price": 990
+                },
+                {
+                    "name": "baguette vegetariano",
+                    "price": 600
+                },
+                {
+                    "name": "baguette de jamon",
+                    "price": 670
+                },
+                {
+                    "name": "baguette tropical",
+                    "price": 780
+                },
+                {
+                    "name": "baguette pilon",
+                    "price": 780
+                },
+                {
+                    "name": "baguette cubano",
+                    "price": 790
+                },
+                {
+                    "name": "hamburguesa",
+                    "price": 950
+                },
+                {
+                    "name": "tacos de cerdo, res o boloñesa",
+                    "price": 850
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 800
+                },
+                {
+                    "name": "tacos vegetarianos",
+                    "price": 800
+                },
+                {
+                    "name": "crepe de jamon y queso",
+                    "price": 880
+                },
+                {
+                    "name": "crepe relleno de pollo",
+                    "price": 880
+                },
+                {
+                    "name": "crepe relleno de carne",
+                    "price": 890
+                },
+                {
+                    "name": "wraps pilonzón",
+                    "price": 890
+                },
+                {
+                    "name": "ensalada de atun",
+                    "price": 890
+                },
+                {
+                    "name": "baguette extra pilon familiar",
+                    "price": 1100
+                },
+                {
+                    "name": "hamburguesa doble",
+                    "price": 1250
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "atun",
+                    "price": 400
+                },
+                {
+                    "name": "huevo",
+                    "price": 400
+                },
+                {
+                    "name": "carne",
+                    "price": 400
+                },
+                {
+                    "name": "pollo",
+                    "price": 400
+                },
+                {
+                    "name": "hqueso",
+                    "price": 400
+                },
+                {
+                    "name": "jamon",
+                    "price": 300
+                },
+                {
+                    "name": "chorizo",
+                    "price": 300
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 300
+                },
+                {
+                    "name": "cebolla",
+                    "price": 250
+                },
+                {
+                    "name": "piña",
+                    "price": 250
+                },
+                {
+                    "name": "pimiento",
+                    "price": 250
+                },
+                {
+                    "name": "rucula",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "tortas del dia",
+                    "price" : 490
+                },
+                {
+                    "name" : "1 bola de helado",
+                    "price" : 260
+                },
+                {
+                    "name": "2 bolas de helado",
+                    "price": 480
+                },
+                {
+                    "name": "donazo pilon",
+                    "price": 670
+                },
+                {
+                    "name": "waffle cubanisimo",
+                    "price": 650
+                },
+                {
+                    "name": "emparedado wafflero",
+                    "price": 670
+                },
+                {
+                    "name": "waffles pilon",
+                    "price": 670
+                },
+                {
+                    "name": "tortazo pilon",
+                    "price": 650
+                },
+                {
+                    "name": "crepe con helado",
+                    "price": 600
+                },
+                {
+                    "name": "helado con torta",
+                    "price": 550
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name" : "jugos naturales",
+                    "price" : 300
+                },
+                {
+                    "name": "limonada natural",
+                    "price": 350
+                },
+                {
+                    "name": "limonada c/frutas y hierba buena",
+                    "price": 450
+                },
+                {
+                    "name": "limonada frappe natural",
+                    "price": 490
+                },
+                {
+                    "name": "limonada frappe c/hierba buena",
+                    "price": 500
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name" : "suero de helado",
+                    "price" : 590
+                }
+                ],
+            "alcoholic" : [
+                {
+                    "name" : "mojito con cerveza",
+                    "price" : 590
+                },
+                {
+                    "name" : "michelada",
+                    "price" : 590
+                },
+                {
+                    "name": "jarra de cerveza",
+                    "price": 390
+                },
+                {
+                    "name": "vaso de cerveza",
+                    "price": 290
+                },
+                {
+                    "name": "mojito natural",
+                    "price": 550
+                },
+                {
+                    "name": "canchancara",
+                    "price": 550
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 550
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 550
+                },
+                {
+                    "name": "piña colada",
+                    "price": 650
+                },
+                {
+                    "name": "sangría",
+                    "price": 650
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expresso",
+                    "price" : 180
+                },
+                {
+                    "name" : "cortado",
+                    "price" : 200
+                },
+                {
+                    "name": "americano",
+                    "price": 180
+                },
+                {
+                    "name": "con leche",
+                    "price": 290
+                },
+                {
+                    "name": "capuchino",
+                    "price": 290
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 490
+                },
+                {
+                    "name": "con helado",
+                    "price": 490
+                },
+                {
+                    "name": "café bombón",
+                    "price": 490
+                },
+                {
+                    "name": "café frapeado",
+                    "price": 590
+                }
+            ]
+            },
+        "special_offers": [
+            {
+                "name": "Ropa vieja o filete de pescado, vegetales frescos, focaccia con chimichurri, 1 jugo, 1 bola de helado con torta",
+                "price": 1900
+            }
+        ]
+        }
+}

@@ -1,0 +1,291 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Tocororo",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.124905240397386, 
+        "longitude": -82.42134057564077
+    },
+    "contact": {
+        "phone_number": "72024530",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Restaurante BAR Tocororo.",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "caribeña", "latina"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "panaderia de la casa",
+                    "price": 75
+                },
+                {
+                    "name": "coctel de langosta",
+                    "price": 550
+                },
+                {
+                    "name": "coctel de pescado",
+                    "price": 385
+                },
+                {
+                    "name": "ensalada de pollo tropical",
+                    "price": 300
+                },
+                {
+                    "name": "dados de queso en escabeche",
+                    "price": 425
+                },
+                {
+                    "name": "entremes de jamon",
+                    "price": 285
+                },
+                {
+                    "name": "seviche caribeno",
+                    "price": 450
+                },
+                {
+                    "name": "picadera especial tocororos",
+                    "price": 1500
+                },
+                {
+                    "name": "frituritas de la abuela",
+                    "price": 170
+                },
+                {
+                    "name": "croquetas del chef",
+                    "price": 200
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 675
+                },
+                {
+                    "name": "mejillones a la diabla",
+                    "price": 700
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pesca especial del dia con salsa de limon",
+                    "price": 1600
+                },
+                {
+                    "name": "delicias del caribe",
+                    "price": 1775
+                },
+                {
+                    "name": "langosta grille abrillantada con mantequilla y olivo",
+                    "price": 1750
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 1700
+                },
+                {
+                    "name": "mejillones a la diabla",
+                    "price": 1250
+                },
+                {
+                    "name": "pollo al horno al estilo del chef",
+                    "price": 820
+                },
+                {
+                    "name": "suprema de pollo perfumada al olivo",
+                    "price": 850
+                },
+                {
+                    "name": "higado grille con aderezo primavera",
+                    "price": 985
+                },
+                {
+                    "name": "lonjas de cerdo asado con mojo criollo",
+                    "price": 1500
+                },
+                {
+                    "name": "costilla de cerdo asado a lo cubano",
+                    "price": 1425
+                },
+                {
+                    "name": "ternera guisada a la campesina",
+                    "price": 1550
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 550
+                },
+                {
+                    "name": "spaghetti primavera",
+                    "price": 625
+                },
+                {
+                    "name": "spaghetti al olio",
+                    "price": 550
+                },
+                {
+                    "name": "spaghetti guarnecido con jamon",
+                    "price": 685
+                },
+                {
+                    "name": "spaghetti marinero",
+                    "price": 850
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz blanco",
+                    "price": 110
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 200
+                },
+                {
+                    "name": "hortalizas salteadas",
+                    "price": 100
+                },
+                {
+                    "name": "vianda hervida aderezada con mojo criollo",
+                    "price": 100
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 100
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 150
+                },
+                {
+                    "name": "ensalada de hortalizas del dia",
+                    "price": 100
+                },
+                {
+                    "name": "sopon campesino",
+                    "price": 80
+                },
+                {
+                    "name": "frijoles negros a la criolla",
+                    "price": 180
+                },
+                {
+                    "name": "caldo marinero",
+                    "price": 195
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "deliciosa torta de la casa",
+                    "price": 285
+                },
+                {
+                    "name": "arroz con leche a la canela",
+                    "price": 200
+                },
+                {
+                    "name": "dulces en almibar guarnecido con queso",
+                    "price": 200
+                },
+                {
+                    "name": "helado tocororo",
+                    "price": 180
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "cafe expreso",
+                    "price": 90
+                },
+                {
+                    "name": "cafe cortadito",
+                    "price": 100
+                },
+                {
+                    "name": "cafe rocio de gallo",
+                    "price": 150
+                },
+                {
+                    "name": "cafe carajillo",
+                    "price": 150
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 100
+                },
+                {
+                    "name": "infusion de manzanilla",
+                    "price": 100
+                },
+                {
+                    "name": "infusion de menta poleo",
+                    "price": 100
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

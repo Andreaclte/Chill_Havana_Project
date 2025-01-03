@@ -1,0 +1,515 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Salsa Mora",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.11402909851061, 
+        "longitude": -82.43950857535798
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52685987",
+        "facebook": "Salsa Mora",
+        "instagram": "@salsamora_70"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "0400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "0400"
+        }
+    },
+    "rating": 3.0,
+    "intake_capacity": "alta",
+    "cuisine": ["internacional"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "pan de la casa",
+                    "price": 250
+                },
+                {
+                    "name": "baguette j & q",
+                    "price": 750
+                },
+                {
+                    "name": "baguette de queso",
+                    "price": 650
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 1000
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 1050
+                },
+                {
+                    "name": "tacos de la casa",
+                    "price": 1150
+                },
+                {
+                    "name": "ceviche",
+                    "price": 2250
+                },
+                {
+                    "name": "fajitas",
+                    "price": 2050
+                },
+                {
+                    "name": "esperland",
+                    "price": 2250
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 1450
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 1250
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 2350
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 1250
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "filete de pescado",
+                    "price": 4000
+                },
+                {
+                    "name": "filete de canciller",
+                    "price": 5000
+                },
+                {
+                    "name": "camaron al gusto",
+                    "price": 4300
+                },
+                {
+                    "name": "langosta al gusto",
+                    "price": 4500
+                },
+                {
+                    "name": "pulpo al gusto",
+                    "price": 4500
+                },
+                {
+                    "name": "langosta termidor",
+                    "price": 5000
+                },
+                {
+                    "name": "caldereta de mariscos",
+                    "price": 6000
+                },
+                {
+                    "name": "grillada del mar",
+                    "price": 6000
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 3000
+                },
+                {
+                    "name": "uruguayo de cerdo",
+                    "price": 4500
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 3000
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 3000
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 2300
+                },
+                {
+                    "name": "cordon blue",
+                    "price": 4500
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 2500
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2500
+                },
+                {
+                    "name": "rib eye",
+                    "price": 8500
+                },
+                {
+                    "name": "cordero estofado",
+                    "price": 3500
+                },
+                {
+                    "name": "tomahawk",
+                    "price": 12500
+                },
+                {
+                    "name": "arroz melosos de pollo",
+                    "price": 1800
+                },
+                {
+                    "name": "arroz melosos de mariscos",
+                    "price": 3500
+                },
+                {
+                    "name": "pasta napoles",
+                    "price": 1300
+                },
+                {
+                    "name": "pasta fruto di mare",
+                    "price": 3000
+                },
+                {
+                    "name": "pasta carbonara",
+                    "price": 2500
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "ensalada mixta",
+                    "price": 450
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 300
+                },
+                {
+                    "name": "tostones naturales",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "tarta",
+                    "price": 1000
+                },
+                {
+                    "name": "flan de la casa",
+                    "price": 500
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 250
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos",
+                    "price": 350
+                },
+                {
+                    "name": "energizantes",
+                    "price": 250
+                },
+                {
+                    "name": "red bull",
+                    "price": 650
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada",
+                    "price": 250
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 350
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "hc 7 anos",
+                    "price": 650
+                },
+                {
+                    "name": "hc seleccion",
+                    "price": 1850
+                },
+                {
+                    "name": "santiago 8 anos",
+                    "price": 780
+                },
+                {
+                    "name": "santiago 11 anos",
+                    "price": 1300
+                },
+                {
+                    "name": "santiago 12 anos",
+                    "price": 1500
+                },
+                {
+                    "name": "pacto navio",
+                    "price": 1850
+                },
+                {
+                    "name": "ciroc",
+                    "price": 1300
+                },
+                {
+                    "name": "grey goose",
+                    "price": 1500
+                },
+                {
+                    "name": "patron silver",
+                    "price": 2400
+                },
+                {
+                    "name": "patron reposado",
+                    "price": 2500
+                },
+                {
+                    "name": "olmeca silver",
+                    "price": 600
+                },
+                {
+                    "name": "olmeca reposado",
+                    "price": 700
+                },
+                {
+                    "name": "jameson",
+                    "price": 700
+                },
+                {
+                    "name": "ballantines",
+                    "price": 900
+                },
+                {
+                    "name": "chivas 12",
+                    "price": 1100
+                },
+                {
+                    "name": "jw red label",
+                    "price": 850
+                },
+                {
+                    "name": "jw black label",
+                    "price": 1500
+                },
+                {
+                    "name": "jw blue label",
+                    "price": 10000
+                },
+                {
+                    "name": "jw gold label",
+                    "price": 2300
+                },
+                {
+                    "name": "jw green label",
+                    "price": 2500
+                },
+                {
+                    "name": "buchanans",
+                    "price": 2500
+                },
+                {
+                    "name": "jack daniels",
+                    "price": 1200
+                },
+                {
+                    "name": "cerveza dispensada",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza cristal",
+                    "price": 600
+                },
+                {
+                    "name": "cerveza bucanero",
+                    "price": 600
+                },
+                {
+                    "name": "cerveza corona",
+                    "price": 850
+                },
+                {
+                    "name": "servicio michelada",
+                    "price": 300
+                },
+                {
+                    "name": "servicio chelada",
+                    "price": 250
+                },
+                {
+                    "name": "caipirina",
+                    "price": 500
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 500
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 500
+                },
+                {
+                    "name": "mojito",
+                    "price": 700
+                },
+                {
+                    "name": "pina colada",
+                    "price": 550
+                },
+                {
+                    "name": "ron collins",
+                    "price": 500
+                },
+                {
+                    "name": "tom collins",
+                    "price": 780
+                },
+                {
+                    "name": "martini",
+                    "price": 1000
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 780
+                },
+                {
+                    "name": "margarita",
+                    "price": 550
+                },
+                {
+                    "name": "tequila sunrise",
+                    "price": 550
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 700
+                },
+                {
+                    "name": "cubata",
+                    "price": 800
+                },
+                {
+                    "name": "cubata santiago 8",
+                    "price": 900
+                },
+                {
+                    "name": "cubanito",
+                    "price": 600
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 550
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 960
+                },
+                {
+                    "name": "sangria salsa mora",
+                    "price": 600
+                },
+                {
+                    "name": "baileys",
+                    "price": 1000
+                },
+                {
+                    "name": "jagger",
+                    "price": 750
+                },
+                {
+                    "name": "campari",
+                    "price": 800
+                },
+                {
+                    "name": "sambuca",
+                    "price": 650
+                },
+                {
+                    "name": "grapa",
+                    "price": 550
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe",
+                    "price": 250
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 300
+                },
+                {
+                    "name": "capuccino",
+                    "price": 700
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 1000
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

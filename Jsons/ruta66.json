@@ -1,0 +1,240 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Ruta 66",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.14008936976356, 
+        "longitude": -82.3043403907062
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52833863",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2130"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2130"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2130"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2130"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2130"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2130"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tostones rellenos de jamon y queso",
+                    "price": 1090
+                },
+                {
+                    "name": "tostones rellenos de bolognesa",
+                    "price": 950
+                },
+                {
+                    "name": "tostones rellenos de vegetales salteados y queso",
+                    "price": 910
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 1900
+                },
+                {
+                    "name": "ceviche de pescado",
+                    "price": 1500
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 595
+                },
+                {
+                    "name": "croquetas",
+                    "price": 490
+                },
+                {
+                    "name": "brosquetas",
+                    "price": 420
+                },
+                {
+                    "name": "tamal",
+                    "price": 400
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "lomo ahumado (con gratinado de queso)",
+                    "price": 1850
+                },
+                {
+                    "name": "lomo ahumado (con salsa de piña)",
+                    "price": 2000
+                },
+                {
+                    "name": "enchilado de camarones",
+                    "price": 3300
+                },
+                {
+                    "name": "camarones al ajillo",
+                    "price": 2950
+                },
+                {
+                    "name": "camarones en salsa de frutas",
+                    "price": 2800
+                },
+                {
+                    "name": "enchilado de pulpo",
+                    "price": 2690
+                },
+                {
+                    "name": "pulpo al ajillo",
+                    "price": 2470
+                },
+                {
+                    "name": "filete de pescado route 66 (a la plancha gratinado con queso y camarón)",
+                    "price": 3550
+                },
+                {
+                    "name": "monte toro a la francesa (a la plancha gratinado con queso)",
+                    "price": 2400
+                },
+                {
+                    "name": "filete de pescado en salsa de frutas",
+                    "price": 2250
+                },
+                {
+                    "name": "filete de pescado a la plancha",
+                    "price": 1800
+                },
+                {
+                    "name": "arroz frito especial route 66",
+                    "price": 2065
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1280
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200
+                },
+                {
+                    "name": "puré de malanga",
+                    "price": 335
+                },
+                {
+                    "name": "ensalada mixta de estacion",
+                    "price": 425
+                },
+                {
+                    "name": "super route 66 (cerdo)",
+                    "price": 1965
+                },
+                {
+                    "name": "castrol (cerdo)",
+                    "price": 1255
+                },
+                {
+                    "name": "texaco (cerdo)",
+                    "price": 940
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 850
+                },
+                {
+                    "name": "lasaña queso gouda",
+                    "price": 1420
+                },
+                {
+                    "name": "spaghetti de queso gouda",
+                    "price": 1100
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua mineral",
+                    "price": 190
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos importados",
+                    "price": 240
+                },
+                {
+                    "name": "malta importada",
+                    "price": 250
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos importados",
+                    "price": 210
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 210
+                },
+                {
+                    "name": "vino tinto",
+                    "price": 2200
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

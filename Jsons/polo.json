@@ -1,0 +1,296 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Polo",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.12218548403461, 
+        "longitude": -82.30787987833503
+    },
+    "contact": {
+        "phone_number": "77974262",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52411618",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "toston relleno de jamon y queso",
+                    "price": 450
+                },
+                {
+                    "name": "toston relleno de atun y queso",
+                    "price": 600
+                },
+                {
+                    "name": "fajitas de pechuga",
+                    "price": 850
+                },
+                {
+                    "name": "ensaladas frias de jamon",
+                    "price": 500
+                },
+                {
+                    "name": "ensalada fria de atun",
+                    "price": 650
+                },
+                {
+                    "name": "eperlano de pescado",
+                    "price": 1100
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 450
+                },
+                {
+                    "name": "frituras malanga",
+                    "price": 450
+                },
+                {
+                    "name": "coctel camarones",
+                    "price": 1300
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 550
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de cerdo grille encebollado",
+                    "price": 1900
+                },
+                {
+                    "name": "uruguallo de cerdo",
+                    "price": 2400
+                },
+                {
+                    "name": "bistec princesa",
+                    "price": 2500
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 1850
+                },
+                {
+                    "name": "pechuga gratinada",
+                    "price": 2200
+                },
+                {
+                    "name": "cordon bleu de pechuga",
+                    "price": 2500
+                },
+                {
+                    "name": "bistec de res encebollado",
+                    "price": 2000
+                },
+                {
+                    "name": "uruguallo de res",
+                    "price": 2500
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 2300
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 2200
+                },
+                {
+                    "name": "filete montero",
+                    "price": 2800
+                },
+                {
+                    "name": "filete canciller",
+                    "price": 2900
+                },
+                {
+                    "name": "filete gratinado",
+                    "price": 2600
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2700
+                },
+                {
+                    "name": "camaron al ajillo",
+                    "price": 2600
+                },
+                {
+                    "name": "camaron empanizado",
+                    "price": 2700
+                },
+                {
+                    "name": "arroz frito con camarones",
+                    "price": 1500
+                },
+                {
+                    "name": "filete mediterraneo",
+                    "price": 3500
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2400
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 4500
+                },
+                {
+                    "name": "masa de vida",
+                    "price": 4100
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 900
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1300
+                },
+                {
+                    "name": "spaguetti napolitano",
+                    "price": 850
+                },
+                {
+                    "name": "spaguetti carbonara",
+                    "price": 1400
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz blanco",
+                    "price": 120
+                },
+                {
+                    "name": "arroz moro y cristiano",
+                    "price": 180
+                },
+                {
+                    "name": "arroz pilaf",
+                    "price": 200
+                },
+                {
+                    "name": "arroz salteado con vegetales",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural 500ml",
+                    "price": 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "energizante",
+                    "price": 300
+                },
+                {
+                    "name": "refresco nacional",
+                    "price": 250
+                },
+                {
+                    "name": "refrescos importados",
+                    "price": 280
+                },
+                {
+                    "name": "malta nacional",
+                    "price": 250
+                },
+                {
+                    "name": "malta importada",
+                    "price": 280
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de caja",
+                    "price": 200
+                },
+                {
+                    "name": "jugo de lata",
+                    "price": 280
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza nacional",
+                    "price": 350
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 250
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expreso",
+                    "price": 250
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

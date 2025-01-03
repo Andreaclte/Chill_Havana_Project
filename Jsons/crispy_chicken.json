@@ -1,0 +1,159 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Crispy Chicken",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.089713179451753, 
+        "longitude": -82.37605099342609
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "elyerromenu.com/b/crispy-chicken",
+        "whatsapp": "63182745",
+        "facebook": "Crispy Chicken",
+        "instagram": "@crispy.chicken.monaco"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "mini hot dog",
+                    "price": 300
+                },
+                {
+                    "name": "chips de boniato",
+                    "price": 500
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800
+                },
+                {
+                    "name": "flamenquin",
+                    "price": 1000
+                },
+                {
+                    "name": "san jacobo",
+                    "price": 1000
+                },
+                {
+                    "name": "entremés de jamón y queso",
+                    "price": 1200
+                },
+                {
+                    "name": "picadera de la casa",
+                    "price": 2500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "sandwich de pollo",
+                    "price": 900
+                },
+                {
+                    "name": "nuggets de pollo",
+                    "price": 1000
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1300
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 1600
+                },
+                {
+                    "name": "pollo chiflado (sin hueso)",
+                    "price": 1800
+                },
+                {
+                    "name": "pollo relleno (jamón y queso)",
+                    "price": 2000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "vaca negra",
+                    "price": 800
+                },
+                {
+                    "name": "malteada",
+                    "price": 900
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 400
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 1000
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

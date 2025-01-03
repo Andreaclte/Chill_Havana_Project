@@ -1,0 +1,384 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Vampirito",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.131548646310556,
+        "longitude": -82.39857068812692
+    },
+    "contact": {
+        "phone_number": "78300774",
+        "e-mail": false,
+        "web_page": "http://www.elvampirito.com",
+        "whatsapp": false,
+        "facebook": "VampiritoCafeteria",
+        "instagram": "@vampiritocafeteria"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1100",
+            "close": "2330"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2330"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2330"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2330"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2330"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2330"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2330"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "bruschettas naturales",
+                    "price": 780
+                },
+                {
+                    "name": "bruschettas con atun, carne o ropa vieja",
+                    "price": 930
+                },
+                {
+                    "name": "entremes de queso, jamon y bruschettas",
+                    "price": 1180
+                },
+                {
+                    "name": "picadera especial de la casa",
+                    "price": 2620
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 570
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 600
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 690
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 1090
+                },
+                {
+                    "name": "hamburguesa doble",
+                    "price": 2000
+                },
+                {
+                    "name": "sandwich de queso gouda",
+                    "price": 960
+                },
+                {
+                    "name": "sandwich de ropa vieja",
+                    "price": 960
+                },
+                {
+                    "name": "sandwich de bacon, huevo y queso",
+                    "price": 1390
+                },
+                {
+                    "name": "sandwich de lechón asado",
+                    "price": 1050
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 1390
+                },
+                {
+                    "name": "sandwich de pechuga de pollo con queso crema y jalea de fresa",
+                    "price": 1260
+                },
+                {
+                    "name": "ensalada de vegetales salteados",
+                    "price": 520
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 1290
+                },
+                {
+                    "name": "pollo (a gusto)",
+                    "price": 1390
+                },
+                {
+                    "name": "cerdo (a gusto)",
+                    "price": 1610
+                },
+                {
+                    "name": "res (a gusto)",
+                    "price": 2570
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 2340
+                },
+                {
+                    "name": "carne asada en cazuela",
+                    "price": 2340
+                },
+                {
+                    "name": "lasaña de jamon",
+                    "price": 1530
+                },
+                {
+                    "name": "lasaña de carne",
+                    "price": 1530
+                },
+                {
+                    "name": "lasaña hawaiana",
+                    "price": 1570
+                },
+                {
+                    "name": "spaghettis",
+                    "price": 1090
+                },
+                {
+                    "name": "media racion de spaghettis con media racion de lasaña",
+                    "price": 1310
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 1220
+                },
+                {
+                    "name": "pizza pequeña",
+                    "price": 590
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "tomates",
+                    "price": 200
+                },
+                {
+                    "name": "cebolla (50G)",
+                    "price": 200
+                },
+                {
+                    "name": "pimiento (50G)",
+                    "price": 200
+                },
+                {
+                    "name": "jamon (50G)",
+                    "price": 320
+                },
+                {
+                    "name": "bacon(50G)",
+                    "price": 420
+                },
+                {
+                    "name": "atun (80G)",
+                    "price": 535
+                },
+                {
+                    "name": "chorizo (50G)",
+                    "price": 490
+                },
+                {
+                    "name": "queso (50G)",
+                    "price": 370
+                },
+                {
+                    "name": "piña glaseada (50G)",
+                    "price": 200
+                },
+                {
+                    "name": "boloñesa (100G)",
+                    "price": 535
+                },
+                {
+                    "name": "aceiuna (40G)",
+                    "price": 280
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "helado montado",
+                    "price" : 300
+                },
+                {
+                    "name" : "canoa de helado",
+                    "price" : 1500
+                },
+                {
+                    "name" : "postre del dia",
+                    "price" : 780
+                },
+                {
+                    "name" : "tarta",
+                    "price" : 975
+                },
+                {
+                    "name" : "torrejas",
+                    "price" : 700
+                },
+                {
+                    "name" : "media racion de torrejas",
+                    "price" : 360
+                },
+                {
+                    "name" : "torrejas con helado",
+                    "price" : 550
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua natural/gaseada",
+                "price" : 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 400
+                },
+                {
+                    "name" : "malta",
+                    "price" : 460
+                },
+                {
+                    "name" : "malteada",
+                    "price" : 700
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugo natural",
+                    "price" : 250
+                },
+                {
+                    "name" : "limonada frappé",
+                    "price" : 620
+                },
+                {
+                    "name" : "limonada con hierba buena",
+                    "price" : 700
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name" : "suero de helado",
+                    "price" : 1200
+                }
+                ],
+            "alcoholic" : [
+                {
+                    "name" : "cerveza importada",
+                    "price" : 400
+                },
+                {
+                    "name" : "cerveza nacional",
+                    "price" : 500
+                },
+                {
+                    "name" : "red bull",
+                    "price" : 500
+                },
+                {
+                    "name" : "michelada c/n cerveza importada",
+                    "price" : 500
+                },
+                {
+                    "name" : "michelada c/n cerveza nacional",
+                    "price" : 600
+                },
+                {
+                    "name" : "caipiriña",
+                    "price" : 750
+                },
+                {
+                    "name" : "daiquiri",
+                    "price" : 750
+                },
+                {
+                    "name" : "sangria",
+                    "price" : 750
+                },
+                {
+                    "name" : "copa de vino",
+                    "price" : 550
+                },
+                {
+                    "name" : "mojito frappé",
+                    "price" : 750
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expreso",
+                    "price" : 180
+                },
+                {
+                    "name" : "cortado",
+                    "price" : 200
+                },
+                {
+                    "name" : "capuchino",
+                    "price" : 280
+                },
+                {
+                    "name" : "con leche",
+                    "price" : 280
+                },
+                {
+                    "name" : "con ron",
+                    "price" : 280
+                },
+                {
+                    "name" : "con licor",
+                    "price" : 280
+                }
+            ]
+            },
+        "special_offers": null
+        }
+}

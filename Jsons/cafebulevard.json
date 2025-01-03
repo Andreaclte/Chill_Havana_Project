@@ -1,0 +1,162 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Cafe Bulevar",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.136606572526283, 
+        "longitude": -82.36299826271366
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 3.4,
+    "intake_capacity": "alta",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ensalada de estacion",
+                    "price": 200
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 150
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "caldosa boulevard",
+                    "price": 200
+                },
+                {
+                    "name": "arroz con subproductos",
+                    "price": 300
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 1350
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1300
+                },
+                {
+                    "name": "filete de merluza",
+                    "price": 550
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name" : "jugo de fruta",
+                    "price" : 100
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza importada",
+                    "price" : 180
+                },
+                {
+                    "name" : "vino tinto cabernet",
+                    "price" : 1340
+                },
+                {
+                    "name" : "licor paso pondal (30ml)",
+                    "price" : 75
+                },
+                {
+                    "name" : "licor fenet blanca (30ml)",
+                    "price" : 75
+                },
+                {
+                    "name" : "grappa carolina bianca (30ml)",
+                    "price" : 75
+                },
+                {
+                    "name" : "ron legendario añejo (45ml)",
+                    "price" : 90
+                },
+                {
+                    "name" : "ron legendario dorado (45ml)",
+                    "price" : 100
+                },
+                {
+                    "name" : "trago legendario ronse (45ml)",
+                    "price" : 75
+                },
+                {
+                    "name" : "licor de cafe (30ml)",
+                    "price" : 75
+                },
+                {
+                    "name" : "copa de vino blanco (125ml)",
+                    "price" : 145
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

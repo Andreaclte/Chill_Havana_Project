@@ -1,0 +1,287 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Catrina",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.105644168847277, 
+        "longitude": -82.44212999530603
+    },
+    "contact": {
+        "phone_number": "72022803",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "56593890",
+        "facebook": "La Catrina Havana",
+        "instagram": "@lacatrina_havana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["mexicana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "quesadillas con tortillas de trigo con queso",
+                    "price": 1700
+                },
+                {
+                    "name": "quesadillas con queso y champinones",
+                    "price": 2300
+                },
+                {
+                    "name": "quesadillas con queso y chorizo iberico",
+                    "price": 2300
+                },
+                {
+                    "name": "tacos envenenados",
+                    "price": 1900
+                },
+                {
+                    "name": "tacos dorados",
+                    "price": 1900
+                },
+                {
+                    "name": "frijoles refritos",
+                    "price": 1350
+                },
+                {
+                    "name": "ceviche acapulqueño",
+                    "price": 2700
+                },
+                {
+                    "name": "ceviche de atun rojo",
+                    "price": 3950
+                },
+                {
+                    "name": "carpaccio de res",
+                    "price": 4200
+                },
+                {
+                    "name": "carpaccio de pulpo",
+                    "price": 3800
+                },
+                {
+                    "name": "tostada de atun",
+                    "price": 2700
+                },
+                {
+                    "name": "aguachile de camaron",
+                    "price": 2900
+                },
+                {
+                    "name": "trio de ceviches",
+                    "price": 3800
+                },
+                {
+                    "name": "salmorejo la catrina pequena",
+                    "price": 1550
+                },
+                {
+                    "name": "salmorejo la catrina grande",
+                    "price": 2100
+                },
+                {
+                    "name": "guacamole",
+                    "price": 1750
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo en mole",
+                    "price": 3200
+                },
+                {
+                    "name": "albondigas de la abuela",
+                    "price": 2700
+                },
+                {
+                    "name": "quesadillas de huitlacoche",
+                    "price": 1700
+                },
+                {
+                    "name": "chilaquiles",
+                    "price": 2700
+                },
+                {
+                    "name": "pescado del dia",
+                    "price": 3250
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 4600
+                },
+                {
+                    "name": "calamares al ajillo",
+                    "price": 3800
+                },
+                {
+                    "name": "carnitas michoacanas",
+                    "price": 2700
+                },
+                {
+                    "name": "tacos al pastor",
+                    "price": 2700
+                },
+                {
+                    "name": "cochinita pibil",
+                    "price": 2700
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 3100
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 2700
+                },
+                {
+                    "name": "fajitas de res",
+                    "price": 3050
+                },
+                {
+                    "name": "festival de tacos 6",
+                    "price": 4600
+                },
+                {
+                    "name": "festival de tacos 12",
+                    "price": 8900
+                },
+                {
+                    "name": "ensenada de pescado",
+                    "price": 2900
+                },
+                {
+                    "name": "ensenada de camaron",
+                    "price": 3000
+                },
+                {
+                    "name": "gobernador",
+                    "price": 3350
+                },
+                {
+                    "name": "langosta estilo baja california",
+                    "price": 3050
+                },
+                {
+                    "name": "festival de tacos del mar",
+                    "price": 8800
+                },
+                {
+                    "name": "solomillo de res",
+                    "price": 6900
+                },
+                {
+                    "name": "entrecot",
+                    "price": 10900
+                },
+                {
+                    "name": "chuleton",
+                    "price": 24700
+                },
+                {
+                    "name": "tomahawk",
+                    "price": 21000
+                },
+                {
+                    "name": "quesadilla tacos de fajitas de pollo",
+                    "price": 2450
+                },
+                {
+                    "name": "quesadilla tacos de carne de cerdo",
+                    "price": 2300
+                },
+                {
+                    "name": "eperlan de pollo y papas fritas",
+                    "price": 2450
+                },
+                {
+                    "name": "eperlan de pescado y papas fritas",
+                    "price": 2450
+                },
+                {
+                    "name": "bistec de res y papas fritas",
+                    "price": 2900
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "tartas del dia",
+                    "price": 1400
+                },
+                {
+                    "name": "pie de limon",
+                    "price": 1400
+                },
+                {
+                    "name": "tiramisu",
+                    "price": 1400
+                },
+                {
+                    "name": "cheesecake",
+                    "price": 1400
+                },
+                {
+                    "name": "gelato italiano artesanal",
+                    "price": 1200
+                },
+                {
+                    "name": "flan casero",
+                    "price": 1400
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": null
+    }
+}

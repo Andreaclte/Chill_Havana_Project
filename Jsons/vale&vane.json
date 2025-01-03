@@ -1,0 +1,237 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Vale & Vane",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.122304238305055, 
+        "longitude": -82.2959622459654
+    },
+    "contact": {
+        "phone_number": "77947261",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Vale & Vane",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2100"
+        }
+    },
+    "rating": 4.8,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana", "criolla"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1100
+                },
+                {
+                    "name": "bistec cerdo grille",
+                    "price": 1200
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec encebollado",
+                    "price": 1450
+                },
+                {
+                    "name": "costilla cerdo",
+                    "price": 1650
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 1400
+                },
+                {
+                    "name": "uruguayo",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec princesa",
+                    "price": 1720
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 1300
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1000
+                },
+                {
+                    "name": "suprema grille",
+                    "price": 1400
+                },
+                {
+                    "name": "bistec princesa",
+                    "price": 1920
+                },
+                {
+                    "name": "suprema encebollada",
+                    "price": 1650
+                },
+                {
+                    "name": "filete pescado grille",
+                    "price": 1800
+                },
+                {
+                    "name": "camarón grille",
+                    "price": 1800
+                },
+                {
+                    "name": "enchilado camarón",
+                    "price": 1850
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 2500
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1600
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1600
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 350
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 650
+                },
+                {
+                    "name": "pizza familiar",
+                    "price": 2500
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 650
+                },
+                {
+                    "name": "spaghetti con jamon",
+                    "price": 900
+                },
+                {
+                    "name": "spaghetti con chorizo",
+                    "price": 900
+                },
+                {
+                    "name": "spaghetti doble queso",
+                    "price": 920
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 180
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "tigon",
+                    "price": 280
+                },
+                {
+                    "name": "refresco lata",
+                    "price": 250
+                },
+                {
+                    "name": "malta hyper malta",
+                    "price": 270
+                },
+                {
+                    "name": "malta bucanero",
+                    "price": 300
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural (cajita)",
+                    "price": 200
+                },
+                {
+                    "name": "jugo natural (lata)",
+                    "price": 270
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal (lata)",
+                    "price": 280
+                },
+                {
+                    "name": "cerveza cristal (botella)",
+                    "price": 380
+                },
+                {
+                    "name": "cerveza hollandia",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza wild hill",
+                    "price": 250
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

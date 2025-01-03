@@ -1,0 +1,314 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "D'kmino",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.11433698105626, 
+        "longitude": -82.41322840010747
+    },
+    "contact": {
+        "phone_number": "72090437",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "56801787",
+        "facebook": "DKmino",
+        "instagram": "@dkaminocomidasaludable"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "pan con chicharrones carnudos y guacamole",
+                    "price": 1655
+                },
+                {
+                    "name": "pan cubano el guapo",
+                    "price": 3555
+                },
+                {
+                    "name": "croquetas de la abuela",
+                    "price": 1000
+                },
+                {
+                    "name": "frituras de malanga y jamon",
+                    "price": 1700
+                },
+                {
+                    "name": "empanadas de la casa",
+                    "price": 1700
+                },
+                {
+                    "name": "carpaccio de ternera aceite trufas y destellos de parmesano",
+                    "price": 1700
+                },
+                {
+                    "name": "berenjenas a la parmesana",
+                    "price": 1700
+                },
+                {
+                    "name": "quesadilla marinera",
+                    "price": 1700
+                },
+                {
+                    "name": "tostas y tacos de res o camaron",
+                    "price": 1700
+                },
+                {
+                    "name": "ensalada cesar con dados de pollo show",
+                    "price": 1700
+                },
+                {
+                    "name": "chorizo gallego al carbon con queso manchego",
+                    "price": 1700
+                },
+                {
+                    "name": "ceviche de pescado y calamares crujientes",
+                    "price": 1700
+                },
+                {
+                    "name": "steak tartar show",
+                    "price": 1700
+                },
+                {
+                    "name": "calamares a la romana con salsa tartara y aceite de sesamo",
+                    "price": 945
+                },
+                {
+                    "name": "burrata fresca con aceite de truffas tomate y aguacate",
+                    "price": 2100
+                },
+                {
+                    "name": "yaquitori de langosta crujiente con salsa chipotle",
+                    "price": 2255
+                },
+                {
+                    "name": "provoleta con blanqueta tomate y pimiento asado",
+                    "price": 3335
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "tamal relleno con lonjas de cerdo y huevo frito",
+                    "price": 2955
+                },
+                {
+                    "name": "costillas de cerdo caramelizadas con pure de boniato y jengibre",
+                    "price": 4145
+                },
+                {
+                    "name": "fricando de ternera estofado",
+                    "price": 4500
+                },
+                {
+                    "name": "milanesa de pollo con mini ensalada cesar",
+                    "price": 2955
+                },
+                {
+                    "name": "churrasco de filete de cerdo con salsa de guayaba y mostaza dijon",
+                    "price": 2945
+                },
+                {
+                    "name": "pollo entero relleno de arroz moro y bacon",
+                    "price": 2955
+                },
+                {
+                    "name": "solomillo de ternera con papas asadas y crema de piquillos",
+                    "price": 4550
+                },
+                {
+                    "name": "picanha chilena",
+                    "price": 8000
+                },
+                {
+                    "name": "rionada argentina",
+                    "price": 8000
+                },
+                {
+                    "name": "bife de chorizo",
+                    "price": 7255
+                },
+                {
+                    "name": "straccettis con cebolla y jamon",
+                    "price": 3500
+                },
+                {
+                    "name": "filete de pescado con vegetales orientales",
+                    "price": 3755
+                },
+                {
+                    "name": "filete de pescado frito con crujientes de cebolla frita y aderezo",
+                    "price": 2950
+                },
+                {
+                    "name": "gambon argentino al ajillo",
+                    "price": 3555
+                },
+                {
+                    "name": "cerdo asado a lo cubana",
+                    "price": 8500
+                },
+                {
+                    "name": "tamaribs de cerdo 340g con papas fritas",
+                    "price": 4500
+                },
+                {
+                    "name": "zarzuela de mariscos langosta camarón pescado y pulpo",
+                    "price": 5500
+                },
+                {
+                    "name": "tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas",
+                    "price": 7500
+                },
+                {
+                    "name": "punta de filete al ajillo con mostaza",
+                    "price": 4550
+                },
+                {
+                    "name": "pastas largas y cortas a la piedra",
+                    "price": 3100
+                },
+                {
+                    "name": "pasta alfredo",
+                    "price": 2950
+                },
+                {
+                    "name": "pasta aglio e olio con dados de tomate",
+                    "price": 2755
+                },
+                {
+                    "name": "real pizza italiana 33 cm",
+                    "price": 2300
+                },
+                {
+                    "name": "pizza imperial",
+                    "price": 3655
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamon barra",
+                    "price": 500
+                },
+                {
+                    "name": "jamon serrano",
+                    "price": 650
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 500
+                },
+                {
+                    "name": "queso parmesano",
+                    "price": 800
+                },
+                {
+                    "name": "bacon",
+                    "price": 500
+                },
+                {
+                    "name": "pepperoni",
+                    "price": 550
+                },
+                {
+                    "name": "chorizo asturiano",
+                    "price": 550
+                },
+                {
+                    "name": "camaron",
+                    "price": 600
+                },
+                {
+                    "name": "huevo",
+                    "price": 400
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 500
+                },
+                {
+                    "name": "cebolla",
+                    "price": 450
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "cookies recien horneadas con helado y cremas",
+                    "price": 2000
+                },
+                {
+                    "name": "cheesecake",
+                    "price": 2000
+                },
+                {
+                    "name": "tres leche con fanguito y helado",
+                    "price": 2000
+                },
+                {
+                    "name": "brownie de nueces y helado de pistacho",
+                    "price": 2000
+                },
+                {
+                    "name": "es mas que un flan",
+                    "price": 2000
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

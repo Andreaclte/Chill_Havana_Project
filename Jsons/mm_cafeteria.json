@@ -1,0 +1,363 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "MM Cafeteria",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.089493726076963, 
+        "longitude": -82.42170004354693
+    },
+    "contact": {
+        "phone_number": "72611382",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Cafetería MM",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["mexicana", "criolla", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "papas fritas",
+                    "price": 650
+                },
+                {
+                    "name": "croquetas",
+                    "price": 550
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 550
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 650
+                },
+                {
+                    "name": "ensalada fria de jamon",
+                    "price": 800
+                },
+                {
+                    "name": "ensalada fria de atun",
+                    "price": 900
+                },
+                {
+                    "name": "fajitas de pechuga salteada",
+                    "price": 1200
+                },
+                {
+                    "name": "fajitas de pechuga empanada",
+                    "price": 1450
+                },
+                {
+                    "name": "fajitas de cerdo salteadas",
+                    "price": 1300
+                },
+                {
+                    "name": "fajitas de cerdo empanada",
+                    "price": 1350
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1350
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 2100
+                },
+                {
+                    "name": "taco de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "taco de camaron",
+                    "price": 1400
+                },
+                {
+                    "name": "taco de pollo",
+                    "price": 1100
+                },
+                {
+                    "name": "taco de res",
+                    "price": 1300
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1400
+                },
+                {
+                    "name": "cerdo bistec empanizado",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec de cerdo uruguayo",
+                    "price": 1950
+                },
+                {
+                    "name": "masa de cerdo salteada",
+                    "price": 1350
+                },
+                {
+                    "name": "lomo de cerdo",
+                    "price": 1500
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "bistec de pollo gordon blue",
+                    "price": 1900
+                },
+                {
+                    "name": "bistec de pechuga gordon blue",
+                    "price": 1900
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 1500
+                },
+                {
+                    "name": "pechuga de pollo empanada",
+                    "price": 1400
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1900
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1900
+                },
+                {
+                    "name": "pescado grille",
+                    "price": 1500
+                },
+                {
+                    "name": "pescado empanizado",
+                    "price": 1900
+                },
+                {
+                    "name": "enchilado de camarón",
+                    "price": 1400
+                },
+                {
+                    "name": "camarón al ajillo",
+                    "price": 1700
+                },
+                {
+                    "name": "camarón empanado",
+                    "price": 2000
+                },
+                {
+                    "name": "canciller 190grs",
+                    "price": 2000
+                },
+                {
+                    "name": "langosta",
+                    "price": 2100
+                },
+                {
+                    "name": "cazuela de mariscos",
+                    "price": 2100
+                },
+                {
+                    "name": "canciller 180 grs",
+                    "price": 2000
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200
+                },
+                {
+                    "name": "arroz congrí",
+                    "price": 300
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1550
+                },
+                {
+                    "name": "arroz imperial",
+                    "price": 1650
+                },
+                {
+                    "name": "paella",
+                    "price": 2100
+                },
+                {
+                    "name": "arroz frito de cerdo, pollo y mejillon",
+                    "price": 1450
+                },
+                {
+                    "name": "pizzas napolitanas, 32 cm",
+                    "price": 750
+                },
+                {
+                    "name": "pizzas jamon",
+                    "price": 1100
+                },
+                {
+                    "name": "pizzas bacón",
+                    "price": 1650
+                },
+                {
+                    "name": "pizzas pimiento",
+                    "price": 1050
+                },
+                {
+                    "name": "pizzas cebolla",
+                    "price": 950
+                },
+                {
+                    "name": "pizzas hawaiana",
+                    "price": 1350
+                },
+                {
+                    "name": "pizzas atún",
+                    "price": 1650
+                },
+                {
+                    "name": "pizzas camarón",
+                    "price": 1350
+                },
+                {
+                    "name": "pizzas ropa vieja",
+                    "price": 1500
+                },
+                {
+                    "name": "pizzas de chorizo",
+                    "price": 1100
+                },
+                {
+                    "name": "pizzas mm",
+                    "price": 1800
+                },
+                {
+                    "name": "lasagna boloñesa",
+                    "price": 1700
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 700
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helado cid",
+                    "price": 850
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 130
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco santa",
+                    "price": 200
+                },
+                {
+                    "name": "sprite",
+                    "price": 450
+                },
+                {
+                    "name": "santa isabel",
+                    "price": 250
+                },
+                {
+                    "name": "energizante",
+                    "price": 260
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo lata",
+                    "price": 265
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cristal v",
+                    "price": 245
+                },
+                {
+                    "name": "cristal b",
+                    "price": 200
+                },
+                {
+                    "name": "bucanero",
+                    "price": 240
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

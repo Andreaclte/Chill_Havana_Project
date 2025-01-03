@@ -1,0 +1,193 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Pal'Karajo",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.03093446114541, 
+        "longitude": -82.26395872798486
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "63436878",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "chicharrita de boniato",
+                    "price": 200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pan pal'karajo",
+                    "price": 790
+                },
+                {
+                    "name": "pan con lechón",
+                    "price": 450
+                },
+                {
+                    "name": "pan con jamón",
+                    "price": 300
+                },
+                {
+                    "name": "pan con chorizo",
+                    "price": 250
+                },
+                {
+                    "name": "pan con jamón y chorizo",
+                    "price": 400
+                },
+                {
+                    "name": "tacos de cerdo mechados",
+                    "price": 890
+                },
+                {
+                    "name": "tacos de cerdo estofados",
+                    "price": 990
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de mango",
+                    "price": 200
+                },
+                {
+                    "name": "jugo de piña",
+                    "price": 200
+                },
+                {
+                    "name": "piña colada",
+                    "price": 400
+                },
+                {
+                    "name": "limonada",
+                    "price": 400
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de mango",
+                    "price": 380
+                },
+                {
+                    "name": "batido de mamey",
+                    "price": 400
+                },
+                {
+                    "name": "batido de trigo",
+                    "price": 380
+                },
+                {
+                    "name": "batido de maní",
+                    "price": 400
+                },
+                {
+                    "name": "batido de maní con chocolate",
+                    "price": 450
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "michelada con cristal",
+                    "price": 550
+                },
+                {
+                    "name": "chelada con cristal",
+                    "price": 550
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 100
+                },
+                {
+                    "name": "cortado",
+                    "price": 150
+                },
+                {
+                    "name": "capuccino",
+                    "price": 300
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 400
+                },
+                {
+                    "name": "bombón",
+                    "price": 300
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

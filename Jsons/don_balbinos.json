@@ -1,0 +1,354 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Don Balbino's",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.096667207456722, 
+        "longitude": -82.32652150730858
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53249517",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0830",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0830",
+            "close": "2300"
+        }
+    },
+    "rating": 1.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "internacional"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "bolitas de queso",
+                    "price": 950
+                },
+                {
+                    "name": "croquetas especiales de la casa",
+                    "price": 1200
+                },
+                {
+                    "name": "croquetas del día",
+                    "price": 900
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1100
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 800
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 1500
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 850
+                },
+                {
+                    "name": "tabla don balbino",
+                    "price": 3000
+                },
+                {
+                    "name": "tabla de vegetales",
+                    "price": 1400
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1500
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 900
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa full pork",
+                    "price": 800
+                },
+                {
+                    "name": "hamburguesa original beef balbinos",
+                    "price": 900
+                },
+                {
+                    "name": "hamburguesa pollo crispy",
+                    "price": 850
+                },
+                {
+                    "name": "pan con lechon criollo",
+                    "price": 850
+                },
+                {
+                    "name": "sandwich balbinos",
+                    "price": 1000
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 900
+                },
+                {
+                    "name": "sandwich de pollo",
+                    "price": 850
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 750
+                },
+                {
+                    "name": "sandwich qbano",
+                    "price": 950
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1500
+                },
+                {
+                    "name": "fabada",
+                    "price": 2900
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 2200
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec de cerdo encebollado",
+                    "price": 2300
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 2500
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 2600
+                },
+                {
+                    "name": "fricasé de cerdo a la habanera",
+                    "price": 2650
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2700
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2550
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 2400
+                },
+                {
+                    "name": "estofado de res",
+                    "price": 2700
+                },
+                {
+                    "name": "punta de filete",
+                    "price": 2500
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2600
+                },
+                {
+                    "name": "camarón grille",
+                    "price": 2400
+                },
+                {
+                    "name": "enchilado de camarón",
+                    "price": 2800
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 2800
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 2550
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 2150
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti bolognesa",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti don balbino",
+                    "price": 1300
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 250
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malta importada",
+                    "price": 400
+                },
+                {
+                    "name": "malta morena",
+                    "price": 250
+                },
+                {
+                    "name": "malta nacional",
+                    "price": 500
+                },
+                {
+                    "name": "malteada",
+                    "price": 300
+                },
+                {
+                    "name": "redbull",
+                    "price": 250
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 450
+                },
+                {
+                    "name": "refresco nacional",
+                    "price": 500
+                },
+                {
+                    "name": "tigon",
+                    "price": 400
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural de frutas",
+                    "price": 400
+                },
+                {
+                    "name": "jugo de lata",
+                    "price": 400
+                },
+                {
+                    "name": "kermato",
+                    "price": 400
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas",
+                    "price": 550
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 700
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 930
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza dispensada",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza heineken",
+                    "price": 500
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 350
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 350
+                },
+                {
+                    "name": "chelada",
+                    "price": 250
+                },
+                {
+                    "name": "michelada",
+                    "price": 300
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

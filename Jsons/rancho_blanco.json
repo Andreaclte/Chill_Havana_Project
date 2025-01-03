@@ -1,0 +1,501 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Rancho Blanco",
+    "district": "Boyeros",
+    "coordinates": {
+        "latitude": 22.967607839818697,
+        "longitude": -82.38841192208918
+    },
+    "contact": {
+        "phone_number": "76839964",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Rancho Blanco Restaurant",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "huevo frito con bacon",
+                    "price": 464
+                },
+                {
+                    "name": "tortilla natural",
+                    "price": 304
+                },
+                {
+                    "name": "tostada de pan",
+                    "price": 304
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "eperlan de pescado en salsa rosa",
+                    "price": 800
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 640
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 640
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 800
+                },
+                {
+                    "name": "entrante mixto",
+                    "price": 2544
+                },
+                {
+                    "name": "bruschetta",
+                    "price": 480
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 1136
+                },
+                {
+                    "name": "sopa de marisco",
+                    "price": 1584
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 624
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 624
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 624
+                },
+                {
+                    "name": "ceviche de pescado",
+                    "price": 1584
+                },
+                {
+                    "name": "entremes de jamon, queso, chorizo y aceitunas",
+                    "price": 1600
+                },
+                {
+                    "name": "coctel de frutas",
+                    "price": 301
+                },
+                {
+                    "name": "ensalada de frutas",
+                    "price": 400
+                },
+                {
+                    "name": "ensalada fria italiana",
+                    "price": 576
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "uruguayo rancho blanco",
+                    "price": 2224
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1040
+                },
+                {
+                    "name": "bistec empanizado",
+                    "price": 1216
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 1264
+                },
+                {
+                    "name": "lonjas de cerdo",
+                    "price": 1680
+                },
+                {
+                    "name": "pincho san jacobo",
+                    "price": 1920
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 1824
+                },
+                {
+                    "name": "lomo de cerdo ahumado",
+                    "price": 1760
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 2080
+                },
+                {
+                    "name": "pollo frito a la criolla",
+                    "price": 1232
+                },
+                {
+                    "name": "pollo golden blue",
+                    "price": 1872
+                },
+                {
+                    "name": "pechuga de pollo grillada",
+                    "price": 2096
+                },
+                {
+                    "name": "suprema de pollo",
+                    "price": 2224
+                },
+                {
+                    "name": "arroz amarillo con pollo",
+                    "price": 2224
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 1760
+                },
+                {
+                    "name": "filete de pescado empanizado",
+                    "price": 1840
+                },
+                {
+                    "name": "filete de pescado canciller",
+                    "price": 1904
+                },
+                {
+                    "name": "filete de pescado rebosado",
+                    "price": 2208
+                },
+                {
+                    "name": "filete de pescado jombil",
+                    "price": 2320
+                },
+                {
+                    "name": "filete especial rancho blanco",
+                    "price": 2416
+                },
+                {
+                    "name": "camarón al ajillo",
+                    "price": 1888
+                },
+                {
+                    "name": "camarón rebosado",
+                    "price": 1904
+                },
+                {
+                    "name": "camarón enchilado",
+                    "price": 2000
+                },
+                {
+                    "name": "bistec de palomilla grillada",
+                    "price": 1776
+                },
+                {
+                    "name": "bistec de palomilla empanizado",
+                    "price": 1904
+                },
+                {
+                    "name": "uruguayo de res",
+                    "price": 2032
+                },
+                {
+                    "name": "uruguayo rancho blanco",
+                    "price": 2416
+                },
+                {
+                    "name": "corona de ropa vieja",
+                    "price": 2224
+                },
+                {
+                    "name": "chilindron de cordero",
+                    "price": 2320
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2224
+                },
+                {
+                    "name": "picadillo de res",
+                    "price": 1904
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 4784
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 480
+                },
+                {
+                    "name": "sandwich club",
+                    "price": 720
+                },
+                {
+                    "name": "sandwich rancho blanco",
+                    "price": 800
+                },
+                {
+                    "name": "bocadito de atún",
+                    "price": 944
+                },
+                {
+                    "name": "pan con tortilla",
+                    "price": 240
+                },
+                {
+                    "name": "pan con puerco",
+                    "price": 304
+                },
+                {
+                    "name": "bocadito de jamón y queso",
+                    "price": 240
+                },
+                {
+                    "name": "hamburguesa de res",
+                    "price": 304
+                },
+                {
+                    "name": "hamburguesa de cerdo",
+                    "price": 208
+                },
+                {
+                    "name": "hamburguesa king",
+                    "price": 624
+                },
+                {
+                    "name": "pizza small napolitana",
+                    "price": 208
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 304
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 304
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 464
+                },
+                {
+                    "name": "pizza medium napolitana",
+                    "price": 624
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 784
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 784
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1136
+                },
+                {
+                    "name": "pizza mixta",
+                    "price": 1600
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 400
+                },
+                {
+                    "name": "spaghetti de jamón",
+                    "price": 496
+                },
+                {
+                    "name": "spaghetti a la boloñesa",
+                    "price": 816
+                },
+                {
+                    "name": "lasagna del día",
+                    "price": 944
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helados montados",
+                    "price": 480
+                },
+                {
+                    "name": "copa lolita",
+                    "price": 800
+                },
+                {
+                    "name": "cake a la moda",
+                    "price": 800
+                },
+                {
+                    "name": "dulces de la casa",
+                    "price": 304
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 320
+                },
+                {
+                    "name": "agua con gas",
+                    "price": 352
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos nacionales",
+                    "price": 320
+                },
+                {
+                    "name": "refrescos importados",
+                    "price": 480
+                },
+                {
+                    "name": "malta",
+                    "price": 480
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kermato",
+                    "price": 480
+                },
+                {
+                    "name": "piña colada",
+                    "price": 640
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 160
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batidos de frutas",
+                    "price": 208
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "sorbete de helado",
+                    "price": 400
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal",
+                    "price": 576
+                },
+                {
+                    "name": "cerveza bucanero",
+                    "price": 576
+                },
+                {
+                    "name": "cerveza heineken",
+                    "price": 576
+                },
+                {
+                    "name": "cerveza sol",
+                    "price": 576
+                },
+                {
+                    "name": "cerveza presidente",
+                    "price": 480
+                },
+                {
+                    "name": "cerveza cacique",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza holandesa",
+                    "price": 640
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "leche con café",
+                    "price": 304
+                },
+                {
+                    "name": "leche con chocolate",
+                    "price": 336
+                },
+                {
+                    "name": "café expreso",
+                    "price": 320
+                },
+                {
+                    "name": "café cortado",
+                    "price": 416
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

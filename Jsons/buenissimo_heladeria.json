@@ -1,0 +1,158 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Bueníssimo heladería",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.143218246225477, 
+        "longitude": -82.37817617833404
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://buennissimo.com/",
+        "whatsapp": "54047156",
+        "facebook": false,
+        "instagram": "@buenissimo.heladeria"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0930",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0930",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0930",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "italiana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": false,
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "1/2 kg de helado",
+                    "price": 1800
+                },
+                {
+                    "name": "1 kg de helado",
+                    "price": 3600
+                },
+                {
+                    "name": "cono (1bola 95gr)",
+                    "price": 280
+                },
+                {
+                    "name": "cono doble",
+                    "price": 560
+                },
+                {
+                    "name": "cono maxi",
+                    "price": 850
+                },
+                {
+                    "name": "copa buenissimo",
+                    "price": 1500
+                },
+                {
+                    "name": "copa family",
+                    "price": 2100
+                },
+                {
+                    "name": "copa firenze",
+                    "price": 1200
+                },
+                {
+                    "name": "copa habana",
+                    "price": 620
+                },
+                {
+                    "name": "copa roma",
+                    "price": 950
+                },
+                {
+                    "name": "copeta 1 bola",
+                    "price": 300
+                },
+                {
+                    "name": "copeta 2 sabores",
+                    "price": 630
+                },
+                {
+                    "name": "copeta 3 sabores",
+                    "price": 920
+                },
+                {
+                    "name": "copeta 4 sabores",
+                    "price": 1200
+                },
+                {
+                    "name": "tulipan",
+                    "price": 1300
+                },
+                {
+                    "name": "tulipan max",
+                    "price": 1500
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido",
+                    "price": 900
+                },
+                {
+                    "name": "batido maxi",
+                    "price": 1000
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Tropikana",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.09846432898506, 
+        "longitude": -82.42637763877254
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page":false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tostones",
+                    "price": 350
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 450
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 450
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 450
+                },
+                {
+                    "name": "crema de jamon",
+                    "price": 450
+                },
+                {
+                    "name": "consome",
+                    "price": 450
+                },
+                {
+                    "name": "eperlan",
+                    "price": 500
+                },
+                {
+                    "name": "croquetas",
+                    "price": 500
+                },
+                {
+                    "name": "picadera de la casa",
+                    "price": 100
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "super hamburguesa",
+                    "price": 560
+                },
+                {
+                    "name": "pan con jamon y queso",
+                    "price": 280
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec de cerdo a la milanesa",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 1000
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1000
+                },
+                {
+                    "name": "pollo a la milanesa",
+                    "price": 1500
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1550
+                },
+                {
+                    "name": "canciller",
+                    "price": 2500
+                },
+                {
+                    "name": "pescado entero",
+                    "price": 2000
+                },
+                {
+                    "name": "rueda de atun",
+                    "price": 1700
+                },
+                {
+                    "name": "camarones",
+                    "price": 1700
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 1500
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 700
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 750
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 800
+                },
+                {
+                    "name": "pizza tropicana",
+                    "price": 950
+                },
+                {
+                    "name": "spaghetti a la carbonara",
+                    "price": 750
+                },
+                {
+                    "name": "spaghetti queso gouda",
+                    "price": 650
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helado gusto 1l",
+                    "price": 1000
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

@@ -1,0 +1,432 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Mirador de Acosta",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.089222353439702, 
+        "longitude": -82.36048697833665
+    },
+    "contact": {
+        "phone_number": "76984009",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Mirador de Acosta",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2345"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2345"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "crema de queso",
+                    "price": 600
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 630
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 690
+                },
+                {
+                    "name": "picadera mirador",
+                    "price": 1500
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 1400
+                },
+                {
+                    "name": "coctel de langosta",
+                    "price": 1650
+                },
+                {
+                    "name": "eperlán de pescado",
+                    "price": 1100
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 1320
+                },
+                {
+                    "name": "tamal en cazuela",
+                    "price": 1320
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo frito",
+                    "price": 1200
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 1350
+                },
+                {
+                    "name": "pollo golden blue",
+                    "price": 2500
+                },
+                {
+                    "name": "bistec de cerdo grillé",
+                    "price": 1400
+                },
+                {
+                    "name": "lomo ahumado de cerdo",
+                    "price": 1700
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1540
+                },
+                {
+                    "name": "fricasé de cerdo",
+                    "price": 1950
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2800
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1900
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 2000
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 2420
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1650
+                },
+                {
+                    "name": "filete de pescado grillé",
+                    "price": 1760
+                },
+                {
+                    "name": "filete de pescado jonville",
+                    "price": 2090
+                },
+                {
+                    "name": "rueda de pescado",
+                    "price": 2090
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 3000
+                },
+                {
+                    "name": "camarón al gusto",
+                    "price": 2200
+                },
+                {
+                    "name": "langosta en sus variedades",
+                    "price": 2600
+                },
+                {
+                    "name": "langosta thermidor",
+                    "price": 2750
+                },
+                {
+                    "name": "grillada mirador",
+                    "price": 3600
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 1210
+                },
+                {
+                    "name": "pizza de pimientos",
+                    "price": 1210
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1210
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza de hawaiana",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza de atún",
+                    "price": 1760
+                },
+                {
+                    "name": "pizza de camarones",
+                    "price": 1800
+                },
+                {
+                    "name": "pizza mirador",
+                    "price": 1950
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1280
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 1100
+                },
+                {
+                    "name": "spaghetti de jamón",
+                    "price": 1100
+                },
+                {
+                    "name": "amatriciana",
+                    "price": 1100
+                },
+                {
+                    "name": "frutti di mare",
+                    "price": 2400
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "piña",
+                    "price": 150
+                },
+                {
+                    "name": "cebolla / pimientos",
+                    "price": 170
+                },
+                {
+                    "name": "aceitunas / jamón / chorizo",
+                    "price": 250
+                },
+                {
+                    "name": "champiñón",
+                    "price": 270
+                },
+                {
+                    "name": "gouda / atún",
+                    "price": 350
+                },
+                {
+                    "name": "camarón",
+                    "price": 450
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 250
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 300
+                },
+                {
+                    "name": "arroz pilaf",
+                    "price": 400
+                },
+                {
+                    "name": "vianda hervida",
+                    "price": 300
+                },
+                {
+                    "name": "ensalada mixta",
+                    "price": 300
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 320
+                },
+                {
+                    "name": "tostones tradicionales",
+                    "price": 400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "postre del dia",
+                    "price": 650
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 120
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "energizante",
+                    "price": 200
+                },
+                {
+                    "name": "refresco enlatado",
+                    "price": 280
+                },
+                {
+                    "name": "malta nacional",
+                    "price": 250
+                },
+                {
+                    "name": "malta importada",
+                    "price": 290
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kermato",
+                    "price": 430
+                },
+                {
+                    "name": "jugo de lata",
+                    "price": 300
+                },
+                {
+                    "name": "jugo natural",
+                    "price": 200
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas",
+                    "price": 250
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 300
+                },
+                {
+                    "name": "ron h.c. 3 años",
+                    "price": 360
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 320
+                },
+                {
+                    "name": "ron h.c. 7 años",
+                    "price": 600
+                },
+                {
+                    "name": "cerveza corona y heineken",
+                    "price": 450
+                },
+                {
+                    "name": "ron h.c especial",
+                    "price": 360
+                },
+                {
+                    "name": "ron h.c. reserva",
+                    "price": 530
+                },
+                {
+                    "name": "selección de maestros",
+                    "price": 1140
+                },
+                {
+                    "name": "ron santiago 8 años",
+                    "price": 550
+                },
+                {
+                    "name": "tequila olmeca blanco",
+                    "price": 660
+                },
+                {
+                    "name": "tequila olmeca reposado",
+                    "price": 720
+                },
+                {
+                    "name": "vodka absolut",
+                    "price": 470
+                },
+                {
+                    "name": "vodka absolut mandarin",
+                    "price": 470
+                },
+                {
+                    "name": "ginebra bombay sapphire",
+                    "price": 470
+                },
+                {
+                    "name": "whisky jb",
+                    "price": 690
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café expresso",
+                    "price": 250
+                },
+                {
+                    "name": "café cortadito",
+                    "price": 300
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

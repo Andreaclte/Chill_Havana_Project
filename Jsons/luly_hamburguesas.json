@@ -1,0 +1,145 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Luly Hamburguesas",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.093509305513987, 
+        "longitude": -82.36480264180305
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52823877",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa especial",
+                    "price": 1000
+                },
+                {
+                    "name": "hamburguesa de jamón y queso",
+                    "price": 680
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 480
+                },
+                {
+                    "name": "sandwich jamón y queso",
+                    "price": 610
+                },
+                {
+                    "name": "medianoche especial",
+                    "price": 470
+                },
+                {
+                    "name": "medianoche especial",
+                    "price": 220
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 100
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "pepoi cola",
+                    "price": 210
+                },
+                {
+                    "name": "limón",
+                    "price": 270
+                },
+                {
+                    "name": "naranja",
+                    "price": 270
+                },
+                {
+                    "name": "malta turbo",
+                    "price": 300
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kermato",
+                    "price": 460
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza king",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza carstal",
+                    "price": 300
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

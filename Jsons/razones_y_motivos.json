@@ -1,0 +1,375 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Razones y motivos",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.14334346067267, 
+        "longitude": -82.39569989367574
+    },
+    "contact": {
+        "phone_number": "78328732",
+        "e-mail": false,
+        "web_page": "https://linktr.ee/razonesymotivos",
+        "whatsapp": false,
+        "facebook": "Restaurante Razones y Motivos",
+        "instagram": "@razones_y_motivos"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1200",
+            "close": "2330"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2330"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2330"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2330"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2330"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2330"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2330"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                { 
+                    "name": "fritura de malanga", 
+                    "price": 630 
+                },
+                { 
+                    "name": "croquetas de la casa (5 unidades)", 
+                    "price": 650 
+                },
+                { 
+                    "name": "coctel de mariscos", 
+                    "price": 1380 
+                },
+                { 
+                    "name": "cesta de pan", 
+                    "price": 500 
+                },
+                { 
+                    "name": "eperlán de pescado", 
+                    "price": 1900 
+                },
+                { 
+                    "name": "escabeche de pescado", 
+                    "price": 1900 
+                },
+                { 
+                    "name": "entrante razones y motivos", 
+                    "price": 1750 
+                },
+                { 
+                    "name": "tostones rellenos de jamón y queso (5 unidades)", 
+                    "price": 1100 
+                },
+                { 
+                    "name": "tostones rellenos con atún, cebolla y mayonesa (5 unidades)", 
+                    "price": 1200 
+                },
+                { 
+                    "name": "chiviricos con salsa al gusto", 
+                    "price": 600 
+                },
+                { 
+                    "name": "ensalada fría de pollo o jamón", 
+                    "price": 1080 
+                },
+                { 
+                    "name": "garbanzos fritos", 
+                    "price": 1400 
+                },
+                { 
+                    "name": "bolitas de queso con salsa al gusto (5 unidades)", 
+                    "price": 1100 
+                },
+                { 
+                    "name": "baguette de jamón y queso", 
+                    "price": 1150 
+                },
+                { 
+                    "name": "baguette de atún", 
+                    "price": 1250 
+                },
+                { 
+                    "name": "baguette de pollo", 
+                    "price": 1040 
+                },
+                { 
+                    "name": "crema de calabaza",  
+                    "price": 450  
+                },
+                { 
+                    "name": "sopa china especial",  
+                    "price": 880  
+                },
+                { 
+                    "name": "sopa de pollo",  
+                    "price": 600  
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { 
+                    "name": "pizza con tomate y queso", 
+                    "price": 1380 
+                },
+                { 
+                    "name": "pizza razones", 
+                    "price": 2190 
+                },
+                { 
+                    "name": "pollo asado al carbón", 
+                    "price": 1750 
+                },
+                { 
+                    "name": "suprema de pollo grille", 
+                    "price": 1790 
+                },
+                { 
+                    "name": "suprema de pollo empanada", 
+                    "price": 2000 
+                },
+                { 
+                    "name": "pollo gordon blue", 
+                    "price": 2350 
+                },
+                { 
+                    "name": "pollo grille con camarones y punta de ajo", 
+                    "price": 2400 
+                },
+                { 
+                    "name": "bistec de res encebollado", 
+                    "price": 2350 
+                },
+                { 
+                    "name": "ropa vieja de res", 
+                    "price": 2190 
+                },
+                { 
+                    "name": "bistec de cerdo grille encebollado", 
+                    "price": 1950 
+                },
+                { 
+                    "name": "escalope de cerdo", 
+                    "price": 2170 
+                },
+                { 
+                    "name": "bistec de cerdo uruguayo", 
+                    "price": 2570 
+                },
+                { 
+                    "name": "lomo de cerdo ahumado con salsa al gusto", 
+                    "price": 2000 
+                },
+                { 
+                    "name": "chuletas de cerdo asadas", 
+                    "price": 2000 
+                },
+                { 
+                    "name": "costillas de cerdo asadas con salsa barbacoa", 
+                    "price": 2700 
+                },
+                { 
+                    "name": "masas de cerdo fritas", 
+                    "price": 2170 
+                },
+                { 
+                    "name": "filete de pescado grille", 
+                    "price": 2190 
+                },
+                { 
+                    "name": "filete de pescado grille con camarones y punta de ajo", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "filete de pescado canciller", 
+                    "price": 2800 
+                },
+                { 
+                    "name": "filete de pescado sofía", 
+                    "price": 2350 
+                },
+                { 
+                    "name": "filete de pescado con salsa de mariscos", 
+                    "price": 2500 
+                },
+                { 
+                    "name": "filete de pescado joinville", 
+                    "price": 2950 
+                },
+                { 
+                    "name": "camarones grillé", 
+                    "price": 2350 
+                },
+                { 
+                    "name": "camarones salteados con vegetales", 
+                    "price": 2400 
+                },
+                { 
+                    "name": "camarones empanados con salsa al gusto", 
+                    "price": 2650 
+                },
+                { 
+                    "name": "camarones enchilados", 
+                    "price": 2550 
+                },
+                { 
+                    "name": "camarón batabanó", 
+                    "price": 2950 
+                },
+                { 
+                    "name": "arroz primavera", 
+                    "price": 950 
+                },
+                { 
+                    "name": "arroz frito especial", 
+                    "price": 1450 
+                },
+                { 
+                    "name": "arroz salteado", 
+                    "price": 1280 
+                },
+                { 
+                    "name": "lasaña de jamón", 
+                    "price": 1280 
+                },
+                { 
+                    "name": "spaghetti con tomate y queso", 
+                    "price": 1100 
+                },
+                { 
+                    "name": "spaghetti a la carbonara", 
+                    "price": 1650 
+                },
+                { 
+                    "name": "spaghetti salteados con verduras al estilo chino", 
+                    "price": 1280  
+                },
+                { 
+                    "name": "spaghetti al pesto",  
+                    "price": 1350  
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                { 
+                    "name": "piña", 
+                    "price": 450 
+                },
+                { 
+                    "name": "cebolla", 
+                    "price": 460 
+                },
+                { 
+                    "name": "ají pimiento", 
+                    "price": 450 
+                },
+                { 
+                    "name": "jamón", 
+                    "price": 550 
+                },
+                { 
+                    "name": "queso", 
+                    "price": 660 
+                },
+                { 
+                    "name": "atún", 
+                    "price": 650 
+                },
+                { 
+                    "name": "chorizo", 
+                    "price": 550 
+                },
+                { 
+                    "name": "aceitunas", 
+                    "price": 590 
+                },
+                { 
+                    "name": "camarón", 
+                    "price": 950 
+                },
+                { 
+                    "name": "champiñón", 
+                    "price": 720 
+                },
+                { 
+                    "name": "ropa vieja", 
+                    "price": 990 
+                },
+                { 
+                    "name": "arroz blanco", 
+                    "price": 580 
+                },
+                { 
+                    "name": "arroz moro", 
+                    "price": 620 
+                },
+                { 
+                    "name": "frijoles negros dormidos", 
+                    "price": 620 
+                },
+                { 
+                    "name": "viandas hervidas con mojo criollo", 
+                    "price": 630 
+                },
+                { 
+                    "name": "vianda frita", 
+                    "price": 640 
+                },
+                { 
+                    "name": "ensalada de vegetales frescos", 
+                    "price": 630 
+                },
+                { 
+                    "name": "puré de malanga", 
+                    "price": 640 
+                },
+                { 
+                    "name": "vegetales salteados", 
+                    "price": 640 
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

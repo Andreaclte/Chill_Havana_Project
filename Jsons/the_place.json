@@ -1,0 +1,296 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "The Place",
+    "district": "Boyeros",
+    "coordinates": {
+        "latitude": 23.05191156648548, 
+        "longitude": -82.38229337842735
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "1800"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 600
+                },
+                {
+                    "name": "eperlan",
+                    "price": 900
+                },
+                {
+                    "name": "tostones",
+                    "price": 500
+                },
+                {
+                    "name": "frituras de malanga con miel",
+                    "price": 500
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 1950
+                },
+                {
+                    "name": "sopon imperial",
+                    "price": 1300
+                },
+                {
+                    "name": "picadera the place",
+                    "price": 2300
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 1400
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1200
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 1800
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 1700
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 1700
+                },
+                {
+                    "name": "chilindron de cordero",
+                    "price": 1950
+                },
+                {
+                    "name": "ropa vieja a la criolla",
+                    "price": 1500
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 1800
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1750
+                },
+                {
+                    "name": "chuleton",
+                    "price": 3000
+                },
+                {
+                    "name": "pescado al plato",
+                    "price": 1500
+                },
+                {
+                    "name": "canciller",
+                    "price": 1800
+                },
+                {
+                    "name": "langosta en sus variedades",
+                    "price": 1950
+                },
+                {
+                    "name": "camaron",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 800
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 800
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua",
+                    "price" : 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "malta bucanero",
+                    "price" : 300
+                },
+                {
+                    "name" : "refresco",
+                    "price" : 290
+                },
+                {
+                    "name": "energizante",
+                    "price": 330
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugos",
+                    "price" : 260
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "jarra de cerveza cristal",
+                    "price" : 300
+                },
+                {
+                    "name" : "termo de cerveza cristal",
+                    "price" : 2000
+                },
+                {
+                    "name": "cerveza cristal",
+                    "price": 300
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza heniken",
+                    "price": 380
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 500
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 500
+                },
+                {
+                    "name": "mojito",
+                    "price": 520
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 800
+                },
+                {
+                    "name": "sangria",
+                    "price": 600
+                },
+                {
+                    "name": "michelada",
+                    "price": 900
+                },
+                {
+                    "name": "chelada",
+                    "price": 500
+                },
+                {
+                    "name": "margarita",
+                    "price": 550
+                },
+                {
+                    "name": "red label",
+                    "price": 850
+                },
+                {
+                    "name": "old parr",
+                    "price": 950
+                },
+                {
+                    "name": "jameson",
+                    "price": 600
+                },
+                {
+                    "name": "tequila",
+                    "price": 450
+                },
+                {
+                    "name": "tequila reposado",
+                    "price": 500
+                }, 
+                {
+                    "name": "seleccion de maestro",
+                    "price": 1150
+                },
+                {
+                    "name": "pacto navio",
+                    "price": 1150
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

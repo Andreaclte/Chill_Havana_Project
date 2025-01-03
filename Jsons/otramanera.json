@@ -1,0 +1,230 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Otra manera",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.11917180897718, 
+        "longitude": -82.41453997132663
+    },
+    "contact": {
+        "phone_number": "72038315",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Otramaneralahabana",
+        "instagram": "@otramanera.lahabana"
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1230",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1230",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1230",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1230",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1230",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "internacional", "española", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ceviche del dia",
+                    "price": 2400
+                },
+                {
+                    "name": "bniato marinado y frito con ali oli de cachucha",
+                    "price": 2050
+                },
+                {
+                    "name": "falafel con salsa tzatziki",
+                    "price": 1900
+                },
+                {
+                    "name": "croquetas de chuleton de cerdo al carbon",
+                    "price": 2050
+                },
+                {
+                    "name": "nachos mexicanos con picadillo de cerdo picanton",
+                    "price": 2400
+                },
+                {
+                    "name": "tacos de lechon asado",
+                    "price": 2400
+                },
+                {
+                    "name": "huevos de codorniz trufados al horno, con papas y chorizo frito",
+                    "price": 2050
+                },
+                {
+                    "name": "mini hamburguesas de cordero con queso de cabra",
+                    "price": 3200
+                },
+                {
+                    "name": "wok de pulpo",
+                    "price": 3200
+                },
+                {
+                    "name": "ensalada de aguacate asado, tomate, pepino y remolacha crujiente",
+                    "price": 2050
+                },
+                {
+                    "name": "tartar de mozzarella fresca, aguacate y tomate",
+                    "price": 2050
+                },
+                {
+                    "name": "ensalada verde con queso de cabra y reduccion de frutas",
+                    "price": 1900
+                },
+                {
+                    "name": "ensalada verde con pollo marinado en nuestra salsa de piña y cilantro",
+                    "price": 2050
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pescado del dia a la plancha con mole verde y boniatos asados",
+                    "price": 3400
+                },
+                {
+                    "name": "dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco",
+                    "price": 3400
+                },
+                {
+                    "name": "costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro",
+                    "price": 3400
+                },
+                {
+                    "name": "costillas asadas en salsa barbacoa, pastel de yuca y verduritas",
+                    "price": 4050
+                },
+                {
+                    "name": "langosta al horno con mantequilla, limon y mole negro",
+                    "price": 5100
+                },
+                {
+                    "name": "risotto de zanahoria con mozzarella y hierbas aromaticas",
+                    "price": 4050
+                },
+                {
+                    "name": "arroz de marisco",
+                    "price": 4500
+                },
+                {
+                    "name": "new york steak con papas asadas y salsa chimichurri",
+                    "price": 4000
+                },
+                {
+                    "name": "albondiga de res rellena de setas y papas asadas",
+                    "price": 4500
+                },
+                {
+                    "name": "cordero en salsa de chocolate con verduras grilladas",
+                    "price": 4050
+                },
+                {
+                    "name": "canelon de pollo asado con setas",
+                    "price": 3500
+                },
+                {
+                    "name": "canelon de cangrejo xl con doble salsa",
+                    "price": 3400
+                },
+                {
+                    "name": "wok de atun, vegetales y salsa teriyaki",
+                    "price": 2400
+                },
+                {
+                    "name": "wok de tallarines con cerdo, vegetales, piña y teriyaki",
+                    "price": 2400
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz blanco",
+                    "price": 700
+                },
+                {
+                    "name": "matajibaro",
+                    "price": 700
+                },
+                {
+                    "name": "vegetales salteados",
+                    "price": 700
+                },
+                {
+                    "name": "cesta de pan",
+                    "price": 700
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "biscocho breton, crema de limon y toffe",
+                    "price" : 1700
+                },
+                {
+                    "name" : "coulant de chocolate con helado",
+                    "price" : 2100
+                },
+                {
+                    "name": "baba al ron con helado",
+                    "price": 1700
+                },
+                {
+                    "name": "arroz con leche",
+                    "price": 1800
+                },
+                {
+                    "name": "helado",
+                    "price": 1350
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

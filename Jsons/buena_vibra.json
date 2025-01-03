@@ -1,0 +1,157 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Buena Vibra",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.09939463317276, 
+        "longitude": -82.3324060073085
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page":false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 400
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 400
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 300
+                },
+                {
+                    "name": "tostones tradicionales",
+                    "price": 300
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa de pollo",
+                    "price": 300
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 850
+                },
+                {
+                    "name": "bistec de pollo empanado",
+                    "price": 900
+                },
+                {
+                    "name": "higado de cerdo",
+                    "price": 800
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 900
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 900
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 900
+                },
+                {
+                    "name": "espaguetti con queso",
+                    "price": 400
+                },
+                {
+                    "name": "espaguetti de jamon",
+                    "price": 550
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "tequila reposado",
+                    "price": 300
+                },
+                {
+                    "name": "licor crema",
+                    "price": 200
+                },
+                {
+                    "name": "piña colada",
+                    "price": 300
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

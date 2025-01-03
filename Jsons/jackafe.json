@@ -1,0 +1,352 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "JacKafé",
+    "district": "Habana del Este",
+    "coordinates": {
+        "latitude": 23.166692944550768, 
+        "longitude": -82.27760819382989
+    },
+    "contact": {
+        "phone_number": "77636363",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59226078",
+        "facebook": "JacKafe",
+        "instagram": "@jac.kafe"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "0300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "0300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "0300"
+        }
+    },
+    "rating": 4.9,    
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 360
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 280
+                },
+                {
+                    "name": "tostones rellenos de chorizo",
+                    "price": 940
+                },
+                {
+                    "name": "tostones rellenos de atun",
+                    "price": 840
+                },
+                {
+                    "name": "tostones rellenos de jamon",
+                    "price": 680
+                },
+                {
+                    "name": "coctel de pescado",
+                    "price": 760
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 780
+                },
+                {
+                    "name": "coctel de langosta",
+                    "price": 980
+                },
+                {
+                    "name": "trio de cocteles",
+                    "price": 2280
+                },
+                {
+                    "name": "ceviche",
+                    "price": 1190
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1720
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 1680
+                },
+                {
+                    "name": "entremes de la casa",
+                    "price": 1920
+                },
+                {
+                    "name": "entremes de jamon serrano",
+                    "price": 1350
+                },
+                {
+                    "name": "tabla de quesos",
+                    "price": 1820
+                }            
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "crema de queso",
+                    "price": 590
+                },
+                {
+                    "name": "lasaña bolonesa",
+                    "price": 1690
+                },
+                {
+                    "name": "spaguetti napolitano queso gouda",
+                    "price": 840
+                },
+                {
+                    "name": "spaguetti napolitano queso mozarella",
+                    "price": 610
+                },
+                {
+                    "name": "spaguetti al aglio y olio",
+                    "price": 1240
+                },
+                {
+                    "name": "pizza napolitana queso gouda",
+                    "price": 760
+                },
+                {
+                    "name": "pizza napolitana queso mozarella",
+                    "price": 610
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1620
+                },
+                {
+                    "name": "bistec de cerdo princesa",
+                    "price": 2240
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2380
+                },
+                {
+                    "name": "cordero al vino tinto",
+                    "price": 2730
+                },
+                {
+                    "name": "estofado de res",
+                    "price": 3320
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 1590
+                },
+                {
+                    "name": "filete de pescado princesa",
+                    "price": 2140
+                },
+                {
+                    "name": "canciller",
+                    "price": 2320
+                },
+                {
+                    "name": "pulpo enchilado",
+                    "price": 1330
+                },
+                {
+                    "name": "pulpo al ajillo",
+                    "price": 1850
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 2190
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 2310
+                },
+                {
+                    "name": "langosta termidor",
+                    "price": 2520
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "champiñon",
+                    "price": 140
+                },
+                {
+                    "name": "atun",
+                    "price": 510
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 450
+                },
+                {
+                    "name": "jamon",
+                    "price": 250
+                },
+                {
+                    "name": "jamon serrano",
+                    "price": 650
+                },
+                {
+                    "name": "chorizo",
+                    "price": 480
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 420
+                },
+                {
+                    "name": "queso mimolett",
+                    "price": 480
+                },
+                {
+                    "name": "queso azul",
+                    "price": 380
+                },
+                {
+                    "name": "piña",
+                    "price": 170
+                },
+                {
+                    "name": "salsa de tomate",
+                    "price": 150
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 180
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 250
+                },
+                {
+                    "name": "arroz frito jackafe",
+                    "price": 1480
+                },
+                {
+                    "name": "ensalada de estacion",
+                    "price": 250
+                },
+                {
+                    "name": "viandas fritas",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural importada",
+                    "price": 260
+                },
+                {
+                    "name": "agua tonica",
+                    "price": 720
+                }            
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco importado",
+                    "price": 330
+                },
+                {
+                    "name": "energizante",
+                    "price": 370
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de caja",
+                    "price": 850
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 280
+                },
+                {
+                    "name": "cerveza michelada",
+                    "price": 100
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expresso",
+                    "price": 180
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 180
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 250
+                },
+                {
+                    "name": "cafe capuchino",
+                    "price": 300
+                },
+                {
+                    "name": "cafe con ashe",
+                    "price": 395
+                },
+                {
+                    "name": "te",
+                    "price": 80
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

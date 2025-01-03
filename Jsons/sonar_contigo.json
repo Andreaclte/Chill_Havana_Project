@@ -1,0 +1,337 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Soñar contigo",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.133914730855928, 
+        "longitude": -82.39150447833448
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53395848",
+        "facebook": false,
+        "instagram": "@sonarcontigo_cafe"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1300",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1300",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1300",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1300",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1300",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1300",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1300",
+            "close": "2400"
+        }
+    },
+    "rating": 3.9,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "mexicana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ración de maní",
+                    "price": 150
+                },
+                {
+                    "name": "ración de chacharrita",
+                    "price": 150
+                },
+                {
+                    "name": "saladitas con jamón",
+                    "price": 220
+                },
+                {
+                    "name": "saladitas con atún",
+                    "price": 250
+                },
+                {
+                    "name": "ración de croquetas",
+                    "price": 350
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 330
+                },
+                {
+                    "name": "ración de tostones",
+                    "price": 250
+                },
+                {
+                    "name": "ración de tostones rellenos de jamón",
+                    "price": 400
+                },
+                {
+                    "name": "ración de tostones rellenos de atún",
+                    "price": 450
+                },
+                {
+                    "name": "picadera de la casa",
+                    "price": 1000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "tacos de vegetales",
+                    "price": 550
+                },
+                {
+                    "name": "tacos de cerdo asado",
+                    "price": 720
+                },
+                {
+                    "name": "tacos de cerdo con vegetales",
+                    "price": 750
+                },
+                {
+                    "name": "tacos de cerdo agridulce",
+                    "price": 800
+                },
+                {
+                    "name": "tacos mixtos",
+                    "price": 850
+                },
+                {
+                    "name": "brusquetta de tomate, albahaca y queso",
+                    "price": 400
+                },
+                {
+                    "name": "brusquetta de atún, cebolla y mayonesa",
+                    "price": 480
+                },
+                {
+                    "name": "brusquetta de jamón, queso y especias",
+                    "price": 450
+                },
+                {
+                    "name": "brusquetta de cerdo agridulce",
+                    "price": 550
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 450
+                },
+                {
+                    "name": "sandwich de jamón ahumado y queso",
+                    "price": 600
+                },
+                {
+                    "name": "sandwich de atún",
+                    "price": 500
+                },
+                {
+                    "name": "sandwich de cerdo",
+                    "price": 600
+                },
+                {
+                    "name": "sandwich especial",
+                    "price": 720
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "pastel con leche condensada",
+                    "price": 450
+                },
+                {
+                    "name": "pastel con helado",
+                    "price": 420
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua embotellada",
+                    "price": 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 500
+                },
+                {
+                    "name": "refresco",
+                    "price": 260
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada natural",
+                    "price": 350
+                },
+                {
+                    "name": "limonada con hierba buena",
+                    "price": 380
+                },
+                {
+                    "name": "limonada con piña",
+                    "price": 420
+                },
+                {
+                    "name": "jugo",
+                    "price": 220
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de helado",
+                    "price": 600
+                },
+                {
+                    "name": "smoothie de plátano",
+                    "price": 530
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cuba libre",
+                    "price": 350
+                },
+                {
+                    "name": "mojito",
+                    "price": 420
+                },
+                {
+                    "name": "ron collins",
+                    "price": 300
+                },
+                {
+                    "name": "canchanchara",
+                    "price": 400
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 400
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 400
+                },
+                {
+                    "name": "piña colada",
+                    "price": 550
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 380
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 300
+                },
+                {
+                    "name": "servicio de chelada",
+                    "price": 130
+                },
+                {
+                    "name": "havana club especial",
+                    "price": 250
+                },
+                {
+                    "name": "havana club reserva",
+                    "price": 280
+                },
+                {
+                    "name": "havana club 7 anos",
+                    "price": 330
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "coladita",
+                    "price": 50
+                },
+                {
+                    "name": "expresso",
+                    "price": 90
+                },
+                {
+                    "name": "cortado",
+                    "price": 120
+                },
+                {
+                    "name": "carajillo",
+                    "price": 220
+                },
+                {
+                    "name": "cappuccino",
+                    "price": 250
+                },
+                {
+                    "name": "mocaccino",
+                    "price": 260
+                },
+                {
+                    "name": "soñar contigo",
+                    "price": 300
+                },
+                {
+                    "name": "café frío",
+                    "price": 100
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 400
+                },
+                {
+                    "name": "affogatto",
+                    "price": 260
+                },
+                {
+                    "name": "chocofrappu",
+                    "price": 550
+                },
+                {
+                    "name": "super frappu",
+                    "price": 700
+                }
+            ]
+        },
+        "special_offers": false
+        }
+}

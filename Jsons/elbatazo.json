@@ -1,0 +1,133 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Batazo",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.10580877950669, 
+        "longitude": -82.38890539182955
+    },
+    "contact": {
+        "phone_number":false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58050408",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana", "americana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 750
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 930
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 930
+                },
+                {
+                    "name": "pizza de hawaiana",
+                    "price": 1130
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de aji",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 1250
+                },
+                {
+                    "name": "pizza de aceitunas",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de peperoni",
+                    "price": 1050
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 600
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 780
+                },
+                {
+                    "name": "hamburguesa strike",
+                    "price": 550
+                },
+                {
+                    "name": "hamburguesa doble play",
+                    "price": 1000
+                },
+                {
+                    "name": "hamburguesa homerun",
+                    "price": 1300
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

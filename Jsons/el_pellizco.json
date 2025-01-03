@@ -1,0 +1,192 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Pellizco",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.072260531147528, 
+        "longitude": -82.22660851736715
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": 3.6,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "racion de chicharron",
+                    "price": 150
+                },
+                {
+                    "name": "racion de empella",
+                    "price": 100
+                },
+                {
+                    "name": "caldoza de la casa",
+                    "price": 250
+                },
+                {
+                    "name": "racion de tostones",
+                    "price": 80
+                },
+                {
+                    "name": "racion de mariquitas",
+                    "price": 80
+                },
+                {
+                    "name": "platano maduro frito",
+                    "price": 80
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de higado",
+                    "price": 400
+                },
+                {
+                    "name": "higado a la italiana",
+                    "price": 450
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 600
+                },
+                {
+                    "name": "masa de cerdo",
+                    "price": 650
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 650
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 650
+                },
+                {
+                    "name": "lonjas de cerdo asada",
+                    "price": 600
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 450
+                },
+                {
+                    "name": "costilla asada",
+                    "price": 650
+                },
+                {
+                    "name": "ropa vieja de cerdo",
+                    "price": 650
+                },
+                {
+                    "name": "fricase de costilla",
+                    "price": 650
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 100
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malta",
+                    "price": 150
+                },
+                {
+                    "name": "energizante",
+                    "price": 220
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de caja",
+                    "price": 150
+                },
+                {
+                    "name": "jugo de botella",
+                    "price": 120
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza nacional",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 220
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

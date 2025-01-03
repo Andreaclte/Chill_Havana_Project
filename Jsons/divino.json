@@ -1,0 +1,301 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "DiVino Restaurante",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.060193567010185,
+        "longitude": -82.3364931353467
+    },
+    "contact": {
+        "phone_number": "76437734",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "63733055",
+        "facebook": "DiVino",
+        "instagram": "@restaurantedivino_official"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["latina, internacional, cubana", "criolla"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 1200
+                },
+                {
+                    "name": "tostones rellenos mixtos",
+                    "price": 1500
+                },
+                {
+                    "name": "canapes agridulces de jamon y queso con pina",
+                    "price": 1200
+                },
+                {
+                    "name": "pulpo sobre boniato a las brasas y salsa de pimiento",
+                    "price": 2500
+                },
+                {
+                    "name": "surtido divino",
+                    "price": 1800
+                },
+                {
+                    "name": "crema de vegetales",
+                    "price": 450
+                },
+                {
+                    "name": "coctel de mariscos",
+                    "price": 1700
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo a la campesina",
+                    "price": 1800
+                },
+                {
+                    "name": "cerdo ahumado al mangle rojo",
+                    "price": 2800
+                },
+                {
+                    "name": "langosta marinera",
+                    "price": 3000
+                },
+                {
+                    "name": "pinchos de camarón aromatizados con aceite de trufa",
+                    "price": 3200
+                },
+                {
+                    "name": "suprema de pollo a la mostaza",
+                    "price": 1950
+                },
+                {
+                    "name": "pulpo a la gallega",
+                    "price": 4500
+                },
+                {
+                    "name": "reino del mar (langosta, camarón, pulpo y calamar, perfumados con aceite de oliva y hierbas provenzales)",
+                    "price": 9500
+                },
+                {
+                    "name": "arroz a la cubana",
+                    "price": 1500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "mousse de limon",
+                    "price": 1000
+                },
+                {
+                    "name": "mousse de fruto del bosque",
+                    "price": 1000
+                },
+                {
+                    "name": "copa de helado",
+                    "price": 1300
+                },
+                {
+                    "name": "flan de la casa",
+                    "price": 600
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco",
+                    "price": 400
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 250
+                },
+                {
+                    "name": "limonada natural",
+                    "price": 600
+                },
+                {
+                    "name": "limonada fresh",
+                    "price": 700
+                },
+                {
+                    "name": "limonada frappé",
+                    "price": 600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 700
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 350
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 500
+                },
+                {
+                    "name": "cubetazo (10 unidades)",
+                    "price": 3000
+                },
+                {
+                    "name": "copa vino tinto",
+                    "price": 70
+                },
+                {
+                    "name": "mojito",
+                    "price": 800
+                },
+                {
+                    "name": "cubata",
+                    "price": 750
+                },
+                {
+                    "name": "daiquiri frappe",
+                    "price": 700
+                },
+                {
+                    "name": "piña colada",
+                    "price": 800
+                },
+                {
+                    "name": "margarita",
+                    "price": 700
+                },
+                {
+                    "name": "sangría española",
+                    "price": 800
+                },
+                {
+                    "name": "sangría asturiana",
+                    "price": 850
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 700
+                },
+                {
+                    "name": "ron collins",
+                    "price": 500
+                },
+                {
+                    "name": "long island",
+                    "price": 1000
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 700
+                },
+                {
+                    "name": "servicio wchglada",
+                    "price": 400
+                },
+                {
+                    "name": "servicio chelada",
+                    "price": 400
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café e infusiones",
+                    "price": 250
+                },
+                {
+                    "name": "café tradicional",
+                    "price": 150
+                },
+                {
+                    "name": "café con leche",
+                    "price": 250
+                },
+                {
+                    "name": "café capuchino",
+                    "price": 400
+                },
+                {
+                    "name": "café bombón",
+                    "price": 500
+                },
+                {
+                    "name": "café americano",
+                    "price": 200
+                },
+                {
+                    "name": "café de ron cubano",
+                    "price": 300
+                },
+                {
+                    "name": "té",
+                    "price": 200
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Vaquerito",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.004387110083822,
+        "longitude": -82.32730012513493
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "63712913",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 280
+                },
+                {
+                    "name": "bolitas de carne",
+                    "price": 280
+                },
+                {
+                    "name": "chicharron",
+                    "price": 280
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "arroz moro, cerdo asado, yuca con mojo, ensalada",
+                    "price": 1000
+                },
+                {
+                    "name": "arroz moro, pollo asado, yuca con mojo, ensalada",
+                    "price": 750
+                },
+                {
+                    "name": "ropa vieja, yuca, ensalada",
+                    "price": 600
+                },
+                {
+                    "name": "enchilado de camaron, arroz moro, yuca, ensalada",
+                    "price": 560
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza de lata",
+                    "price": 280
+                },
+                {
+                    "name": "cubetazo",
+                    "price": 4500
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

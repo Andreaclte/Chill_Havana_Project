@@ -1,0 +1,196 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Pecado",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.10204562544961, 
+        "longitude": -82.34136591354408
+    },
+    "contact": {
+        "phone_number": "76795921",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52828577",
+        "facebook": "Bar Restaurante Pecado",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "aceitunas",
+                    "price": 350
+                },
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 300
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 350
+                },
+                {
+                    "name": "papitas fritas",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas",
+                    "price": 340
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "eperelan de pescado",
+                    "price": 600
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 570
+                },
+                {
+                    "name": "tostones de jamon y queso",
+                    "price": 380
+                },
+                {
+                    "name": "tostones de atun",
+                    "price": 450
+                },
+                {
+                    "name": "picadera pecado",
+                    "price": 1200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "cerdo grille",
+                    "price": 650
+                },
+                {
+                    "name": "masas ritas",
+                    "price": 750
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 720
+                },
+                {
+                    "name": "costillas en salsa bbq",
+                    "price": 600
+                },
+                {
+                    "name": "bistec uruguayo de cerdo",
+                    "price": 850
+                },
+                {
+                    "name": "pechuga empanada",
+                    "price": 700
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 650
+                },
+                {
+                    "name": "pechuga princesa",
+                    "price": 800
+                },
+                {
+                    "name": "pechuga gordon blue",
+                    "price": 850
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 730
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 950
+                },
+                {
+                    "name": "pescado jhonbill",
+                    "price": 1200
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 780
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 650
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 720
+                },
+                {
+                    "name": "filete de res encebollado",
+                    "price": 750
+                },
+                {
+                    "name": "uruguayo de res",
+                    "price": 730
+                },
+                {
+                    "name": "camarones",
+                    "price": 750
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

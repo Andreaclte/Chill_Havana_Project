@@ -1,0 +1,483 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Al Campestre",
+    "district": "Habana del Este",
+    "coordinates": {
+        "latitude": 23.155282399334702, 
+        "longitude": -82.27081842086241
+    },
+    "contact": {
+        "phone_number": "77657743",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58893858",
+        "facebook": "Alcampestre",
+        "instagram": "@alcampestre"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "cubana", "italiana"],
+    "services": {
+        "plant": null,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "vianda hervida",
+                    "price": 180
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 350
+                },
+                {
+                    "name": "tostones criollos",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 400
+                },
+                {
+                    "name": "tostones en tapas",
+                    "price": 560
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 450
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 650
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 700
+                },
+                {
+                    "name": "ceviche",
+                    "price": 1000
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 400
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 450
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 470
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1560
+                },
+                {
+                    "name": "eperlan",
+                    "price": 2100
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 2200
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 650
+                },
+                {
+                    "name": "tabla charcutera",
+                    "price": 1750
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana",
+                    "price": 970
+                },
+                {
+                    "name": "pizza bambina",
+                    "price": 550
+                },
+                {
+                    "name": "pizza al campestre",
+                    "price": 1960
+                },
+                {
+                    "name": "spaghetti con queso",
+                    "price": 820
+                },
+                {
+                    "name": "spaghetti frutti di mare",
+                    "price": 2400
+                },
+                {
+                    "name": "spaghetti aioli",
+                    "price": 960
+                },
+                {
+                    "name": "spaghetti al pesto",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti bolonesa",
+                    "price": 1890
+                },
+                {
+                    "name": "spaghetti carbonara",
+                    "price": 1450
+                },
+                {
+                    "name": "spaghetti alfredo",
+                    "price": 930
+                },
+                {
+                    "name": "spaghetti primavera",
+                    "price": 1000
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 2450
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 2560
+                },
+                {
+                    "name": "filete de res a la deuch",
+                    "price": 2560
+                },
+                {
+                    "name": "calamar al ajillo",
+                    "price": 4500
+                },
+                {
+                    "name": "calamar grille",
+                    "price": 4500
+                },
+                {
+                    "name": "calamar en salsa de tomate",
+                    "price": 4500
+                },
+                {
+                    "name": "pulpo grille",
+                    "price": 5200
+                },
+                {
+                    "name": "pulpo enchilado",
+                    "price": 5200
+                },
+                {
+                    "name": "pulpo al ajillo",
+                    "price": 5200
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 4860
+                },
+                {
+                    "name": "langosta americana",
+                    "price": 4860
+                },
+                {
+                    "name": "langosta termidor",
+                    "price": 5000
+                },
+                {
+                    "name": "tacos al chili",
+                    "price": 1600
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 2450
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 1960
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 2500
+                },
+                {
+                    "name": "tacos del mar",
+                    "price": 2650
+                },
+                {
+                    "name": "tacos de queso",
+                    "price": 1400
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1300
+                },
+                {
+                    "name": "estofado de conejo",
+                    "price": 2750
+                },
+                {
+                    "name": "fricase de conejo",
+                    "price": 2750
+                },
+                {
+                    "name": "entrecot",
+                    "price": 4150
+                },
+                {
+                    "name": "churrasco de res",
+                    "price": 4150
+                },
+                {
+                    "name": "chuleton de res",
+                    "price": 5500
+                },
+                {
+                    "name": "paella al campestre",
+                    "price": 10500
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "piña",
+                    "price": 150
+                },
+                {
+                    "name": "cebolla",
+                    "price": 200
+                },
+                {
+                    "name": "chorizo",
+                    "price": 580
+                },
+                {
+                    "name": "pimiento",
+                    "price": 200
+                },
+                {
+                    "name": "jamón",
+                    "price": 350
+                },
+                {
+                    "name": "bacon",
+                    "price": 480
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 300
+                },
+                {
+                    "name": "aceituna",
+                    "price": 180
+                },
+                {
+                    "name": "atún",
+                    "price": 450
+                },
+                {
+                    "name": "camarones",
+                    "price": 780
+                },
+                {
+                    "name": "ropa vieja de cerdo",
+                    "price": 780
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 960
+                },
+                {
+                    "name": "pepperoni",
+                    "price": 350
+                },
+                {
+                    "name": "ensalada de estacion",
+                    "price": 100
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 150
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 220
+                },
+                {
+                    "name": "arroz con vegetales",
+                    "price": 350
+                },
+                {
+                    "name": "vegetales salteados",
+                    "price": 250
+                },
+                {
+                    "name": "frijoles negros",
+                    "price": 350
+                },
+                {
+                    "name": "frijoles colorados",
+                    "price": 400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "dulces caseros",
+                    "price": 380
+                },
+                {
+                    "name": "torrejas de la casa",
+                    "price": 500
+                },
+                {
+                    "name": "cuna de mousse",
+                    "price": 570
+                },
+                {
+                    "name": "tarta de mousse",
+                    "price": 4500
+                },
+                {
+                    "name": "cuna cheesecake",
+                    "price": 650
+                },
+                {
+                    "name": "tarta cheesecake",
+                    "price": 5000
+                },
+                {
+                    "name": "tarta tiramisu",
+                    "price": 5000
+                },
+                {
+                    "name": "cuna tiramisu",
+                    "price": 650
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "alexander",
+                    "price": 450
+                },
+                {
+                    "name": "bloddy marry",
+                    "price": 450
+                },
+                {
+                    "name": "cubanito",
+                    "price": 450
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 460
+                },
+                {
+                    "name": "daiquiri rebelde",
+                    "price": 500
+                },
+                {
+                    "name": "martin",
+                    "price": 450
+                },
+                {
+                    "name": "mojito",
+                    "price": 750
+                },
+                {
+                    "name": "piña colada",
+                    "price": 720
+                },
+                {
+                    "name": "sangría",
+                    "price": 850
+                },
+                {
+                    "name": "virgen colada",
+                    "price": 450
+                },
+                {
+                    "name": "caipirina",
+                    "price": 400
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 400
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 400
+                },
+                {
+                    "name": "canchanchara",
+                    "price": 400
+                },
+                {
+                    "name": "margarita",
+                    "price": 650
+                },
+                {
+                    "name": "tinto verano",
+                    "price": 1100
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

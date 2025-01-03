@@ -1,0 +1,221 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "D'Mitu",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.08648320188595, 
+        "longitude": -82.36489814950129
+    },
+    "contact": {
+        "phone_number": "76988258",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53578505",
+        "facebook": "D'mytu",
+        "instagram": "@d_mitu.restaurante"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": 2.5,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 850
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1050
+                },
+                {
+                    "name": "pizza familiar mixta",
+                    "price": 2800
+                },
+                {
+                    "name": "familiar con bordes de queso",
+                    "price": 3200
+                },
+                {
+                    "name": "super pizza queso",
+                    "price": 1200
+                },
+                {
+                    "name": "super pizza jamón",
+                    "price": 1300
+                },
+                {
+                    "name": "super pizza chorizo",
+                    "price": 1300
+                },
+                {
+                    "name": "super pizza hawaiana",
+                    "price": 1300
+                },
+                {
+                    "name": "super pizza mixta",
+                    "price": 2000
+                },
+                {
+                    "name": "canelones",
+                    "price": 800
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 800
+                },
+                {
+                    "name": "fettuccine",
+                    "price": 800
+                },
+                {
+                    "name": "farfalle",
+                    "price": 800
+                },
+                {
+                    "name": "lasaña",
+                    "price": 900
+                },
+                {
+                    "name": "raviolis",
+                    "price": 900
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "piña",
+                    "price": 200
+                },
+                {
+                    "name": "queso",
+                    "price": 300
+                },
+                {
+                    "name": "cebolla",
+                    "price": 200
+                },
+                {
+                    "name": "aceituna",
+                    "price": 350
+                },
+                {
+                    "name": "pimiento",
+                    "price": 200
+                },
+                {
+                    "name": "chorizo",
+                    "price": 300
+                },
+                {
+                    "name": "jamón",
+                    "price": 300
+                },
+                {
+                    "name": "champiñón",
+                    "price": 400
+                },
+                {
+                    "name": "bacon",
+                    "price": 500
+                },
+                {
+                    "name": "atún",
+                    "price": 450
+                },
+                {
+                    "name": "camarón",
+                    "price": 600
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": [
+            {
+                "name": "calzone d' mitu",
+                "price": 900
+            },
+            {
+                "name": "takazo d' mitu",
+                "price": 1000
+            },
+            {
+                "name": "pizza d' mitu",
+                "price": 1400
+            },
+            {
+                "name": "pastelón a su gusto",
+                "price": 1700
+            },
+            {
+                "name": "super takazo",
+                "price": 1900
+            },
+            {
+                "name": "pizza sol",
+                "price": 2000
+            },
+            {
+                "name": "fugazzeta d' mitu",
+                "price": 2100
+            }
+        ]
+    }
+}

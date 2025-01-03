@@ -1,0 +1,364 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Guang Zhou",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.134985027583145, 
+        "longitude": -82.36378331935656
+    },
+    "contact": {
+        "phone_number": "78615229",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": 3.1,
+    "intake_capacity": "media",
+    "cuisine": ["china", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name" : "arroz blanco",
+                    "price" : 315
+                },
+                {
+                    "name" : "arroz frito",
+                    "price" : 1710
+                },
+                {
+                    "name" : "arroz moro",
+                    "price" : 415
+                },
+                {
+                    "name" : "arroz frito especial",
+                    "price" : 2110
+                },
+                {
+                    "name" : "arroz frito familiar",
+                    "price" : 2970
+                },
+                {
+                    "name" : "chao mian (fideos fritos)",
+                    "price" : 900
+                },
+                {
+                    "name" : "chop suey de pollo",
+                    "price" : 1700
+                },
+                {
+                    "name" : "chop suey de cerdo",
+                    "price" : 1900
+                },
+                {
+                    "name" : "chop suey de vegetales",
+                    "price" : 800
+                },
+                {
+                    "name" : "viandas fritas del día",
+                    "price" : 300
+                },
+                {
+                    "name" : "yuca con mojo",
+                    "price" : 250
+                },
+                {
+                    "name" : "ensalada mixta",
+                    "price" : 300
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name" : "pollo a la plancha",
+                    "price" : 1800
+                },
+                {
+                    "name" : "cerdo a la plancha",
+                    "price" : 2000
+                },
+                {
+                    "name" : "res a la plancha",
+                    "price" : 2100
+                },
+                {
+                    "name" : "pescado a la plancha",
+                    "price" : 2100
+                },
+                {
+                    "name" : "pollo grille",
+                    "price" : 1500
+                },
+                {
+                    "name" : "pescado grille",
+                    "price" : 1500
+                },
+                {
+                    "name" : "marisco a la plancha",
+                    "price" : 3100
+                },
+                {
+                    "name" : "marisco de la tierra",
+                    "price" : 4200
+                },
+                {
+                    "name" : "marisco del mar",
+                    "price" : 5500
+                },
+                {
+                    "name" : "mar y tierra",
+                    "price" : 5900
+                },
+                {
+                    "name" : "cazuela de mariscos",
+                    "price" : 5575
+                },
+                {
+                    "name" : "cerdo grille",
+                    "price" : 1650
+                },
+                {
+                    "name" : "spaghetti napolitanos",
+                    "price" : 1080
+                },
+                {
+                    "name" : "pizza napolitana con queso blanco",
+                    "price" : 1150
+                },
+                {
+                    "name" : "pizza napolitana con queso gouda",
+                    "price" : 1250
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name" : "tomate natural",
+                    "price" : 200
+                },
+                {
+                    "name" : "pimiento",
+                    "price" : 200
+                },
+                {
+                    "name" : "cebolla",
+                    "price" : 200
+                },
+                {
+                    "name" : "piña",
+                    "price" : 200
+                },
+                {
+                    "name" : "jamón",
+                    "price" : 450
+                },
+                {
+                    "name" : "chorizo",
+                    "price" : 300
+                },
+                {
+                    "name" : "bacon",
+                    "price" : 300
+                },
+                {
+                    "name" : "champiñones",
+                    "price" : 300
+                },
+                {
+                    "name" : "aceitunas",
+                    "price" : 250
+                },
+                {
+                    "name" : "atún",
+                    "price" : 500
+                },
+                {
+                    "name" : "queso blanco",
+                    "price" : 250
+                },
+                {
+                    "name" : "marisco",
+                    "price" : 750
+                },
+                {
+                    "name" : "jamón serrano",
+                    "price" : 500
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua",
+                    "price" : 190
+                },
+                {
+                    "name" : "agua 1.5L",
+                    "price" : 280
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco nacional",
+                    "price" : 350
+                },
+                {
+                    "name" : "refresco importado",
+                    "price" : 350
+                },
+                {
+                    "name" : "malta",
+                    "price" : 400
+                },
+                {
+                    "name" : "malteada (malta con leche)",
+                    "price" : 550
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "kermato (jugo de tomate)",
+                    "price" : 200
+                } ,
+                {
+                    "name" : "jugo natural",
+                    "price" : 325
+                },
+                {
+                    "name" : "jugo en conserva",
+                    "price" : 350
+                }  
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "havana club 3 años",
+                    "price" : 350
+                },
+                {
+                    "name" : "havana club especial",
+                    "price" : 250
+                },
+                {
+                    "name" : "havana club reserva",
+                    "price" : 400
+                },
+                {
+                    "name" : "havana club 7 años",
+                    "price" : 450
+                },
+                {
+                    "name" : "whisky",
+                    "price" : 400
+                },
+                {
+                    "name" : "vodka",
+                    "price" : 500
+                },
+                {
+                    "name" : "tequila blanco",
+                    "price" : 500
+                },
+                {
+                    "name" : "tequila reposado",
+                    "price" : 500
+                },
+                {
+                    "name" : "ginebra",
+                    "price" : 500
+                },
+                {
+                    "name" : "vino tinto",
+                    "price" : 500
+                },
+                {
+                    "name" : "vino blanco",
+                    "price" : 500
+                },
+                {
+                    "name" : "cerveza nacional",
+                    "price" : 385
+                },
+                {
+                    "name" : "cerveza importada",
+                    "price" : 300
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "café expreso",
+                    "price" : 100
+                },
+                {
+                    "name" : "café americano",
+                    "price" : 150
+                },
+                {
+                    "name" : "café cortado",
+                    "price" : 150
+                },
+                {
+                    "name" : "café capsula",
+                    "price" : 300
+                },
+                {
+                    "name" : "té",
+                    "price" : 60
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

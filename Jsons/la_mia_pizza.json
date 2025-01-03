@@ -1,0 +1,253 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Mia Pizza",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.07138320836101, 
+        "longitude": -82.4600607155514
+    },
+    "contact": {
+        "phone_number": "72718614",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "La Mía Pizza",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "0200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 1.5,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 1440
+                },
+                {
+                    "name": "entremes de jamon",
+                    "price": 500
+                },
+                {
+                    "name": "entremes de ahumados",
+                    "price": 440
+                },
+                {
+                    "name": "entremes de aceitunas",
+                    "price": 300
+                },
+                {
+                    "name": "dados de queso",
+                    "price": 300
+                },
+                {
+                    "name": "croquetas de embutidos",
+                    "price": 220
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 250
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 300
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 430
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana",
+                    "price": 700
+                },
+                {
+                    "name": "pizza la mia",
+                    "price": 2500
+                },
+                {
+                    "name": "pizza la mia de queso",
+                    "price": 1900
+                },
+                {
+                    "name": "pizza tres quesos",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza la mia familiar",
+                    "price": 4800
+                },
+                {
+                    "name": "pizza la mia familiar de queso",
+                    "price": 4000
+                },
+                {
+                    "name": "pizza familiar napolitana",
+                    "price": 2500
+                },
+                {
+                    "name": "lasagna de jamon",
+                    "price": 500
+                },
+                {
+                    "name": "lasagna de jamon y chorizo",
+                    "price": 610
+                },
+                {
+                    "name": "spaghetti napolitanos",
+                    "price": 700
+                },
+                {
+                    "name": "spaghetti la carbonara",
+                    "price": 860
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helado montado",
+                    "price": 350
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 160
+                },
+                {
+                    "name": "agua saborizada",
+                    "price": 170
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco",
+                    "price": 220
+                },
+                {
+                    "name": "refresco de pomo",
+                    "price": 280
+                },
+                {
+                    "name": "malta",
+                    "price": 250
+                },
+                {
+                    "name": "bebida energizante",
+                    "price": 250
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de frutas naturales",
+                    "price": 200
+                },
+                {
+                    "name": "pina colada",
+                    "price": 250
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 1500
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas naturales",
+                    "price": 250
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "suero de helado",
+                    "price": 350
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "havana club 3 anos",
+                    "price": 175
+                },
+                {
+                    "name": "havana club 7 anos",
+                    "price": 225
+                },
+                {
+                    "name": "pina colada",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza",
+                    "price": 270
+                },
+                {
+                    "name": "michelada",
+                    "price": 420
+                },
+                {
+                    "name": "vodka",
+                    "price": 340
+                },
+                {
+                    "name": "whisky",
+                    "price": 340
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

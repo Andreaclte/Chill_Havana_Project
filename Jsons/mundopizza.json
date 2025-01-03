@@ -1,0 +1,187 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Mundo Pizza",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13771148492377, 
+        "longitude": -82.36400171839173
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53372715",
+        "facebook": "Mundo Pizza",
+        "instagram": "@mundopizza_habana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2200"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": "italiana",
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                { 
+                    "name": "croquetas caseras", 
+                    "price": 590 
+                },
+                { 
+                    "name": "tostones criollos", 
+                    "price": 540 
+                },
+                { 
+                    "name": "focaccia", 
+                    "price": 560 
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { 
+                    "name": "pizza metro criolla", 
+                    "price": 2800 
+                },
+                {     
+                    "name": "pizza metro casa", 
+                    "price": 3700 
+                },
+                { 
+                    "name": "pizza metro gouda", 
+                    "price": 5100 
+                },
+                { 
+                    "name": "pizza metro elección", 
+                    "price": 5150 
+                },
+                { 
+                    "name": "pizza 1/2 metro mix", 
+                    "price": 2500 
+                },
+                { 
+                    "name": "pizza 1/2 metro elección", 
+                    "price": 2700 
+                },
+                { 
+                    "name": "pizza rossa", 
+                    "price": 590 
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 950
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1250
+                },
+                {
+                    "name": "spaghetti al pesto",
+                    "price": 1050
+                },
+                {
+                    "name": "spaghetti del dia",
+                    "price": 1600
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                { 
+                    "name": "postre del dia", 
+                    "price": 650 
+                },
+                { 
+                    "name": "pizza a chocolate", 
+                    "price": 815 
+                },
+                { 
+                    "name": "helado 3 gracias", 
+                    "price": 500 
+                }
+            ]
+        },
+        "drinks": {
+            "water": false,
+            "soft_drinks": [
+                { 
+                    "name": "refresco", 
+                    "price": 250 
+                },
+                { 
+                    "name": "energizante", 
+                    "price": 390 
+                },
+                { 
+                    "name": "malta", 
+                    "price": 300 
+                }
+            ],
+            "juices": [
+                { 
+                    "name": "jugo cajita", 
+                    "price": 250 
+                }
+            ],
+            "smoothie": false,
+            "ice_cream_shake": false,
+            "alcoholic": [
+                { 
+                    "name": "cerveza", 
+                    "price": 300 
+                }
+            ],
+            "coffee": false
+        },
+        "special_offers": [
+            { 
+                "name": "yogurt", 
+                "price": 250 
+            }
+        ]
+    }
+}

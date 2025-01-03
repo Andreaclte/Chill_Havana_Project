@@ -1,0 +1,265 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "MM",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.120752030449403, 
+        "longitude": -82.43046798998091
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53863911",
+        "facebook": "Pizzeria MM",
+        "instagram": "@mm_habana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0700",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0700",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves":true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza marinara",
+                    "price": 2000
+                },
+                {
+                    "name": "pizza margherita",
+                    "price": 2500
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 3200
+                },
+                {
+                    "name": "pizza napoletana",
+                    "price": 3300
+                },
+                {
+                    "name": "pizza diavola",
+                    "price": 3300
+                },
+                {
+                    "name": "pizza prosciutto cotto",
+                    "price": 3300
+                },
+                {
+                    "name": "pizza 4 formaggi",
+                    "price": 3500
+                },
+                {
+                    "name": "pizza calzone ripieno",
+                    "price": 3500
+                },
+                {
+                    "name": "pizza salsiccia & funghi",
+                    "price": 3800
+                },
+                {
+                    "name": "pizza prosciutto crudo & rucola",
+                    "price": 4200
+                },
+                {
+                    "name": "pizza breadly cooper",
+                    "price": 4200
+                },
+                {
+                    "name": "pizza mammamia",
+                    "price": 5000
+                },
+                {
+                    "name": "pizza della nonna",
+                    "price": 5200
+                },
+                {
+                    "name": "pizza romagnola",
+                    "price": 5800
+                },
+                {
+                    "name": "carpaccio di manzo",
+                    "price": 3200
+                },
+                {
+                    "name": "tagliere di salumi & formaggi",
+                    "price": 5000
+                },
+                {
+                    "name": "tagliata di manzo",
+                    "price": 9000
+                },
+                {
+                    "name": "re buy black angus (500gr)",
+                    "price": 11000
+                },
+                {
+                    "name": "grigliata di mare",
+                    "price": 14000
+                },
+                {
+                    "name": "pasta alla amatriciana",
+                    "price": 3200
+                },
+                {
+                    "name": "pasta alla carbonara",
+                    "price": 3500
+                },
+                {
+                    "name": "pasta alla bolognese",
+                    "price": 3500
+                },
+                {
+                    "name": "lasagna alla bolognese",
+                    "price": 3500
+                },
+                {
+                    "name": "pasta gamberi & pesto",
+                    "price": 3800
+                },
+                {
+                    "name": "gnocchi alla sorrentina",
+                    "price": 3800
+                },
+                {
+                    "name": "gnocchi alla bolognese",
+                    "price": 3800
+                },
+                {
+                    "name": "gnocchi 4 formaggi",
+                    "price": 3800
+                },
+                {
+                    "name": "pasta salsiccia & porcini",
+                    "price": 5500
+                },
+                {
+                    "name": "linguine alla aragosta",
+                    "price": 5800
+                },
+                {
+                    "name": "gnocchi al pesto",
+                    "price": 3200
+                },
+                {
+                    "name": "cacio & pepe/alfredo al tavolo",
+                    "price": 5000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "refrescos",
+                    "price": 700
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos natural",
+                    "price": 1200
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cuba libre",
+                    "price": 1000
+                },
+                {
+                    "name": "daikiri",
+                    "price": 1000
+                },
+                {
+                    "name": "vodka tonic",
+                    "price": 1800
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 2000
+                },
+                {
+                    "name": "margarita",
+                    "price": 2200
+                },
+                {
+                    "name": "aperol spritz",
+                    "price": 2500
+                },
+                {
+                    "name": "negroni",
+                    "price": 2800
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 900
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 1000
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 1200
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café espresso",
+                    "price": 400
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

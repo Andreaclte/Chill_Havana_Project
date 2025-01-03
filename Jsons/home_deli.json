@@ -1,0 +1,202 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Home Deli",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.102013500945667, 
+        "longitude": -82.43068481917766
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://homedelimercado.com",
+        "whatsapp": "59429273",
+        "facebook": "Home Deli",
+        "instagram": "@homedelicuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2100"
+        }
+    },
+    "rating": 3.7,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tabla mixta",
+                    "price": null
+                },
+                {
+                    "name": "chips mariflye",
+                    "price": 380
+                },
+                {
+                    "name" : "focaccina",
+                    "price" : 400
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza margarita",
+                    "price": 1900
+                },
+                {
+                    "name": "pizza baby",
+                    "price": 1100
+                },
+                {
+                    "name" : "sandwich de queso gouda",
+                    "price" : 1400
+                },
+                {
+                    "name" : "sandwich de jamon serrano",
+                    "price" : 1600
+                },
+                {
+                    "name" : "sandwich de chorizo iberico",
+                    "price" : 1300
+                },
+                {
+                    "name" : "sandwich de mortadella",
+                    "price" : 1300
+                },
+                {
+                    "name" : "sandwich de jamon york",
+                    "price" : 1300
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "serrano",
+                    "price": 850
+                },
+                {
+                    "name": "chorizo iberico",
+                    "price": 550
+                },
+                {
+                    "name": "pepperoni",
+                    "price":700
+                },
+                {
+                    "name": "jamon york",
+                    "price": 720
+                },
+                {
+                    "name": "mozarella",
+                    "price": 980
+                },
+                {
+                    "name": "gouda",
+                    "price": 700
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "copa de helado",
+                    "price" : 950
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : [
+                {
+                    "name" : "batido de frutas",
+                    "price" : 350
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name" : "batido de helado",
+                    "price" : 550
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name" : "copa de vino",
+                    "price" : 600
+                },
+                {
+                    "name" : "vaso de cerveza",
+                    "price" : 220
+                },
+                {
+                    "name" : "jarra de cerveza",
+                    "price" : 380
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expresso",
+                    "price" : 250
+                },
+                {
+                    "name" : "cortado",
+                    "price" : 320
+                },
+                {
+                    "name" : "americano",
+                    "price" : 300
+                },
+                {
+                    "name" : "con leche",
+                    "price" : 450
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

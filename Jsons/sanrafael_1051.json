@@ -1,0 +1,241 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "San Rafael 1051",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.11380465355718, 
+        "longitude": -82.36663315102301
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://sanrafael1051.carrta.app",
+        "whatsapp": "58058576",
+        "facebook": "san_rafael1051",
+        "instagram": "@san_rafael1051"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "baja",
+    "cuisine": ["americana", "internacional"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": true,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 850
+                },
+                {
+                    "name": "tabla de serrano y queso",
+                    "price": 1450
+                },
+                {
+                    "name": "nuggets de pollo",
+                    "price": 950
+                },
+                {
+                    "name": "tacos",
+                    "price": 1150
+                },
+                {
+                    "name": "brusquetas mixtas",
+                    "price": 850
+                },
+                {
+                    "name": "ensalada de atun",
+                    "price": 1100
+                },
+                {
+                    "name": "ensalada de pollo",
+                    "price": 1100
+                },
+                {
+                    "name": "ensalada del mar",
+                    "price": 1300
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "entrepan clasico",
+                    "price": 1300
+                },
+                {
+                    "name": "entrepan cubano",
+                    "price": 1500
+                },
+                {
+                    "name": "entrepan marinero",
+                    "price": 1300
+                },
+                {
+                    "name": "entrepan iberico",
+                    "price": 1500
+                },
+                {
+                    "name": "entrepan vaquero",
+                    "price": 1300
+                },
+                {
+                    "name": "entrepan de crispy chicken",
+                    "price": 1500
+                },
+                {
+                    "name": "hamburguesa black panther",
+                    "price": 2400
+                },
+                {
+                    "name": "hamburguesa megaburger",
+                    "price": 2750
+                },
+                {
+                    "name": "hamburguesa hawaiana",
+                    "price": 1650
+                },
+                {
+                    "name": "hamburguesa 1051",
+                    "price": 2000
+                },
+                {
+                    "name": "hamburguesa parrillera",
+                    "price": 1920
+                },
+                {
+                    "name": "hamburguesa sweet burger",
+                    "price": 1100
+                },
+                {
+                    "name": "hamburguesa deluxe",
+                    "price": 1550
+                },
+                {
+                    "name": "hamburguesa cheese burger",
+                    "price": 1790
+                },
+                {
+                    "name": "hamburguesa cubana",
+                    "price": 2140
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco importado",
+                    "price": 380
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 390
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de fruta",
+                    "price": 530
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "caipiriña",
+                    "price": 580
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 580
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 650
+                },
+                {
+                    "name": "sangria",
+                    "price": 650
+                },
+                {
+                    "name": "mojito",
+                    "price": 580
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 580
+                },
+                {
+                    "name": "vodka tonic",
+                    "price": 650
+                },
+                {
+                    "name": "cerveza",
+                    "price": 450
+                },
+                {
+                    "name": "cerveza cristal, heineken, corona",
+                    "price": 650
+                },
+                {
+                    "name": "servicio michelada",
+                    "price": 250
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

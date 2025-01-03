@@ -1,0 +1,467 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Aroma de Café",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.052367619389422, 
+        "longitude": -82.46068306676176
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53397639",
+        "facebook": false,
+        "instagram": "@habanaromacafe"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.9,
+    "intake_capacity": "baja",
+    "cuisine": ["criolla", "mexicana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 320
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 360
+                },
+                {
+                    "name": "sandwich de jamon",
+                    "price": 360
+                },
+                {
+                    "name": "sandwich de queso",
+                    "price": 320
+                },
+                {
+                    "name": "sandwich de queso",
+                    "price": 360
+                },
+                {
+                    "name": "sandwich de pollo",
+                    "price": 370
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 480
+                },
+                {
+                    "name": "sandwich hawaiano",
+                    "price": 380
+                },
+                {
+                    "name": "sandwich hawaiano",
+                    "price": 430
+                },
+                {
+                    "name": "nachos con salsa",
+                    "price": 200
+                },
+                {
+                    "name": "croquetas",
+                    "price": 320
+                },
+                {
+                    "name": "picadera aroma",
+                    "price": 550
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 600
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 700
+                },
+                {
+                    "name": "enchilado de cangrejo",
+                    "price": 600
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 600
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "tacos de cangrejo",
+                    "price": 600
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 620
+                },
+                {
+                    "name": "tacos de ropa vieja",
+                    "price": 750
+                },
+                {
+                    "name": "tacos de jamon pierna",
+                    "price": 750
+                },
+                {
+                    "name": "tostones rellenos de jamon y queso",
+                    "price": 380
+                },
+                {
+                    "name": "tostones rellenos de atun",
+                    "price": 400
+                },
+                {
+                    "name": "tostones rellenos de ropa vieja",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": false,
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "donas",
+                    "price": 200
+                },
+                {
+                    "name": "helado/galletas",
+                    "price": 320
+                },
+                {
+                    "name": "bola de helado",
+                    "price": 140
+                },
+                {
+                    "name": "dulce aroma",
+                    "price": 350
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 350
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco importado",
+                    "price": 350
+                },
+                {
+                    "name": "malta",
+                    "price": 350
+                },
+                {
+                    "name": "pomo de refresco",
+                    "price": 350
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 250
+                },
+                {
+                    "name": "limonada",
+                    "price": 100
+                },
+                {
+                    "name": "jugo de caja pequeno",
+                    "price": 350
+                },
+                {
+                    "name": "jugo de caja grande",
+                    "price": 350
+                },
+                {
+                    "name": "pina colada",
+                    "price": 350
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas",
+                    "price": 280
+                },
+                {
+                    "name": "batido de helado",
+                    "price": 330
+                },
+                {
+                    "name": "batido de helado plus",
+                    "price": 380
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de chocolate",
+                    "price": 180
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "caipirinha",
+                    "price": 250
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 250
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 280
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 280
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 280
+                },
+                {
+                    "name": "mojito",
+                    "price": 300
+                },
+                {
+                    "name": "mojito ruso",
+                    "price": 300
+                },
+                {
+                    "name": "cremas de tequila",
+                    "price": 320
+                },
+                {
+                    "name": "pina colada",
+                    "price": 350
+                },
+                {
+                    "name": "martini",
+                    "price": 300
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 300
+                },
+                {
+                    "name": "gin & tonic",
+                    "price": 350
+                },
+                {
+                    "name": "sex on the beach",
+                    "price": 320
+                },
+                {
+                    "name": "sangria",
+                    "price": 350
+                },
+                {
+                    "name": "margarita",
+                    "price": 350
+                },
+                {
+                    "name": "orgasmo",
+                    "price": 350
+                },
+                {
+                    "name": "cervezas importadas",
+                    "price": 230
+                },
+                {
+                    "name": "habana club 3 anos",
+                    "price": 250
+                },
+                {
+                    "name": "habana club especial",
+                    "price": 280
+                },
+                {
+                    "name": "habana club reserva",
+                    "price": 300
+                },
+                {
+                    "name": "habana club 7 anos",
+                    "price": 350
+                },
+                {
+                    "name": "habana club smoky",
+                    "price": 350
+                },
+                {
+                    "name": "seleccion de maestros",
+                    "price": 600
+                },
+                {
+                    "name": "pacto navio",
+                    "price": 600
+                },
+                {
+                    "name": "black tears super dry",
+                    "price": 250
+                },
+                {
+                    "name": "black tears roble superior",
+                    "price": 300
+                },
+                {
+                    "name": "jameson",
+                    "price": 450
+                },
+                {
+                    "name": "ballantines",
+                    "price": 300
+                },
+                {
+                    "name": "chivas regal 12",
+                    "price": 500
+                },
+                {
+                    "name": "red label",
+                    "price": 450
+                },
+                {
+                    "name": "black label",
+                    "price": 500
+                },
+                {
+                    "name": "buchanans",
+                    "price": 500
+                },
+                {
+                    "name": "tequila olmeca",
+                    "price": 500
+                },
+                {
+                    "name": "crema baileys",
+                    "price": 300
+                },
+                {
+                    "name": "jagermeiste r",
+                    "price": 300
+                },
+                {
+                    "name": "vodka",
+                    "price": 380
+                },
+                {
+                    "name": "ciroc",
+                    "price": 250
+                },
+                {
+                    "name": "carajillo",
+                    "price": 180
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 100
+                },
+                {
+                    "name": "capuccino",
+                    "price": 150
+                },
+                {
+                    "name": "cortadito",
+                    "price": 120
+                },
+                {
+                    "name": "moka",
+                    "price": 180
+                },
+                {
+                    "name": "especiado",
+                    "price": 110
+                },
+                {
+                    "name": "americano",
+                    "price": 115
+                },
+                {
+                    "name": "bombon",
+                    "price": 110
+                },
+                {
+                    "name": "cremoso",
+                    "price": 300
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 550
+                },
+                {
+                    "name": "frapuccino moka",
+                    "price": 280
+                },
+                {
+                    "name": "frapuccino aroma",
+                    "price": 300
+                },
+                {
+                    "name": "frapuccino sorpresa",
+                    "price": 350
+                },
+                {
+                    "name": "frapuccino mousse",
+                    "price": 380
+                },
+                {
+                    "name": "capricho",
+                    "price": 350
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

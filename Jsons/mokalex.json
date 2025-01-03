@@ -1,0 +1,252 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Mokalex",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.11213749973173, 
+        "longitude": -82.41048087665507
+    },
+    "contact": {
+        "phone_number":false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53674114",
+        "facebook": "Mokaléx",
+        "instagram": "@mokalex_cuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "1800"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "1400"
+        }
+    },
+    "rating": 3.3,
+    "intake_capacity": "media",
+    "cuisine": ["internacional"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "sandwich cubano",
+                    "price": 1500
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 1300
+                },
+                {
+                    "name": "empanada gallega",
+                    "price": 800
+                },
+                {
+                    "name": "tabla de embutidos y quesos",
+                    "price": 2300
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 700
+                },
+                {
+                    "name": "croissant con nutella",
+                    "price": 1300
+                },
+                {
+                    "name": "croissant con jamon y queso",
+                    "price": 1800
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "lasagna bolognesa",
+                    "price": 1800
+                },
+                {
+                    "name": "spaghetti con jamón",
+                    "price": 1500
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1800
+                },
+                {
+                    "name": "ensalada de humus con pechuga de pollo y vegetales",
+                    "price": 1400
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "pastelería",
+                    "price": 350
+                },
+                {
+                    "name": "torta de la casa",
+                    "price": 700
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "h2o natural",
+                    "price": 300
+                },
+                {
+                    "name": "h2o gaseada",
+                    "price": 400
+                },
+                {
+                    "name": "h2o gaseada importada",
+                    "price": 600
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco",
+                    "price": 400
+                },
+                {
+                    "name": "malta",
+                    "price": 500
+                },
+                {
+                    "name": "energizante",
+                    "price": 400
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos naturales",
+                    "price": 400
+                },
+                {
+                    "name": "jugo óxido rojo",
+                    "price": 600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 450
+                },
+                {
+                    "name": "michelada",
+                    "price": 600
+                },
+                {
+                    "name": "copa de vino tinto",
+                    "price": 600
+                },
+                {
+                    "name": "copa de vino blanco",
+                    "price": 600
+                },
+                {
+                    "name": "crema catalana",
+                    "price": 800
+                },
+                {
+                    "name": "havana club especial",
+                    "price": 400
+                },
+                {
+                    "name": "havana club 7 años",
+                    "price": 600
+                },
+                {
+                    "name": "whisky j&b",
+                    "price": 800
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café exconvicto",
+                    "price": 400
+                },
+                {
+                    "name": "café yuma",
+                    "price": 400
+                },
+                {
+                    "name": "café suturado",
+                    "price": 500
+                },
+                {
+                    "name": "café conde",
+                    "price": 600
+                },
+                {
+                    "name": "café mulata",
+                    "price": 550
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 800
+                },
+                {
+                    "name": "frapuhelado",
+                    "price": 900
+                },
+                {
+                    "name": "capuchino",
+                    "price": 800
+                },
+                {
+                    "name": "infusiones",
+                    "price": 300
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

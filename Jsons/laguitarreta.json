@@ -1,0 +1,420 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "La Guitarreta",
+    "district": "Regla",
+    "coordinates": {
+        "latitude": 23.124529609158262, 
+        "longitude": -82.3276779397017
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "56901253",
+        "facebook": "La Guitarreta",
+        "instagram": "@laguitarreta_regla"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "italiana", "mexicana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "racion de yuca con mojo",
+                    "price": 250
+                },
+                {
+                    "name": "ensalada de estacion",
+                    "price": 150
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 750
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1000
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1200
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 800
+                },
+                {
+                    "name": "bolitas de queso g",
+                    "price": 700
+                },
+                {
+                    "name": "tostones rellenos qb",
+                    "price": 600
+                },
+                {
+                    "name": "tostones rellenos qg",
+                    "price": 750
+                },
+                {
+                    "name": "papas fritas con kétchup",
+                    "price": 500
+                },
+                {
+                    "name": "papas fritas con ketchup y qg",
+                    "price": 650
+                },
+                {
+                    "name": "croquetas de la abuela",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas bechamel",
+                    "price": 650
+                },
+                {
+                    "name": "mariopositas chinas",
+                    "price": 400
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "arroz frito",
+                    "price": 1500
+                },
+                {
+                    "name": "arroz frito especial",
+                    "price": 1800
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1800
+                },
+                {
+                    "name": "pechuga empanada",
+                    "price": 1400
+                },
+                {
+                    "name": "pechuga milanesa",
+                    "price": 1500
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 1600
+                },
+                {
+                    "name": "pechuga princesa",
+                    "price": 1750
+                },
+                {
+                    "name": "racion de arroz moro",
+                    "price": 200
+                },
+                {
+                    "name": "racion de arroz blanco",
+                    "price": 150
+                },
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 700
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 950
+                },
+                {
+                    "name": "pizza hawaiana queso blanco",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza hawaiana queso gouda",
+                    "price": 1250
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1350
+                },
+                {
+                    "name": "spaghetti de queso blanco",
+                    "price": 550
+                },
+                {
+                    "name": "spaghetti de queso blanco",
+                    "price": 700
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural importada",
+                    "price": 200
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco de cola importado",
+                    "price": 220
+                },
+                {
+                    "name": "refresco de cola importado pepsi",
+                    "price": 260
+                },
+                {
+                    "name": "refresco de limon importado 7up",
+                    "price": 260
+                },
+                {
+                    "name": "refresco de naranja importado fanta",
+                    "price": 260
+                },
+                {
+                    "name": "refresco de naranja importado",
+                    "price": 260
+                },
+                {
+                    "name": "refresco mate",
+                    "price": 280
+                },
+                {
+                    "name": "malta nacional bucanero",
+                    "price": 300
+                },
+                {
+                    "name": "energizante importado",
+                    "price": 300
+                },
+                {
+                    "name": "energizante importado",
+                    "price": 400
+                },
+                {
+                    "name": "energizante red bull",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frape",
+                    "price": 290
+                },
+                {
+                    "name": "piña colada virgen",
+                    "price": 500
+                },
+                {
+                    "name": "piña colada",
+                    "price": 600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 200
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 300
+                },
+                {
+                    "name": "pantera rosa",
+                    "price": 650
+                },
+                {
+                    "name": "sangria",
+                    "price": 500
+                },
+                {
+                    "name": "tinto verano",
+                    "price": 400
+                },
+                {
+                    "name": "long island",
+                    "price": 850
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 300
+                },
+                {
+                    "name": "gin tonic basic",
+                    "price": 450
+                },
+                {
+                    "name": "gin tonic c/ beefeater",
+                    "price": 600
+                },
+                {
+                    "name": "vodkatonic",
+                    "price": 450
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 250
+                },
+                {
+                    "name": "cubata",
+                    "price": 350
+                },
+                {
+                    "name": "pocion guitarreta",
+                    "price": 800
+                },
+                {
+                    "name": "ron hav club anejo especial",
+                    "price": 300
+                },
+                {
+                    "name": "ron hav club ritual",
+                    "price": 350
+                },
+                {
+                    "name": "ron hav club anejo 7 años",
+                    "price": 400
+                },
+                {
+                    "name": "crema tequila de fresa",
+                    "price": 400
+                },
+                {
+                    "name": "crema de ron rua vieja",
+                    "price": 550
+                },
+                {
+                    "name": "crema de whisky baileys",
+                    "price": 800
+                },
+                {
+                    "name": "whisky jw etiqueta roja",
+                    "price": 650
+                },
+                {
+                    "name": "whisky ballantines",
+                    "price": 600
+                },
+                {
+                    "name": "whisky jameson",
+                    "price": 550
+                },
+                {
+                    "name": "whisky chivas regal",
+                    "price": 700
+                },
+                {
+                    "name": "whisky jb",
+                    "price": 450
+                },
+                {
+                    "name": "whisky chanceler",
+                    "price": 200
+                },
+                {
+                    "name": "shot tequila olmeca silver",
+                    "price": 400
+                },
+                {
+                    "name": "shot jagermeifter",
+                    "price": 500
+                },
+                {
+                    "name": "copa de vino tinto semidulce",
+                    "price": 350
+                },
+                {
+                    "name": "copa de vino tinto merlot",
+                    "price": 400
+                },
+                {
+                    "name": "copa de vino tinto cabernet sauvignon",
+                    "price": 450
+                },
+                {
+                    "name": "copa de vino tinto tempranillo",
+                    "price": 675
+                },
+                {
+                    "name": "copa de vino blanco",
+                    "price": 350
+                },
+                {
+                    "name": "michelada",
+                    "price": 250
+                },
+                {
+                    "name": "chelada",
+                    "price": 150
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 450
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 450
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 400
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

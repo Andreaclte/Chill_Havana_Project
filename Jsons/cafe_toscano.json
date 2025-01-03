@@ -1,0 +1,148 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Café Toscano",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.079664361938153, 
+        "longitude": -82.31965649386221
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "50800611",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tostones rellenos",
+                    "price": 250
+                },
+                {
+                    "name": "tostones",
+                    "price": 150
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 300
+                },
+                {
+                    "name": "hamburguesa con queso",
+                    "price": 380
+                },
+                {
+                    "name": "hamburguesa doble con queso",
+                    "price": 550
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 400
+                },
+                {
+                    "name": "pollo especial",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 170
+                },
+                {
+                    "name": "pizza doble de queso",
+                    "price": 250
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 290
+                },
+                {
+                    "name": "pizza gouda",
+                    "price": 250
+                },
+                {
+                    "name": "pizza cubana",
+                    "price": 320
+                },
+                {
+                    "name": "pizza grande napolitana",
+                    "price": 550
+                },
+                {
+                    "name": "pizza grande doble de queso",
+                    "price": 790
+                },
+                {
+                    "name": "pizza grande gouda",
+                    "price": 940
+                },
+                {
+                    "name": "spaguetti",
+                    "price": 330
+                },
+                {
+                    "name": "spaguetti con queso gouda",
+                    "price": 400
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Casa Mía Paladar",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.143094606584455,
+        "longitude": -82.39921161808243
+    },
+    "contact": {
+        "phone_number": "78329735",
+        "e-mail": "info@casamiapaladar.com",
+        "web_page": "https://linktr.ee/Casamiapaladar",
+        "whatsapp": "51967544",
+        "facebook": "CasaMiaPaladar",
+        "instagram": "@casamiapaladar"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "internacional", "fusión", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                { 
+                    "name": "pan de la casa", 
+                    "price": 980 
+                },
+                { 
+                    "name": "nuestras croquetas", 
+                    "price": 1600 
+                },
+                { 
+                    "name": "seviche de pescado y mango", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "crema de calabza y crujiente de bacon", 
+                    "price": 2300 
+                },
+                { 
+                    "name": "tostones rellenos con jamón y queso gouda", 
+                    "price": 2300 
+                },
+                { 
+                    "name": "garbanzos fritos con chorizo casero y bacon", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "crepe de pollo", 
+                    "price": 2700 
+                },
+                { 
+                    "name": "coctel de langosta", 
+                    "price": 2900 
+                },
+                { 
+                    "name": "lasaña boloñesa", 
+                    "price": 2600 
+                },
+                { 
+                    "name": "carpaccio de pulpo", 
+                    "price": 3200 
+                },
+                { 
+                    "name": "carpaccio de res con queso parmesano y aceite de trutas", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "tacos de cerdo", 
+                    "price": 2300 
+                },
+                { 
+                    "name": "dumplings fritos", 
+                    "price": 1600 
+                },
+                { 
+                    "name": "tabla de jamón serrano, rúcula, aceitunas, queso cabra y pan de la casa", 
+                    "price": 5200 
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { 
+                    "name": "pasta amatriciana", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "pan con pesto y camarones", 
+                    "price": 4200 
+                },
+                { 
+                    "name": "pasta con bacon y crema de trufas", 
+                    "price": 4800 
+                },
+                { 
+                    "name": "espaguetti frutti di mare", 
+                    "price": 4500 
+                },
+                { 
+                    "name": "rissoto de mariscos", 
+                    "price": 4800 
+                },
+                { 
+                    "name": "camarones al ajillo", 
+                    "price": 4500 
+                },
+                { 
+                    "name": "camarones en salsa de curry y arroz blanco", 
+                    "price": 4500 
+                },
+                { 
+                    "name": "pulpo estilo casa mia", 
+                    "price": 5800 
+                },
+                { 
+                    "name": "cazuela de mariscos en nuestra salsa de tomate", 
+                    "price": 4800 
+                },
+                { 
+                    "name": "salmón en salsa de cebolla y tomate confitado", 
+                    "price": 5200 
+                },
+                { 
+                    "name": "filete de pescado grillé", 
+                    "price": 4200 
+                },
+                { 
+                    "name": "filete de pescado en salsa cremosa de limón", 
+                    "price": 4500 
+                },
+                { 
+                    "name": "langosta en nuestra salsa de piña", 
+                    "price": 6100 
+                },
+                { 
+                    "name": "pechuga de pollo al ajillo con piña glaseada", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "cordon bleu de pechuga de pollo", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "bistec encebollado", 
+                    "price": 4500 
+                },
+                { 
+                    "name": "costillas de cerdo en salsa barbacoa", 
+                    "price": 4200 
+                },
+                { 
+                    "name": "lomo ahumado de cerdo en salsa de frutas tropicales", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "cordero estilo casa mía", 
+                    "price": 4800 
+                },
+                { 
+                    "name": "ropa vieja de res", 
+                    "price": 3600 
+                },
+                { 
+                    "name": "punta de res a la dutch (200g)", 
+                    "price": 6100 
+                },
+                { 
+                    "name": "filete tenderloín (220g)", 
+                    "price": 7800 
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                { 
+                    "name": "arroz blanco", 
+                    "price": 650 
+                },
+                { 
+                    "name": "frijoles negros", 
+                    "price": 800 
+                },
+                { 
+                    "name": "arroz negros", 
+                    "price": 800 
+                },
+                { 
+                    "name": "tostones con mojo criollo", 
+                    "price": 800 
+                },
+                { 
+                    "name": "puré de boniato con bacon", 
+                    "price": 950 
+                },
+                { 
+                    "name": "papas alemanas", 
+                    "price": 1300 
+                },
+                { 
+                    "name": "papas fritas", 
+                    "price": 1300 
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                { 
+                    "name": "flan de leche", 
+                    "price": 1300 
+                },
+                { 
+                    "name": "flan con helado", 
+                    "price": 1950 
+                },
+                { 
+                    "name": "helado de la casa", 
+                    "price": 1300 
+                },
+                { 
+                    "name": "semi frío casa mía", 
+                    "price": 1500 
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                { 
+                    "name": "agua importada", 
+                    "price": 800 
+                },
+                { 
+                    "name": "agua tónica importada", 
+                    "price": 1200 
+                }
+            ],
+            "soft_drinks" : [
+                { 
+                    "name": "refrescos importados", 
+                    "price": 800 
+                },
+                { 
+                    "name": "malta", 
+                    "price": 950 
+                },
+                { 
+                    "name": "red bull", 
+                    "price": 1500 
+                }
+            ],
+            "juices" : [
+                { 
+                    "name": "jugos naturales del día", 
+                    "price": 800 
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                { 
+                    "name": "cervezas", 
+                    "price": 950 
+                },
+                { 
+                    "name": "servicio de chelada", 
+                    "price": 650 
+                },
+                { 
+                    "name": "servicio de michelada", 
+                    "price": 800 
+                },
+                { 
+                    "name": "copa de vino de la casa", 
+                    "price": 1450 
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

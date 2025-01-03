@@ -1,0 +1,317 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Fin de Siglo",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.136227081972006, 
+        "longitude": -82.36206873376179
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59529982",
+        "facebook": "Fin de Siglo",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "0300"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "0300"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "0300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cocteleria", "cubana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 700
+                },
+                {
+                    "name": "pollo salteado con vegetales",
+                    "price": 800
+                },
+                {
+                    "name": "tabla de jamon y queso",
+                    "price": 1200
+                },
+                {
+                    "name": "picadera Fin de siglo",
+                    "price": 2500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 800
+                },
+                {
+                    "name": "pizza de queso blanco con jamon",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de queso blanco con chorizo",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de queso blanco hawaiana",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza de queso gouda con jamon",
+                    "price": 1400
+                },  
+                {
+                    "name": "pizza de queso gouda con chorizo",
+                    "price": 1400
+                },
+                {
+                    "name": "pizza de queso gouda hawaiana",
+                    "price": 1800
+                },
+                {
+                    "name": "spaghetti de queso blanco",
+                    "price": 900
+                },
+                {
+                    "name": "spaghetti de queso blanco con jamon",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti de queso blanco con chorizo",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti de queso blanco con pollo",
+                    "price": 850
+                },
+                {
+                    "name": "spaghetti de queso gouda",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti de queso gouda con jamon",
+                    "price": 1400
+                },  
+                {
+                    "name": "spaghetti de queso gouda con chorizo",
+                    "price": 1400
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso blanco",
+                    "price": 500
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 700
+                },
+                {
+                    "name": "jamon",
+                    "price": 450
+                },
+                {
+                    "name": "pollo",
+                    "price": 350
+                },
+                {
+                    "name": "piña",
+                    "price": 550
+                },
+                {
+                    "name": "chorizo",
+                    "price": 450
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 300
+                }
+            ],
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza dispensada",
+                    "price" : 400
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 550
+                },
+                {
+                    "name": "caipiríssima",
+                    "price": 550
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 660
+                },
+                {
+                    "name": "daiquirí",
+                    "price": 550
+                },
+                {
+                    "name": "daiquirí Rebelde",
+                    "price": 550
+                },
+                {
+                    "name": "margarita",
+                    "price": 990
+                },
+                {
+                    "name": "cubata",
+                    "price": 550
+                },
+                {
+                    "name": "cuba Libre",
+                    "price": 550
+                },
+                {
+                    "name": "3 Años",
+                    "price": 385
+                },
+                {
+                    "name": "carta Blanca",
+                    "price": 330
+                },
+                {
+                    "name": "especial",
+                    "price": 440
+                },
+                {
+                    "name": "pacto Navío",
+                    "price": 20000
+                },
+                {
+                    "name": "cuban spiced",
+                    "price": 550
+                },
+                {
+                    "name": "ron santiago",
+                    "price": 880
+                },
+                {
+                    "name": "jameson",
+                    "price": 1100
+                },
+                {
+                    "name": "clan sampbell",
+                    "price": 990
+                },
+                {
+                    "name": "vat 69",
+                    "price": 990
+                },
+                {
+                    "name": "ballantines",
+                    "price": 13500
+                },
+                {
+                    "name": "old partner",
+                    "price": 35000
+                },
+                {
+                    "name": "red label",
+                    "price": 1100
+                },
+                {
+                    "name": "beeffatter",
+                    "price": 440
+                },
+                {
+                    "name": "jagger",
+                    "price": 990
+                },
+                {
+                    "name": "tequila silver",
+                    "price": 880
+                },
+                {
+                    "name": "tequila reposado",
+                    "price": 990
+                },
+                {
+                    "name": "tequila chocolate",
+                    "price": 1100
+                },
+                {
+                    "name": "rua vieja",
+                    "price": 880
+                },
+                {
+                    "name": "amaretto",
+                    "price": 880
+                },
+                {
+                    "name": "chelada",
+                    "price": 770
+                },
+                {
+                    "name": "michelada",
+                    "price": 880
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

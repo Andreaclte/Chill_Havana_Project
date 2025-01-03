@@ -1,0 +1,207 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Rodney",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.094809204242612, 
+        "longitude": -82.41865532082285
+    },
+    "contact": {
+        "phone_number": "72671717",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "rodneytropicana",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "0400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "0400"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "sandwich de un agrego",
+                    "price": 230
+                },
+                {
+                    "name": "sandwich de dos agregos",
+                    "price": 300
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "picadera de la casa",
+                    "price": 650
+                },
+                {
+                    "name": "entremes de embutido y queso",
+                    "price": 400
+                },
+                {
+                    "name": "tacos mexicanos de pollo",
+                    "price": 700
+                },
+                {
+                    "name": "tacos mexicanos de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "sopa del dia",
+                    "price": 125
+                },
+                {
+                    "name": "croquetas",
+                    "price": 250
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 350
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 480
+                },
+                {
+                    "name": "crema de calabaza con queso",
+                    "price": 400
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 600
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "lonjas de cerdo asada",
+                    "price": 2000
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 2300
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1800
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 850
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 900
+                },
+                {
+                    "name": "pollo deshuesado",
+                    "price": 900
+                },
+                {
+                    "name": "filete migñon",
+                    "price": 3000
+                },
+                {
+                    "name": "steack de res",
+                    "price": 1400
+                },
+                {
+                    "name": "filete de pescado a la plancha",
+                    "price": 1500
+                },
+                {
+                    "name": "filete de pescado gratinado con queso",
+                    "price": 1750
+                },
+                {
+                    "name": "filete de pescado canciller",
+                    "price": 2000
+                },
+                {
+                    "name": "langosta a la plancha",
+                    "price": 1800
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 1900
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 500
+                },
+                {
+                    "name": "pizza campesina",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza especial rodney (rellena con queso)",
+                    "price": 800
+                },
+                {
+                    "name": "pizza especial rodney (rellena con embutido)",
+                    "price": 900
+                },
+                {
+                    "name": "pizza super especial rodney (rellena con queso y varios embutidos)",
+                    "price": 1200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

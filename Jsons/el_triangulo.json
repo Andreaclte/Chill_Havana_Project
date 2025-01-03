@@ -1,0 +1,148 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Triangulo",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.171538273047627, 
+        "longitude": -82.2534967783034
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "fajitas de pollo",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas",
+                    "price": 150
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 150
+                },
+                {
+                    "name": "tostones",
+                    "price": 150
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo frito",
+                    "price": 1000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua",
+                    "price" : 120
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refrescos",
+                    "price" : 220
+                },
+                {
+                    "name" : "red bull",
+                    "price" : 230
+                },
+                {
+                    "name" : "malta",
+                    "price" : 220
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugo de caja",
+                    "price" :180
+                }  
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza bucanero",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza escorial",
+                    "price": 200
+                },
+                {
+                    "name": "cerveza holanda",
+                    "price": 200
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

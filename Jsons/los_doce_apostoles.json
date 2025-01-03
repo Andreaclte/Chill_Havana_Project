@@ -1,0 +1,195 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Los Doce Apóstoles",
+    "district": "Habana Del Este",
+    "coordinates": {
+        "latitude": 23.149876102274252, 
+        "longitude": -82.3559954456767
+    },
+    "contact": {
+        "phone_number": "77937733",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59886505",
+        "facebook": "Restaurante Doce Apostoles",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 400
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 550
+                },
+                {
+                    "name": "anillas de calamar",
+                    "price": 550
+                },
+                {
+                    "name": "alitas de pollo",
+                    "price": 450
+                },
+                {
+                    "name": "nuggets de pollo",
+                    "price": 250
+                },
+                {
+                    "name": "picadera especial",
+                    "price": 600
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo grille",
+                    "price": 700
+                },
+                {
+                    "name": "fajitas de res",
+                    "price": 950
+                },
+                {
+                    "name": "steak de res",
+                    "price": 950
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 800
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 900
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 900
+                },
+                {
+                    "name": "pescado del chef",
+                    "price": 1100
+                },
+                {
+                    "name": "gambas al grill",
+                    "price": 1200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "maltas",
+                    "price": 210
+                },
+                {
+                    "name": "maltina perla negra",
+                    "price": 180
+                },
+                {
+                    "name": "refrescos nacionales",
+                    "price": 280
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo natural en caja",
+                    "price": 300
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza dispensada",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 215
+                },
+                {
+                    "name": "vino tinto (copa)",
+                    "price": 200
+                },
+                {
+                    "name": "ron habana club anejo blanco (shot)",
+                    "price": 80
+                },
+                {
+                    "name": "ron habana club profundo (shot)",
+                    "price": 160
+                },
+                {
+                    "name": "ron habana club seleccion de maestro (shot)",
+                    "price": 350
+                },
+                {
+                    "name": "ron cubay carta blanca (shot)",
+                    "price": 100
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

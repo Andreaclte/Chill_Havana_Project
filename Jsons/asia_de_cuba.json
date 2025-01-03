@@ -1,0 +1,372 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Asia de Cuba",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.128994860348442, 
+        "longitude": -82.39670541533232
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "http://asiadecubarestaurant.com/menu",
+        "whatsapp": "50956929",
+        "facebook": false,
+        "instagram": "@asia_cuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0730",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["asiática", "japonesa", "china", "caribeña", "fusion"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "caribe zen roll",
+                    "price": 1840
+                },
+                {
+                    "name": "tartar sakura tango saigon",
+                    "price": 2500
+                },
+                {
+                    "name": "satay de sumatra",
+                    "price": 1550
+                },
+                {
+                    "name": "croquetas sonaderas de pollo/ropa vieja",
+                    "price": 1800
+                },
+                {
+                    "name": "mano del dragón",
+                    "price": 2080
+                },
+                {
+                    "name": "rey mono",
+                    "price": 2080
+                },
+                {
+                    "name": "dragón del mar",
+                    "price": 2400
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bonito tai red",
+                    "price": 3840
+                },
+                {
+                    "name": "maki saiko ebi hana",
+                    "price": 2080
+                },
+                {
+                    "name": "brasa patagonia",
+                    "price": 6560
+                },
+                {
+                    "name": "langosta coco verde",
+                    "price": 5760
+                },
+                {
+                    "name": "uramaki umi no haikiri",
+                    "price": 1950
+                },
+                {
+                    "name": "nigiri ika no yume",
+                    "price": 2400
+                },
+                {
+                    "name": "brocheta dak galbi",
+                    "price": 3840
+                },
+                {
+                    "name": "brocheta gochu vermounth harmony",
+                    "price": 4480
+                },
+                {
+                    "name": "char siu delhi",
+                    "price": 4160
+                },
+                {
+                    "name": "ssamn kimuchi tropical",
+                    "price": 3200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "sensei borracho",
+                    "price": 1920
+                },
+                {
+                    "name": "maestro shifu",
+                    "price": 2080
+                },
+                {
+                    "name": "mei mei",
+                    "price": 1800
+                },
+                {
+                    "name": "maestro shinobi",
+                    "price": 1760
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "daiquirí",
+                    "price": 900
+                },
+                {
+                    "name": "daiquirí de fruta",
+                    "price": 1100
+                },
+                {
+                    "name": "gin tonic simple",
+                    "price": 1400
+                },
+                {
+                    "name": "margarita",
+                    "price": 900
+                },
+                {
+                    "name": "martini dry",
+                    "price": 1100
+                },
+                {
+                    "name": "michelada",
+                    "price": 1100
+                },
+                {
+                    "name": "mojito",
+                    "price": 900
+                },
+                {
+                    "name": "negroni",
+                    "price": 1200
+                },
+                {
+                    "name": "aperol spritz",
+                    "price": 1400
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 1100
+                },
+                {
+                    "name": "caipirísima",
+                    "price": 900
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 900
+                },
+                {
+                    "name": "canchánchara",
+                    "price": 900
+                },
+                {
+                    "name": "coctel danzon",
+                    "price": 1200
+                },
+                {
+                    "name": "coctel mambo",
+                    "price": 1200
+                },
+                {
+                    "name": "coctel son",
+                    "price": 1500
+                },
+                {
+                    "name": "coctel tecno sour",
+                    "price": 1100
+                },
+                {
+                    "name": "coctel tango",
+                    "price": 1200
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 900
+                },
+                {
+                    "name": "cubanito",
+                    "price": 1200
+                },
+                {
+                    "name": "sambuca san faustino",
+                    "price": 600
+                },
+                {
+                    "name": "old fashioned",
+                    "price": 1500
+                },
+                {
+                    "name": "piña colada",
+                    "price": 1200
+                },
+                {
+                    "name": "pisco sour",
+                    "price": 1400
+                },
+                {
+                    "name": "sangría",
+                    "price": 1500
+                },
+                {
+                    "name": "penicillin",
+                    "price": 1400
+                },
+                {
+                    "name": "lemon song",
+                    "price": 1100
+                },
+                {
+                    "name": "okinawa spritz",
+                    "price": 1400
+                },
+                {
+                    "name": "crema bailys",
+                    "price": 950
+                },
+                {
+                    "name": "frangelico",
+                    "price": 1000
+                },
+                {
+                    "name": "limoncello",
+                    "price": 600
+                },
+                {
+                    "name": "sirope de kiwi",
+                    "price": 600
+                },
+                {
+                    "name": "sirope de manzana",
+                    "price": 125
+                },
+                {
+                    "name": "campari",
+                    "price": 850
+                },
+                {
+                    "name": "licor de café",
+                    "price": 740
+                },
+                {
+                    "name": "whiskeys jack daniels",
+                    "price": 1500
+                },
+                {
+                    "name": "whiskeys jim bean",
+                    "price": 1200
+                },
+                {
+                    "name": "whiskeys jhonny walker red label",
+                    "price": 1200
+                },
+                {
+                    "name": "whiskeys jamenson",
+                    "price": 850
+                },
+                {
+                    "name": "whiskys jhonny walker black label",
+                    "price": 2000
+                },
+                {
+                    "name": "ron havana club pacto navío",
+                    "price": 2000
+                },
+                {
+                    "name": "ron havana club 3 anos",
+                    "price": 480
+                },
+                {
+                    "name": "ron havana club 7 anos",
+                    "price": 900
+                },
+                {
+                    "name": "ron santiago 8 anos",
+                    "price": 950
+                },
+                {
+                    "name": "ron santiago 11 anos",
+                    "price": 1250
+                },
+                {
+                    "name": "ron santiago 12 anos",
+                    "price": 1650
+                },
+                {
+                    "name": "eminente 3 anos",
+                    "price": 3000
+                },
+                {
+                    "name": "ron black tears roble superior",
+                    "price": 650
+                },
+                {
+                    "name": "ron selección de maestros",
+                    "price": 3300
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+    }
+}

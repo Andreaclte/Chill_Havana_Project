@@ -1,0 +1,152 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Restaurante Lan",
+    "district": "Regla",
+    "coordinates": {
+        "latitude": 23.12540621324244, 
+        "longitude": -82.33255714289457
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["criolla", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "mariquitas",
+                    "price": 200
+                },
+                {
+                    "name": "tostones r. rellenos",
+                    "price": 300
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de higado",
+                    "price": 500
+                },
+                {
+                    "name": "fricase de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "camarones al ajillo",
+                    "price": 550
+                },
+                {
+                    "name": "enchilada de camarones",
+                    "price": 550
+                },
+                {
+                    "name": "filete de malanga c/s. agridulce",
+                    "price": 300
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 550
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 500
+                },
+                {
+                    "name": "bistec de palillo empanado",
+                    "price": 550
+                },
+                {
+                    "name": "camarones empanados",
+                    "price": 550
+                },
+                {
+                    "name": "pizza mixta med/fam.",
+                    "price": 400
+                },
+                {
+                    "name": "pizza cebolla med/fam.",
+                    "price": 300
+                },
+                {
+                    "name": "pizza jamon med/fam.",
+                    "price": 350
+                },
+                {
+                    "name": "pizza napole med/fam.",
+                    "price": 400
+                },
+                {
+                    "name": "pizza doble queso med/fam.",
+                    "price": 350
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 250
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 350
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

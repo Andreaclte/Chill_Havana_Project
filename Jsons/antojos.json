@@ -1,0 +1,343 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Antojos",
+    "district": "La Habana Vieja",
+    "coordinates": {
+        "latitude": 23.141810755681387, 
+        "longitude": -82.355151334157
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://linktr.ee/restauranteantojos",
+        "whatsapp": "52824907",
+        "facebook": "RESTAURANTE ANTOJOS",
+        "instagram": "@restauranteantojos"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "cubana", "centroamericana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "fritura de temporada / frying in season",
+                    "price": 950
+                },
+                {
+                    "name": "croquetas de la casa / home croquettes",
+                    "price": 1700
+                },
+                {
+                    "name": "tostones campesinos / farmer fried plantain",
+                    "price": 750
+                },
+                {
+                    "name": "caldosa guajira / country consomme",
+                    "price": 1400
+                },
+                {
+                    "name": "tacos",
+                    "price": 2700
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "trozos de pollo a la mantequilla / butter chicken",
+                    "price": 2950
+                },
+                {
+                    "name": "ropa vieja con platanitos maduros / shredded beef with fried sweet banana",
+                    "price": 3150
+                },
+                {
+                    "name": "ensalada campesina / country salad",
+                    "price": 1800
+                },
+                {
+                    "name": "costillas de cerdo barbacoa / bbq pork ribs",
+                    "price": 4300
+                },
+                {
+                    "name": "arroz a la chorrera (2 pax) / a la chorrera melted rice (2 pax)",
+                    "price": 3500
+                },
+                {
+                    "name": "picadillo a la habanera / a la habanera ground beef",
+                    "price": 2930
+                },
+                {
+                    "name": "masas de cerdo frita / fried pork chops",
+                    "price": 3800
+                },
+                {
+                    "name": "camarones al gusto / shrimp at your choice",
+                    "price": 3900
+                },
+                {
+                    "name": "pollo grille / grilled chicken on the coal",
+                    "price": 2950
+                },
+                {
+                    "name": "pesca al carbon / fish of the day on the coal",
+                    "price": 3950
+                },
+                {
+                    "name": "pinchos antojos / antojos brochette",
+                    "price": 3700
+                },
+                {
+                    "name": "lomo al carbon / pork loin on the coal",
+                    "price": 4500
+                },
+                {
+                    "name": "bistec de cerdo encebollado / pork steak",
+                    "price": 3550
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "vianda frita / fried crop of the day",
+                    "price": 800
+                },
+                {
+                    "name": "potaje / bean soup",
+                    "price": 950
+                },
+                {
+                    "name": "arroz blanco / white rice",
+                    "price": 800
+                },
+                {
+                    "name": "pan artesanal / homemade bread",
+                    "price": 1050
+                },
+                {
+                    "name": "vegetales al carbon / vegetables on the coal",
+                    "price": 1250
+                },
+                {
+                    "name": "crema de malanga / taro cream",
+                    "price": 1400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "postres de la casa / desserts",
+                    "price": 950
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "aguas naturales",
+                    "price": 650
+                },
+                {
+                    "name": "aguas tonicas",
+                    "price": 750
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos",
+                    "price": 650
+                },
+                {
+                    "name": "red bull",
+                    "price": 850
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos naturales",
+                    "price": 750
+                },
+                {
+                    "name": "limonada",
+                    "price": 900
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "mojito antojos",
+                    "price": 1280
+                },
+                {
+                    "name": "ron collins",
+                    "price": 1180
+                },
+                {
+                    "name": "pina colada",
+                    "price": 1630
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 1230
+                },
+                {
+                    "name": "cubata",
+                    "price": 1230
+                },
+                {
+                    "name": "cubanito",
+                    "price": 1380
+                },
+                {
+                    "name": "canchánchara",
+                    "price": 1150
+                },
+                {
+                    "name": "cerveza",
+                    "price": 800
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 1250
+                },
+                {
+                    "name": "vino blanco (copa)",
+                    "price": 1400
+                },
+                {
+                    "name": "havana special",
+                    "price": 1180
+                },
+                {
+                    "name": "vino tinto (copa)",
+                    "price": 1450
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 1450
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 1500
+                },
+                {
+                    "name": "negroni",
+                    "price": 1550
+                },
+                {
+                    "name": "martini",
+                    "price": 1500
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 1250
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 1200
+                },
+                {
+                    "name": "margarita",
+                    "price": 1380
+                },
+                {
+                    "name": "mary pickford",
+                    "price": 1150
+                },
+                {
+                    "name": "chelada",
+                    "price": 900
+                },
+                {
+                    "name": "michelada",
+                    "price": 1100
+                },
+                {
+                    "name": "michelada de la casa",
+                    "price": 1200
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe americano",
+                    "price": 400
+                },
+                {
+                    "name": "cafe expresso",
+                    "price": 400
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 430
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 500
+                },
+                {
+                    "name": "cafe capuchino",
+                    "price": 500
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 550
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 900
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

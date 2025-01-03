@@ -1,0 +1,307 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Coco Blue y la Zorra Pelua",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.131291003595813, 
+        "longitude": -82.40481170717004
+    },
+    "contact": {
+        "phone_number": "78374828",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59121916",
+        "facebook": "CocoBlue And La ZorraPelua",
+        "instagram": "@cocoblueylazorrapelua"
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": false,
+            "close": false
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "0030"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "0030"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "0030"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "0030"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "cubana", "cocteleria"],
+    "services": {
+        "plant": null,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "desayuno",
+                    "price": 2800
+                },
+                {
+                    "name": "hamburguesa de pollo",
+                    "price": 1400
+                },
+                {
+                    "name": "hamburguesa de res",
+                    "price": 1900
+                },
+                {
+                    "name": "sandwich zorra pelua",
+                    "price": 1600
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "nachos",
+                    "price": 400
+                },
+                {
+                    "name": "boniato frito",
+                    "price": 500
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 700
+                },
+                {
+                    "name": "croquetas de pescado",
+                    "price": 1000
+                },
+                {
+                    "name": "croquetas de res",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos de vegetales",
+                    "price": 1000
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1200
+                },
+                {
+                    "name": "ceviche",
+                    "price": 1600
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de pollo",
+                    "price": 2000
+                },
+                {
+                    "name": "spaguetti napolitano",
+                    "price": 1600
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 2000
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2100
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "cascos de guayaba",
+                    "price": 800
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "tónica",
+                    "price": 500
+                },
+                {
+                    "name": "gaseada",
+                    "price": 600
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos",
+                    "price": 500
+                },
+                {
+                    "name": "energizante",
+                    "price": 700
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de frutas",
+                    "price": 450
+                },
+                {
+                    "name": "limonada natural",
+                    "price": 450
+                },
+                {
+                    "name": "limonada frappé",
+                    "price": 500
+                },
+                {
+                    "name": "limonada frescura",
+                    "price": 600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cervezas importadas",
+                    "price": 500
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 550
+                },
+                {
+                    "name": "cristal dispensada",
+                    "price": 400
+                },
+                {
+                    "name": "cubetazo",
+                    "price": 2800
+                },
+                {
+                    "name": "mojito",
+                    "price": 700
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 700
+                },
+                {
+                    "name": "cubata",
+                    "price": 600
+                },
+                {
+                    "name": "daiquirí",
+                    "price": 700
+                },
+                {
+                    "name": "daiquirí de sabores",
+                    "price": 750
+                },
+                {
+                    "name": "caipiriña",
+                    "price": 600
+                },
+                {
+                    "name": "caipiroska base",
+                    "price": 570
+                },
+                {
+                    "name": "caipirísima",
+                    "price": 650
+                },
+                {
+                    "name": "piña colada",
+                    "price": 700
+                },
+                {
+                    "name": "chelada",
+                    "price": 880
+                },
+                {
+                    "name": "michelada",
+                    "price": 900
+                },
+                {
+                    "name": "sangría",
+                    "price": 1100
+                },
+                {
+                    "name": "margarita",
+                    "price": 800
+                },
+                {
+                    "name": "long island",
+                    "price": 1100
+                },
+                {
+                    "name": "jagger bomb",
+                    "price": 1000
+                },
+                {
+                    "name": "blue lagon",
+                    "price": 1100
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 400
+                },
+                {
+                    "name": "cortado",
+                    "price": 450
+                },
+                {
+                    "name": "capuccino",
+                    "price": 500
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 600
+                },
+                {
+                    "name": "americano",
+                    "price": 350
+                }
+            ]
+            },
+        "special_offers": false
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Casona del Cerro",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.11469533090789, 
+        "longitude": -82.38140701647916
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "1400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana c/queso gouda",
+                    "price": 450
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 650
+                },
+                {
+                    "name": "pizza de jamon y queso gouda",
+                    "price": 500
+                },
+                {
+                    "name": "pizza mixta c/queso gouda",
+                    "price": 550
+                },
+                {
+                    "name": "pizza familiar c/queso gouda",
+                    "price": 900
+                },
+                {
+                    "name": "pizza familiar doble queso",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza familiar de jamon y queso gouda",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza familiar mixta c/queso gouda",
+                    "price": 1050
+                },
+                {
+                    "name": "spaghetti c/queso gouda",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti c/ jamon y queso gouda",
+                    "price": 500
+                },
+                {
+                    "name": "spaghetti doble queso gouda",
+                    "price": 650
+                },
+                {
+                    "name": "spaghetti mixto",
+                    "price": 550
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 1100
+                },
+                {
+                    "name": "masa frita",
+                    "price": 900
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 850
+                },
+                {
+                    "name": "fricasé de cerdo",
+                    "price": 850
+                },
+                {
+                    "name": "chuleta",
+                    "price": 1000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan",
+                    "price" : 350
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+        }
+}

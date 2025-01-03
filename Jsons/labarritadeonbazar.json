@@ -1,0 +1,219 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "La Barrita Onbazar",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.121985720348754, 
+        "longitude": -82.3738952629934
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "labarrita.onbazar.net",
+        "whatsapp": "54494741",
+        "facebook": false,
+        "instagram": "@la_barrita_onbazar"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "0100"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "0100"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "0100"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana", "americana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tostones rellenos",
+                    "price": 1300
+                },
+                {
+                    "name": "jamon, queso y aceitunas",
+                    "price": 750
+                },
+                {
+                    "name": "mixta",
+                    "price": 1600
+                },
+                {
+                    "name": "brochetas",
+                    "price": 2000
+                },
+                {
+                    "name": "croquetas",
+                    "price": 650
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1500
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 1650
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de napolitana",
+                    "price": 850
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de hawaiana",
+                    "price": 1150
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 850
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 1100
+                },
+                {
+                    "name": "spaghetti de chorizo",
+                    "price": 1000
+                },
+                {
+                    "name": "hamburguesa",
+                    "price": 1200
+                },
+                {
+                    "name": "hamburguesa jamon y queso",
+                    "price": 1650
+                },
+                {
+                    "name": "hamburguesa onbazar",
+                    "price": 2700
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamon",
+                    "price": 150
+                },
+                {
+                    "name": "cebolla",
+                    "price": 150
+                },
+                {
+                    "name": "chorizo",
+                    "price": 150
+                },
+                {
+                    "name": "hawaiana",
+                    "price": 250
+                },
+                {
+                    "name": "doble queso",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "piña colada",
+                    "price": 600
+                },
+                {
+                    "name": "limonada frape",
+                    "price": 400
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "piña colada (alcohol)",
+                    "price": 750
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expreso",
+                    "price": 180
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 220
+                },
+                {
+                    "name": "capuchino",
+                    "price": 450
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 450
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

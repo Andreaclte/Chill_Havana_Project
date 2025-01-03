@@ -1,0 +1,191 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Doña Almira",
+    "district": "Boyeros",
+    "coordinates": {
+        "latitude": 23.065174820392418, 
+        "longitude": -82.3755823766412
+    },
+    "contact": {
+        "phone_number": "76472532",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Doña Almira",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": false,
+            "close": false
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash":true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tostones rellenos",
+                    "price": 850
+                },
+                {
+                    "name": "tamal en cazuela",
+                    "price": 785
+                },
+                {
+                    "name": "vegetales rellenos",
+                    "price": 895
+                },
+                {
+                    "name": "racion de chicharrones",
+                    "price": 300
+                },
+                {
+                    "name": "aderezo doña almira",
+                    "price": 385
+                },
+                {
+                    "name": "salsa agridulce",
+                    "price": 395
+                },
+                {
+                    "name": "entredos de chorizo",
+                    "price": 1225
+                },
+                {
+                    "name": "ceviche de pescado",
+                    "price": 685
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "mignon de pescado grille",
+                    "price": 1370
+                },
+                {
+                    "name": "mignon de pescado a las finas hierbas",
+                    "price": 1410
+                },
+                {
+                    "name": "mignon de pescado doña almira",
+                    "price": 1650
+                },
+                {
+                    "name": "mignon de pescado gratinado",
+                    "price": 1585
+                },
+                {
+                    "name": "mignon de pescado con queso y bacon",
+                    "price": 1720
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 1890
+                },
+                {
+                    "name": "bistec americano",
+                    "price": 2430
+                },
+                {
+                    "name": "nasobuco",
+                    "price": 1860
+                },
+                {
+                    "name": "bistec de higado",
+                    "price": 1290
+                },
+                {
+                    "name": "higado a la italiana",
+                    "price": 1380
+                },
+                {
+                    "name": "lomo rostizado",
+                    "price": 2150
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz moro",
+                    "price": 120
+                },
+                {
+                    "name": "ensalada de estacion",
+                    "price": 285
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "mousse variados",
+                    "price" : 570
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : null,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name" : "cafe cubano",
+                    "price" : 150
+                },
+                {
+                    "name" : "cafe cortado",
+                    "price" : 180
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

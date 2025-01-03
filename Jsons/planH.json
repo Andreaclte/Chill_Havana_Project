@@ -1,0 +1,497 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Planh Enoteca & Restaurante Mithai",
+    "district": "La Habana Vieja",
+    "coordinates": {
+        "latitude": 23.139568075702893, 
+        "longitude": -82.35939313561359
+    },
+    "contact": {
+        "phone_number": "78616212",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53867350",
+        "facebook": "PlanH - Enoteca & Delicatessen",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1130",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1130",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["asiática", "internacional", "tailandesa"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "vegetariano",
+                    "price": 3030
+                },
+                {
+                    "name": "tropical",
+                    "price": 3252
+                },
+                {
+                    "name": "serrano",
+                    "price": 4165
+                },
+                {
+                    "name": "frutas frescas",
+                    "price": 805
+                },
+                {
+                    "name": "cesta de pan fresco / mantequilla / jugo natural",
+                    "price": 1650
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ceviche de pescado plan h",
+                    "price": 2000
+                },
+                {
+                    "name": "tapache serrano",
+                    "price": 1900
+                },
+                {
+                    "name": "ceviche de atun de verano",
+                    "price": 2382
+                },
+                {
+                    "name": "ceviche de pulpo",
+                    "price": 2450
+                },
+                {
+                    "name": "croquetas plan h",
+                    "price": 1000
+                },
+                {
+                    "name": "brochetas de pollo",
+                    "price": 2300
+                },
+                {
+                    "name": "tapa de pulpo a la habanera",
+                    "price": 2600
+                },
+                {
+                    "name": "mix de casabe crujiente",
+                    "price": 2050
+                },
+                {
+                    "name": "ensalada salachic",
+                    "price": 1447
+                },
+                {
+                    "name": "ensalada vegana",
+                    "price": 765
+                },
+                {
+                    "name": "tabla de 5 quesos",
+                    "price": 3658
+                },
+                {
+                    "name": "tabla parrillera",
+                    "price": 3320
+                },
+                {
+                    "name": "tabla mixta plan h",
+                    "price": 4138
+                },
+                {
+                    "name": "aceitunas negras",
+                    "price": 350
+                },
+                {
+                    "name": "aceitunas verdes",
+                    "price": 250
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 773
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo california",
+                    "price": 2465
+                },
+                {
+                    "name": "lomo de res",
+                    "price": 3350
+                },
+                {
+                    "name": "atun natural",
+                    "price": 3500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural don aguiar",
+                    "price": 420
+                },
+                {
+                    "name": "agua tonica me",
+                    "price": 584
+                },
+                {
+                    "name": "agua ginger ale",
+                    "price": 650
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco ritz cola",
+                    "price": 300
+                },
+                {
+                    "name": "refresco ritz naranja",
+                    "price": 300
+                },
+                {
+                    "name": "redbull",
+                    "price": 450
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frappe",
+                    "price": 540
+                },
+                {
+                    "name": "limonada frescura",
+                    "price": 550
+                },
+                {
+                    "name": "jugo natural",
+                    "price": 498
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "i heart chardonnay",
+                    "price": 875
+                },
+                {
+                    "name": "i heart pinot grigio",
+                    "price": 875
+                },
+                {
+                    "name": "i heart reisling",
+                    "price": 875
+                },
+                {
+                    "name": "etcetera rueda verdejo 2022",
+                    "price": 875
+                },
+                {
+                    "name": "mapu sauvignon blanc",
+                    "price": 875
+                },
+                {
+                    "name": "i heart merlot",
+                    "price": 875
+                },
+                {
+                    "name": "trapiche vinyard malbec 2021",
+                    "price": 875
+                },
+                {
+                    "name": "finca del mar tempranillo 2019",
+                    "price": 875
+                },
+                {
+                    "name": "freixenet chianti",
+                    "price": 875
+                },
+                {
+                    "name": "mapu carmenere",
+                    "price": 875
+                },
+                {
+                    "name": "infinitus tempranillo/cabernet franc",
+                    "price": 945
+                },
+                {
+                    "name": "j. bouchon rose 2021",
+                    "price": 1050
+                },
+                {
+                    "name": "cava mistinguett brut",
+                    "price": 945
+                },
+                {
+                    "name": "cava freixenet rose",
+                    "price": 875
+                },
+                {
+                    "name": "cava brut cordon negro freixenet",
+                    "price": 4650
+                },
+                {
+                    "name": "freye parellada moscat 2022",
+                    "price": 5600
+                },
+                {
+                    "name": "enate chardonnay 2021",
+                    "price": 11230
+                },
+                {
+                    "name": "melior de matarromera verdejo 2021",
+                    "price": 10517
+                },
+                {
+                    "name": "emilio moro 2019",
+                    "price": 18467
+                },
+                {
+                    "name": "melior de matarromera tempranillo 2020",
+                    "price": 10517
+                },
+                {
+                    "name": "pazo pondal olivia rose",
+                    "price": 15090
+                },
+                {
+                    "name": "lafage gallicia 2019",
+                    "price": 5320
+                },
+                {
+                    "name": "cerveza cristal",
+                    "price": 600
+                },
+                {
+                    "name": "michelada",
+                    "price": 700
+                },
+                {
+                    "name": "chelada",
+                    "price": 600
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 800
+                },
+                {
+                    "name": "pina colada",
+                    "price": 1000
+                },
+                {
+                    "name": "mojito natural",
+                    "price": 850
+                },
+                {
+                    "name": "mojito tonic",
+                    "price": 1020
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 850
+                },
+                {
+                    "name": "mimosas",
+                    "price": 900
+                },
+                {
+                    "name": "ice on the rock",
+                    "price": 1325
+                },
+                {
+                    "name": "aperol spritz",
+                    "price": 1450
+                },
+                {
+                    "name": "sangria tonic blanca",
+                    "price": 1100
+                },
+                {
+                    "name": "sangria tinta",
+                    "price": 1100
+                },
+                {
+                    "name": "sangria tonic tinta",
+                    "price": 1592
+                },
+                {
+                    "name": "ginebra beefeater y agua tonica",
+                    "price": 950
+                },
+                {
+                    "name": "ginebra tanqueray y agua tonica",
+                    "price": 1275
+                },
+                {
+                    "name": "ginebra mare y agua tonica",
+                    "price": 1275
+                },
+                {
+                    "name": "ginebra hendricks y agua tonica",
+                    "price": 1645
+                },
+                {
+                    "name": "disaronno",
+                    "price": 1215
+                },
+                {
+                    "name": "limoncello",
+                    "price": 700
+                },
+                {
+                    "name": "licor 43",
+                    "price": 980
+                },
+                {
+                    "name": "baileys",
+                    "price": 910
+                },
+                {
+                    "name": "crema barcelo",
+                    "price": 780
+                },
+                {
+                    "name": "licor de cafe pazo pondal",
+                    "price": 1180
+                },
+                {
+                    "name": "habana club 3 anos",
+                    "price": 392
+                },
+                {
+                    "name": "habana club anejo especial",
+                    "price": 438
+                },
+                {
+                    "name": "ron ritual",
+                    "price": 490
+                },
+                {
+                    "name": "habana club anejo reserva",
+                    "price": 590
+                },
+                {
+                    "name": "habana club 7 anos",
+                    "price": 791
+                },
+                {
+                    "name": "habana club cuban smoky",
+                    "price": 1150
+                },
+                {
+                    "name": "seleccion de maestro",
+                    "price": 2215
+                },
+                {
+                    "name": "pacto navio",
+                    "price": 1900
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 260
+                },
+                {
+                    "name": "americano",
+                    "price": 260
+                },
+                {
+                    "name": "cortado",
+                    "price": 350
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 650
+                },
+                {
+                    "name": "capuchino",
+                    "price": 600
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 670
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 630
+                },
+                {
+                    "name": "mocachino",
+                    "price": 555
+                },
+                {
+                    "name": "te",
+                    "price": 150
+                }
+            ]
+        },
+        "special_offers": [
+            {
+                "name": "pasta al pesto provenzal",
+                "price": 1615
+            },
+            {
+                "name": "pasta bolognesa",
+                "price": 2400
+            },
+            {
+                "name": "pasta con salmon",
+                "price": 2976
+            },
+            {
+                "name": "pasta a la amatriciana",
+                "price": 2600
+            }
+        ]
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Pizzas Vip",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.119504136300304, 
+        "longitude": -82.30350509953864
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52844312",
+        "facebook": "Pizza VIP",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway":false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 400
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 300
+                },
+                {
+                    "name": "bolita de queso",
+                    "price": 650
+                },
+                {
+                    "name": "fajita de pechuga",
+                    "price": 1100
+                },
+                {
+                    "name": "ensalada fría",
+                    "price": 370
+                },
+                {
+                    "name": "papa frita",
+                    "price": 580
+                },
+                {
+                    "name": "fajita de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 500
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 550
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 520
+                },
+                {
+                    "name": "crema mixta",
+                    "price": 600
+                },
+                {
+                    "name": "tacos de jamón",
+                    "price": 1030
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1350
+                },
+                {
+                    "name": "tacos de cangrejo",
+                    "price": 1380
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 800
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de pimiento",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1050
+                },
+                {
+                    "name": "pizza de hawaiana",
+                    "price": 1260
+                },
+                {
+                    "name": "pizza de bacón",
+                    "price": 1240
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 1250
+                },
+                {
+                    "name": "pizza de camarón",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza de res",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza de atún con cebolla",
+                    "price": 1450
+                },
+                {
+                    "name": "pizza de jamón serrano",
+                    "price": 1570
+                },
+                {
+                    "name": "pizza de aceituna",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 720
+                },
+                {
+                    "name": "spaghetti boloñesa",
+                    "price": 1350
+                },
+                {
+                    "name": "spaghetti carbonara",
+                    "price": 1350
+                },
+                {
+                    "name": "spaghetti alfredo",
+                    "price": 1150
+                },
+                {
+                    "name": "spaghetti de atún",
+                    "price": 1270
+                },
+                {
+                    "name": "spaghetti pollo",
+                    "price": 1120
+                },
+                {
+                    "name": "spaghetti de camarones",
+                    "price": 1400
+                },
+                {
+                    "name": "spaghetti de chorizo",
+                    "price": 1150
+                },
+                {
+                    "name": "spaghetti negro di mare",
+                    "price": 1500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "pomitos de agua",
+                    "price": 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco de pomito",
+                    "price": 180
+                },
+                {
+                    "name": "refresco de lata",
+                    "price": 220
+                },
+                {
+                    "name": "malta",
+                    "price": 300
+                },
+                {
+                    "name": "tigón",
+                    "price": 300
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 280
+                },
+                {
+                    "name": "malta importada",
+                    "price": 270
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos de lata",
+                    "price": 280
+                },
+                {
+                    "name": "jugos de cajita",
+                    "price": 180
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "henike",
+                    "price": 360
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza de lata cristal",
+                    "price": 300
+                },
+                {
+                    "name": "cerveza de botella",
+                    "price": 300
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+    }
+}

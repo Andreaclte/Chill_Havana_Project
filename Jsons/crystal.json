@@ -1,0 +1,468 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Crystal",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.045720488391616, 
+        "longitude": -82.27010112894351
+    },
+    "contact": {
+        "phone_number": "76823333",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Restaurante Cafe Crystal",
+        "instagram": "@cafecrystalcuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "internacional", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "eperlan de pescado o bastón de pollo",
+                    "price": 1600
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 500
+                },
+                {
+                    "name": "croquetas especiales de jamón importado",
+                    "price": 1000
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 700
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 2000
+                },
+                {
+                    "name": "tacos a elección",
+                    "price": 2000
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 1200
+                },
+                {
+                    "name": "coctel de camarón",
+                    "price": 1800
+                },
+                {
+                    "name": "coctel de langosta",
+                    "price": 1800
+                },
+                {
+                    "name": "pica pica café crystal",
+                    "price": 4400
+                },
+                {
+                    "name": "camarones empanados",
+                    "price": 2000
+                },
+                {
+                    "name": "anillas de calamar empanadas",
+                    "price": 2000
+                },
+                {
+                    "name": "picadera estrella mar y tierra",
+                    "price": 8000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza queso gouda",
+                    "price": 1500
+                },
+                {
+                    "name": "pasta napolitana",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza café crystal",
+                    "price": 4000
+                },
+                {
+                    "name": "ensalada estación",
+                    "price": 700
+                },
+                {
+                    "name": "ensalada de atún",
+                    "price": 1250
+                },
+                {
+                    "name": "ensalada café crystal",
+                    "price": 1500
+                },
+                {
+                    "name": "termo ensalada fría",
+                    "price": 2000
+                },
+                {
+                    "name": "fajitas con reducido de vino tinto y champiñones",
+                    "price": 2500
+                },
+                {
+                    "name": "ropa vieja de res",
+                    "price": 2200
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 2200
+                },
+                {
+                    "name": "bistec encebollado",
+                    "price": 2200
+                },
+                {
+                    "name": "uruguayo de res",
+                    "price": 3000
+                },
+                {
+                    "name": "bistec cerdo grille",
+                    "price": 1800
+                },
+                {
+                    "name": "masa de cerdo frita 1 libra",
+                    "price": 3300
+                },
+                {
+                    "name": "uruguayo de cerdo",
+                    "price": 2800
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 3000
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2500
+                },
+                {
+                    "name": "pollo gordon blue",
+                    "price": 2800
+                },
+                {
+                    "name": "pechuga de pollo milanesa",
+                    "price": 1800
+                },
+                {
+                    "name": "chop suey",
+                    "price": 2500
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 2000
+                },
+                {
+                    "name": "pescado canciller",
+                    "price": 3000
+                },
+                {
+                    "name": "camarón grillé",
+                    "price": 2800
+                },
+                {
+                    "name": "camarón al ajillo",
+                    "price": 2800
+                },
+                {
+                    "name": "camarón enchilado",
+                    "price": 3000
+                },
+                {
+                    "name": "cola de langosta",
+                    "price": 2800
+                },
+                {
+                    "name": "langosta enchilada",
+                    "price": 3000
+                },
+                {
+                    "name": "enchilado calamar",
+                    "price": 3000
+                },
+                {
+                    "name": "enchilado anillas calamar",
+                    "price": 3000
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamón",
+                    "price": 200
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 650
+                },
+                {
+                    "name": "bacon",
+                    "price": 500
+                },
+                {
+                    "name": "cebolla",
+                    "price": 100
+                },
+                {
+                    "name": "champiñón",
+                    "price": 250
+                },
+                {
+                    "name": "carbonara",
+                    "price": 1000
+                },
+                {
+                    "name": "atún",
+                    "price": 500
+                },
+                {
+                    "name": "camarones",
+                    "price": 1500
+                },
+                {
+                    "name": "fruti di mare",
+                    "price": 1500
+                },
+                {
+                    "name": "chorizo vela",
+                    "price": 650
+                },
+                {
+                    "name": "pepperonni",
+                    "price": 500
+                },
+                {
+                    "name": "piña",
+                    "price": 200
+                },
+                {
+                    "name": "parmesano",
+                    "price": 250
+                },
+                {
+                    "name": "pure de tomate",
+                    "price": 150
+                },
+                {
+                    "name": "alfredo",
+                    "price": 900
+                },
+                {
+                    "name": "pesto",
+                    "price": 200
+                },
+                {
+                    "name": "aceituna",
+                    "price": 500
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 500
+                },
+                {
+                    "name": "arroz pilaf",
+                    "price": 650
+                },
+                {
+                    "name": "arroz frito especial",
+                    "price": 3000
+                },
+                {
+                    "name": "arroz imperial",
+                    "price": 3000
+                },
+                {
+                    "name": "viandas fritas",
+                    "price": 600
+                },
+                {
+                    "name": "tostones tradicionales",
+                    "price": 700
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 700
+                },
+                {
+                    "name": "puré de papas",
+                    "price": 700
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan",
+                    "price": 600
+                },
+                {
+                    "name": "copa helado",
+                    "price": 900
+                },
+                {
+                    "name": "copa lolita",
+                    "price": 900
+                },
+                {
+                    "name": "cheese cake",
+                    "price": 980
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural 500ml",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco lata",
+                    "price": 300
+                },
+                {
+                    "name": "refresco linea coca cola",
+                    "price": 400
+                },
+                {
+                    "name": "malta importada",
+                    "price": 400
+                },
+                {
+                    "name": "malteada",
+                    "price": 700
+                },
+                {
+                    "name": "energizante",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo caja",
+                    "price": 300
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido helado",
+                    "price": 900
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza importada",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza cristal",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza bucanero",
+                    "price": 400
+                },
+                {
+                    "name": "coctelería clasica (mojito, ron collins, cubalibre, caipiriña, caipiroska, caipirísima)",
+                    "price": 700
+                },
+                {
+                    "name": "base chelada",
+                    "price": 250
+                },
+                {
+                    "name": "base michelada",
+                    "price": 300
+                },
+                {
+                    "name": "coctelería internacional (tequila, sunrise, martini, piña colada, sangría, margarita, gin-tonic)",
+                    "price": 1000
+                },
+                {
+                    "name": "copa vino",
+                    "price": 700
+                },
+                {
+                    "name": "botella vino",
+                    "price": 3500
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café expreso",
+                    "price": 250
+                },
+                {
+                    "name": "café cortado",
+                    "price": 300
+                },
+                {
+                    "name": "café capuccino",
+                    "price": 550
+                },
+                {
+                    "name": "café frapuccino",
+                    "price": 750
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

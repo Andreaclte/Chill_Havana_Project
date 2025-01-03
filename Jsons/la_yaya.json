@@ -1,0 +1,170 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Yaya",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.081534878689336, 
+        "longitude": -82.42156649198839
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52016522",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["criolla", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "superpicadera",
+                    "price": 2500
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 600
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 500
+                },
+                {
+                    "name": "croquetas",
+                    "price": 600
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "fajitas de pollo con papa",
+                    "price": 900
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1350
+                },
+                {
+                    "name": "spaghetti con queso gouda",
+                    "price": 700
+                },
+                {
+                    "name": "spaghetti doble queso",
+                    "price": 1000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helados gusto",
+                    "price": 1000
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "refrescos importados",
+                    "price": 250
+                },
+                {
+                    "name": "malta santa isabel",
+                    "price": 280
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de lata",
+                    "price": 280
+                },
+                {
+                    "name": "jugos caja",
+                    "price": 650
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cervezas importadas",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza cubetazo",
+                    "price": 2700
+                },
+                {
+                    "name": "termo de cerveza",
+                    "price": 2000
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

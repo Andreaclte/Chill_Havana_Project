@@ -1,0 +1,231 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Pelícano",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.11052702904802, 
+        "longitude": -82.39914526484186
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://pelicano-zoo.olaclick.menu/",
+        "whatsapp": "53137331",
+        "facebook": "Pelicano Zoo",
+        "instagram": "@pelicano_zoo"
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "1800"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "1800"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "pan con jamón y queso",
+                    "price": 350
+                },
+                {
+                    "name": "pan con perro",
+                    "price": 360
+                },
+                {
+                    "name": "pan con lechón",
+                    "price": 500
+                },
+                {
+                    "name": "pan con hamburguesa",
+                    "price": 550
+                },
+                {
+                    "name": "croquetas",
+                    "price": 350
+                },
+                {
+                    "name": "picadera de jamón y queso",
+                    "price": 450
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 550
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 650
+                },
+                {
+                    "name": "salchipapa",
+                    "price": 750
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo frito",
+                    "price": 420
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 520
+                },
+                {
+                    "name": "brochetas de pollo y vegetales",
+                    "price": 580
+                },
+                {
+                    "name": "brochetas mixtas",
+                    "price": 700
+                },
+                {
+                    "name": "brochetas de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "lonja de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "masa de cerdo",
+                    "price": 990
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz moro",
+                    "price": 150
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 150
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "paleta de chocolate",
+                    "price": 260
+                },
+                {
+                    "name": "pote de helado",
+                    "price": 495
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 120
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco de lata",
+                    "price": 195
+                },
+                {
+                    "name": "energizante",
+                    "price": 220
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de cajita",
+                    "price": 190
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 250
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 190
+                },
+                {
+                    "name": "chelada",
+                    "price": 290
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 380
+                },
+                {
+                    "name": "michelada",
+                    "price": 390
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café expresso",
+                    "price": 90
+                },
+                {
+                    "name": "café cortado",
+                    "price": 110
+                },
+                {
+                    "name": "café bombón",
+                    "price": 150
+                }
+            ]
+            },
+        "special_offers": false
+    }
+}

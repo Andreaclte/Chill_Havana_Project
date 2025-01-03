@@ -1,0 +1,190 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Cocal",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.047603170195543, 
+        "longitude": -82.25536750725202
+    },
+    "contact": {
+        "phone_number": "76822199",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Restaurante El Cocal",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": false,
+            "close": false
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.4,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 600
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 650
+                },
+                {
+                    "name": "ensalada de atun",
+                    "price": 1000
+                },
+                {
+                    "name": "toston de queso",
+                    "price": 600
+                },
+                {
+                    "name": "toston de jamon y queso",
+                    "price": 600
+                },
+                {
+                    "name": "toston de atun",
+                    "price": 1000
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 550
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 600
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 650
+                },
+                {
+                    "name": "crema mixta",
+                    "price": 700
+                },
+                {
+                    "name": "coctel camaron",
+                    "price": 1500
+                },
+                {
+                    "name": "empellas",
+                    "price": 550
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1400
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1500
+                },
+                {
+                    "name": "eperlan pechuga",
+                    "price": 1600
+                },
+                {
+                    "name": "eperlan pescado",
+                    "price": 2000
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso",
+                    "price": 500
+                },
+                {
+                    "name": "jamon",
+                    "price": 300
+                },
+                {
+                    "name": "piña",
+                    "price": 150
+                },
+                {
+                    "name": "camaron",
+                    "price": 1500
+                },
+                {
+                    "name": "atun",
+                    "price": 1000
+                },
+                {
+                    "name": "cebolla",
+                    "price": 200
+                },
+                {
+                    "name": "yuca",
+                    "price": 400
+                },
+                {
+                    "name": "toston",
+                    "price": 400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan",
+                    "price" : 500
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

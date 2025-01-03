@@ -1,0 +1,633 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Biky",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.138245258561607, 
+        "longitude": -82.37855093616108
+    },
+    "contact": {
+        "phone_number": "78706182",
+        "e-mail": "elbiky@enet.cu",
+        "web_page": "www.elbiky.com",
+        "whatsapp": "56587336",
+        "facebook": "El Biky",
+        "instagram": "@restaurantelbikyhabana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croqueticas de la casa",
+                    "price": 700
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500
+                },
+                {
+                    "name": "tostones rellenos de jamon",
+                    "price": 2000
+                },
+                {
+                    "name": "tostones rellenos de ropa vieja",
+                    "price": 2200
+                },
+                {
+                    "name": "tostones rellenos mixtos",
+                    "price": 2200
+                },
+                {
+                    "name": "tostones rellenos de atun",
+                    "price": 2200
+                },
+                {
+                    "name": "sandwich de jamon en pan baguette (con viandas fritas)",
+                    "price": 700
+                },
+                {
+                    "name": "sandwich de queso en pan baguette (con viandas fritas)",
+                    "price": 1400
+                },
+                {
+                    "name": "sandwich de jamon y queso en pan baguette (con viandas fritas)",
+                    "price": 1200
+                },
+                {
+                    "name": "baguette con lomo de cerdo (con viandas fritas)",
+                    "price": 3500
+                },
+                {
+                    "name": "baguette de atun",
+                    "price": 1900
+                },
+                {
+                    "name": "baguette catalana (jamon serrano con viandas fritas)",
+                    "price": 1800
+                },
+                {
+                    "name": "baguette de pollo (pechuga de pollo con viandas fritas)",
+                    "price": 1900
+                },
+                {
+                    "name": "baguette cubano (cerdo asado, jamon ahumado y queso)",
+                    "price": 1393
+                },
+                {
+                    "name": "pepito de filete de res (filete de res con vegetales y viandas fritas)",
+                    "price": 5000
+                },
+                {
+                    "name": "hamburguesa de carne (res) con vegetales y vianda frita",
+                    "price": 2740
+                },
+                {
+                    "name": "cheeseburger (res) con queso, vegetales y vianda frita",
+                    "price": 2950
+                },
+                {
+                    "name": "hamburguesa especial (res) con jamon, queso, bacon y vegetales",
+                    "price": 3700
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 850
+                },
+                {
+                    "name": "crema reina",
+                    "price": 850
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 850
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 850
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "carpaccio de pulpo aderezado de aceite extra virgen de olivas",
+                    "price": 2300
+                },
+                {
+                    "name": "carpaccio de res",
+                    "price": 3800
+                },
+                {
+                    "name": "ceviche de camarones",
+                    "price": 2800
+                },
+                {
+                    "name": "coctel de camarones en salsa rosa",
+                    "price": 2400
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1300
+                },
+                {
+                    "name": "ceviche de pescado",
+                    "price": 2650
+                },
+                {
+                    "name": "esperlan de pescado",
+                    "price": 1300
+                },
+                {
+                    "name": "esperlan de langosta",
+                    "price": 2900
+                },
+                {
+                    "name": "rosa de salmon ahumado",
+                    "price": 4100
+                },
+                {
+                    "name": "surtido de quesos",
+                    "price": 2200
+                },
+                {
+                    "name": "pimientos piquillos rellenos (queso crema, atun y vegetales)",
+                    "price": 1950
+                },
+                {
+                    "name": "entremes de jamon serrano",
+                    "price": 2000
+                },
+                {
+                    "name": "cazuela de garbanzos",
+                    "price": 2100
+                },
+                {
+                    "name": "lasana bolognesa",
+                    "price": 3800
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 1300
+                },
+                {
+                    "name": "spaghetti a la carbonara",
+                    "price": 3000
+                },
+                {
+                    "name": "spaghetti con jamon y queso",
+                    "price": 1250
+                },
+                {
+                    "name": "spaghetti napolitanos",
+                    "price": 970
+                },
+                {
+                    "name": "spaghetti bolognesa",
+                    "price": 2500
+                },
+                {
+                    "name": "spaghetti con atun",
+                    "price": 2400
+                },
+                {
+                    "name": "bistec de cerdo a la plancha",
+                    "price": 3500
+                },
+                {
+                    "name": "lomo de cerdo grille",
+                    "price": 3500
+                },
+                {
+                    "name": "masas de cerdo fritas",
+                    "price": 2800
+                },
+                {
+                    "name": "chuleta de cerdo frita",
+                    "price": 2300
+                },
+                {
+                    "name": "escalope de cerdo",
+                    "price": 3900
+                },
+                {
+                    "name": "pollo grille",
+                    "price": 1800
+                },
+                {
+                    "name": "gorden blue",
+                    "price": 2400
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 3000
+                },
+                {
+                    "name": "filete de salmon",
+                    "price": 5500
+                },
+                {
+                    "name": "zalzuela de mariscos",
+                    "price": 6000
+                },
+                {
+                    "name": "solomillo de res",
+                    "price": 6800
+                },
+                {
+                    "name": "pulpo",
+                    "price": 5800
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "racion de jamon",
+                    "price": 350
+                },
+                {
+                    "name": "racion de pimientos",
+                    "price": 250
+                },
+                {
+                    "name": "racion de bacon",
+                    "price": 1300
+                },
+                {
+                    "name": "racion de queso gouda",
+                    "price": 750
+                },
+                {
+                    "name": "racion de salsa boloñesa",
+                    "price": 1100
+                },
+                {
+                    "name": "racion de aceitunas",
+                    "price": 400
+                },
+                {
+                    "name": "racion de champiñones",
+                    "price": 400
+                },
+                {
+                    "name": "racion de jamon serrano",
+                    "price": 1100
+                },
+                {
+                    "name": "racion de atun",
+                    "price": 1600
+                },
+                {
+                    "name": "racion de camarón",
+                    "price": 2150
+                },
+                {
+                    "name": "racion de chorizo vela",
+                    "price": 2000
+                },
+                {
+                    "name": "racion queso parmesano",
+                    "price": 950
+                },
+                {
+                    "name": "ensalada de vegetales, vegetales de estacion",
+                    "price": 1000
+                },
+                {
+                    "name": "ensalada mixta vegetal (queso, atun, huevo y cebolla)",
+                    "price": 2300
+                },
+                {
+                    "name": "ensalada fria de pasta (de la casa) italiana",
+                    "price": 900
+                },
+                {
+                    "name": "racion de arroz blanco",
+                    "price": 140
+                },
+                {
+                    "name": "racion de arroz mongol",
+                    "price": 180
+                },
+                {
+                    "name": "ensalada verde",
+                    "price": 200
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 1300
+                },
+                {
+                    "name": "pure de malanga",
+                    "price": 650
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan de caramelo",
+                    "price": 400
+                },
+                {
+                    "name": "cheesecake",
+                    "price": 920
+                },
+                {
+                    "name": "bizcocho con helado",
+                    "price": 720
+                },
+                {
+                    "name": "copa tres leches",
+                    "price": 960
+                },
+                {
+                    "name": "pie de limon",
+                    "price": 1100
+                },
+                {
+                    "name": "helado sencillo",
+                    "price": 420
+                },
+                {
+                    "name": "jimaguas",
+                    "price": 740
+                },
+                {
+                    "name": "tres gracias",
+                    "price": 680
+                },
+                {
+                    "name": "copa lolita (helado con flan)",
+                    "price": 860
+                },
+                {
+                    "name": "ensalada de helado",
+                    "price": 900
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua gaseosa importada",
+                    "price": 550
+                },
+                {
+                    "name": "agua natural sin gas",
+                    "price": 440
+                },
+                {
+                    "name": "agua tonica",
+                    "price": 1000
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos",
+                    "price": 550
+                },
+                {
+                    "name": "malta",
+                    "price": 650
+                },
+                {
+                    "name": "red bull",
+                    "price": 1200
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kermato",
+                    "price": 1200
+                },
+                {
+                    "name": "limonada",
+                    "price": 720
+                },
+                {
+                    "name": "limonada fresca",
+                    "price": 850
+                },
+                {
+                    "name": "jugos de frutas naturales",
+                    "price": 500
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batidos de frutas naturales",
+                    "price": 600
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 850
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 970
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "ron collis",
+                    "price": 750
+                },
+                {
+                    "name": "limonada clarete",
+                    "price": 2000
+                },
+                {
+                    "name": "sangria",
+                    "price": 750
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 1800
+                },
+                {
+                    "name": "mary pickford",
+                    "price": 750
+                },
+                {
+                    "name": "cuba bella",
+                    "price": 750
+                },
+                {
+                    "name": "majto",
+                    "price": 750
+                },
+                {
+                    "name": "daiquiri rebelde",
+                    "price": 750
+                },
+                {
+                    "name": "havana special",
+                    "price": 750
+                },
+                {
+                    "name": "b-52",
+                    "price": 800
+                },
+                {
+                    "name": "piña colada",
+                    "price": 1000
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 800
+                },
+                {
+                    "name": "manhattan",
+                    "price": 900
+                },
+                {
+                    "name": "cantharchars",
+                    "price": 750
+                },
+                {
+                    "name": "martini",
+                    "price": 800
+                },
+                {
+                    "name": "san francisco",
+                    "price": 400
+                },
+                {
+                    "name": "colada",
+                    "price": 400
+                },
+                {
+                    "name": "miami vice",
+                    "price": 400
+                },
+                {
+                    "name": "virgin maria",
+                    "price": 400
+                },
+                {
+                    "name": "47's frozen",
+                    "price": 400
+                },
+                {
+                    "name": "cervezas",
+                    "price": 1200
+                },
+                {
+                    "name": "jarra de cerveza",
+                    "price": 400
+                },
+                {
+                    "name": "vaso de cerveza",
+                    "price": 350
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 1500
+                },
+                {
+                    "name": "copa de vino digestivo dulce (50ml)",
+                    "price": 1200
+                },
+                {
+                    "name": "michelada",
+                    "price": 250
+                },
+                {
+                    "name": "chelada",
+                    "price": 200
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "vaso de leche",
+                    "price": 200
+                },
+                {
+                    "name": "cafe expreso",
+                    "price": 170
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 170
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 200
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 270
+                },
+                {
+                    "name": "cafe carajillo",
+                    "price": 400
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 400
+                },
+                {
+                    "name": "capuchino",
+                    "price": 310
+                },
+                {
+                    "name": "te",
+                    "price": 150
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

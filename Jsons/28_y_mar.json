@@ -1,0 +1,493 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "28 y Mar",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.12361712886297, 
+        "longitude": -82.4271050650417
+    },
+    "contact": {
+        "phone_number": "72125013",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "28 y Mar Restaurante",
+        "instagram": "@28_y_mar_restaurante"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0830",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0830",
+            "close": "2400"
+        }
+    },
+    "rating": 3.8,
+    "intake_capacity": "alta",
+    "cuisine": ["internacional", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "desayuno europeo",
+                    "price": 1650
+                },
+                {
+                    "name": "desayuno americano",
+                    "price": 1650
+                },
+                {
+                    "name": "desayuno miramar",
+                    "price": 2150
+                },
+                {
+                    "name": "desayuno continental",
+                    "price": 2800
+                },
+                {
+                    "name": "ensalada de frutas",
+                    "price": 700
+                },
+                {
+                    "name": "tortilla natural",
+                    "price": 750
+                },
+                {
+                    "name": "huevo frito o revuelto con bacon",
+                    "price": 1050
+                },
+                {
+                    "name": "mini bocadito de jamon y queso",
+                    "price": 800
+                },
+                {
+                    "name": "tostadas con mantequilla",
+                    "price": 650
+                },
+                {
+                    "name": "crepes",
+                    "price": 750
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "hamburguesa otono",
+                    "price": 1750
+                },
+                {
+                    "name": "hamburguesa jamon y queso",
+                    "price": 1800
+                },
+                {
+                    "name": "hamburguesa jamon serrano",
+                    "price": 1950
+                },
+                {
+                    "name": "sandwich de pepito",
+                    "price": 3150
+                },
+                {
+                    "name": "sandwich de paquito",
+                    "price": 2150
+                },
+                {
+                    "name": "sandwich de elena ruz",
+                    "price": 1850
+                },
+                {
+                    "name": "sandwich de bocadito de atun",
+                    "price": 1450
+                },
+                {
+                    "name": "sandwich de pollo",
+                    "price": 1650
+                },
+                {
+                    "name": "sandwich de jamon serrano",
+                    "price": 2150
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 1750
+                },
+                {
+                    "name": "sandwich de bolonesa",
+                    "price": 2050
+                },
+                {
+                    "name": "sandwich de jamon pierna barra y chorizo",
+                    "price": 2050
+                },
+                {
+                    "name": "sandwich vegetariano",
+                    "price": 1350
+                },
+                {
+                    "name": "sandwich de pollo y bacon",
+                    "price": 2050
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 1750
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 7500
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 750
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 750
+                },
+                {
+                    "name": "tapas variadas",
+                    "price": 1100
+                },
+                {
+                    "name": "tapas de croquetas",
+                    "price": 1250
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 950
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 950
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 950
+                },
+                {
+                    "name": "empanadas de queso azul",
+                    "price": 1050
+                },
+                {
+                    "name": "empanadas de bolonesa",
+                    "price": 1050
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1450
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pechuga de pollo",
+                    "price": 3500
+                },
+                {
+                    "name": "solomillo de res",
+                    "price": 6500
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 4500
+                },
+                {
+                    "name": "pollo y cerdo",
+                    "price": 4000
+                },
+                {
+                    "name": "pollo y res",
+                    "price": 5000
+                },
+                {
+                    "name": "res y cerdo",
+                    "price": 5500
+                },
+                {
+                    "name": "trio de fantasia",
+                    "price": 7250
+                },
+                {
+                    "name": "ensalada primavera",
+                    "price": 1350
+                },
+                {
+                    "name": "ensalada caprichosa",
+                    "price": 1750
+                },
+                {
+                    "name": "ensalada verano",
+                    "price": 1650
+                },
+                {
+                    "name": "ensalada marinera",
+                    "price": 1600
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 1150
+                },
+                {
+                    "name": "lasagna de jamon",
+                    "price": 1750
+                },
+                {
+                    "name": "lasagna de bolonesa",
+                    "price": 2150
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamon serrano",
+                    "price": 850
+                },
+                {
+                    "name": "jamon barra",
+                    "price": 400
+                },
+                {
+                    "name": "jamon pierna",
+                    "price": 450
+                },
+                {
+                    "name": "chorizo",
+                    "price": 450
+                },
+                {
+                    "name": "bacon",
+                    "price": 450
+                },
+                {
+                    "name": "salsa bolonesa",
+                    "price": 550
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 650
+                },
+                {
+                    "name": "atun",
+                    "price": 450
+                },
+                {
+                    "name": "champinon",
+                    "price": 350
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 350
+                },
+                {
+                    "name": "vegetal de estacion",
+                    "price": 350
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 350
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 550
+                },
+                {
+                    "name": "pina glaseada",
+                    "price": 350
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 450
+                },
+                {
+                    "name": "queso mozzarella",
+                    "price": 450
+                },
+                {
+                    "name": "queso parmesano",
+                    "price": 550
+                },
+                {
+                    "name": "queso azul",
+                    "price": 550
+                },
+                {
+                    "name": "nutella",
+                    "price": 450
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 300
+                },
+                {
+                    "name": "agua natural importada",
+                    "price": 350
+                },
+                {
+                    "name": "agua carbonatada",
+                    "price": 300
+                },
+                {
+                    "name": "agua carbonatada importada",
+                    "price": 850
+                },
+                {
+                    "name": "agua tonica MG",
+                    "price": 600
+                },
+                {
+                    "name": "agua tonica Schweppes",
+                    "price": 900
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco nacional",
+                    "price": 350
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 450
+                },
+                {
+                    "name": "malta",
+                    "price": 450
+                },
+                {
+                    "name": "malteada",
+                    "price": 650
+                },
+                {
+                    "name": "red bull",
+                    "price": 650
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de fruta natural",
+                    "price": 350
+                },
+                {
+                    "name": "jugo de caja importado",
+                    "price": 300
+                },
+                {
+                    "name": "kermato",
+                    "price": 750
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de fruta",
+                    "price": 600
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "suero de helado",
+                    "price": 850
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 650
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expresso",
+                    "price": 350
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 350
+                },
+                {
+                    "name": "cafe nespresso",
+                    "price": 700
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 550
+                },
+                {
+                    "name": "cafe capuchino",
+                    "price": 700
+                },
+                {
+                    "name": "cafe capuchino nespresso",
+                    "price": 950
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 400
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 600
+                },
+                {
+                    "name": "cafe irlandes",
+                    "price": 700
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 750
+                },
+                {
+                    "name": "chocolate a la espanola",
+                    "price": 600
+                },
+                {
+                    "name": "te caliente o frio",
+                    "price": 350
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

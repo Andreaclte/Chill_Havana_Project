@@ -1,0 +1,163 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Mexicano",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.12937954129776, 
+        "longitude": -82.30898529375422
+    },
+    "contact": {
+        "phone_number": "72635413",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": 4.7,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 350
+                },
+                {
+                    "name": "sandwich de queso jamon especial",
+                    "price": 600
+                },
+                {
+                    "name": "pizza queso gouda",
+                    "price": 450
+                },
+                {
+                    "name": "spaghetti queso gouda",
+                    "price": 770
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "tigon",
+                    "price": 300
+                },
+                {
+                    "name": "malta 1 hyper",
+                    "price": 270
+                },
+                {
+                    "name": "pepsi",
+                    "price": 270
+                },
+                {
+                    "name": "mirinda",
+                    "price": 280
+                },
+                {
+                    "name": "perla negra",
+                    "price": 270
+                },
+                {
+                    "name": "ironbeer",
+                    "price": 240
+                },
+                {
+                    "name": "orange",
+                    "price": 220
+                },
+                {
+                    "name": "cola polo",
+                    "price": 220
+                },
+                {
+                    "name": "limon",
+                    "price": 220
+                },
+                {
+                    "name": "coca cola",
+                    "price": 280
+                }
+            ],
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 200
+                },
+                {
+                    "name": "holandia",
+                    "price": 200
+                },
+                {
+                    "name": "cristal lata",
+                    "price": 250
+                },
+                {
+                    "name": "cristal botella",
+                    "price": 200
+                },
+                {
+                    "name": "shaka",
+                    "price": 350
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

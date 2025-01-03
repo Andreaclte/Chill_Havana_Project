@@ -1,0 +1,474 @@
+{
+    "type_of_establishment": "bar",
+    "name": "Macarena",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.140032524116656, 
+        "longitude": -82.37801794949878
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58723821",
+        "facebook": "Cafe bar macarena",
+        "instagram": "@cafe_bar_macarena"
+    },
+    "schedule": {
+        "monday": { 
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1600",
+            "close": "0300"
+        },
+        "wednesday": {
+            "open": "1600",
+            "close": "0300"
+        },
+        "thursday": {
+            "open": "1600",
+            "close": "0300"
+        },
+        "friday": {
+            "open": "1600",
+            "close": "0300"
+        },
+        "saturday": {
+            "open": "1600",
+            "close": "0300"
+        },
+        "sunday": {
+            "open": "1600",
+            "close": "0300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cocteleria"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 550
+                },
+                {
+                    "name": "jamón y queso",
+                    "price": 650
+                },
+                {
+                    "name": "rollitos a la macarena",
+                    "price": 700
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 750
+                },
+                {
+                    "name": "surtida queso y embutido",
+                    "price": 1200
+                },
+                {
+                    "name": "mixta la macarena",
+                    "price": 2200
+                }
+            ]
+        },
+        "main_courses": false,
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua 500 ml",
+                    "price": 200
+                },
+                {
+                    "name": "agua tónica 330 ml",
+                    "price": 220
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "energizante",
+                    "price": 350
+                },
+                {
+                    "name": "refresco limón",
+                    "price": 300
+                },
+                {
+                    "name": "refresco cola",
+                    "price": 200
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "limonada frappe",
+                    "price" : 600
+                },
+                {
+                    "name" : "limonada blue",
+                    "price" : 600
+                },
+                {
+                    "name" : "limonada roja",
+                    "price" : 600
+                },
+                {
+                    "name" : "limonada natural",
+                    "price" : 600
+                },
+                {
+                    "name" : "limonada frescura",
+                    "price" : 700
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal de botella",
+                    "price": 420
+                },
+                {
+                    "name": "cerveza bucanero de botella",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 300
+                },
+                {
+                    "name": "mojitos",
+                    "price": 650
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 550
+                },
+                {
+                    "name": "bello monte",
+                    "price": 550
+                },
+                {
+                    "name": "cuba bella",
+                    "price": 750
+                },
+                {
+                    "name": "mary pickford",
+                    "price": 550
+                },
+                {
+                    "name": "havana especial",
+                    "price": 500
+                },
+                {
+                    "name": "presidente",
+                    "price": 500
+                },
+                {
+                    "name": "piña colada",
+                    "price": 900
+                },
+                {
+                    "name": "daikiri",
+                    "price": 750
+                },
+                {
+                    "name": "caipirissima",
+                    "price": 750
+                },
+                {
+                    "name": "cubanito",
+                    "price": 400
+                },
+                {
+                    "name" : "caipiroska",
+                    "price" : 750
+                },
+                {
+                    "name" : "sex on the beach",
+                    "price" : 550
+                },
+                {
+                    "name" : "screw driver",
+                    "price" : 550
+                },
+                {
+                    "name": "kamikase",
+                    "price": 650
+                },
+                {
+                    "name": "black russian",
+                    "price": 550
+                },
+                {
+                    "name": "cosmopolitan",
+                    "price": 600
+                },
+                {
+                    "name": "camino al cielo",
+                    "price": 550
+                },
+                {
+                    "name": "blue hawaii",
+                    "price": 550
+                },
+                {
+                    "name": "vodka tonic",
+                    "price":750
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 550
+                },
+                {
+                    "name": "moscú mule",
+                    "price": 500
+                },
+                {
+                    "name": "long islad",
+                    "price": 800
+                },
+                {
+                    "name": "vodka martini",
+                    "price": 700
+                },
+                {
+                    "name": "charro negro",
+                    "price": 550
+                },
+                {
+                    "name": "margarita",
+                    "price": 750
+                },
+                {
+                    "name": "acapulco de noche",
+                    "price": 600
+                },
+                {
+                    "name": "bloody mariachi",
+                    "price": 600
+                },
+                {
+                    "name": "nieblas del caribe",
+                    "price": 650
+                },
+                {
+                    "name": "submarino",
+                    "price": 700
+                },
+                {
+                    "name": "long island ice tea",
+                    "price": 800
+                },
+                {
+                    "name": "tom collins",
+                    "price": 600
+                },
+                {
+                    "name": "caruso",
+                    "price": 600
+                },
+                {
+                    "name": "gin and sin",
+                    "price" : 600
+                },
+                {
+                    "name" : "gin tonic",
+                    "price" : 750
+                },
+                {
+                    "name" : "martini",
+                    "price" : 800
+                },
+                {
+                    "name": "santiago 8",
+                    "price": 600
+                },
+                {
+                    "name": "hc pacto de navio",
+                    "price": 1000
+                },
+                {
+                    "name": "santiago 11",
+                    "price": 1000
+                },
+                {
+                    "name": "santiago 12",
+                    "price": 1200
+                },
+                {
+                    "name": "monte de la rosa",
+                    "price": 400
+                },
+                {
+                    "name": "olmeca blanco",
+                    "price": 550
+                },
+                {
+                    "name": "olmeca reposado",
+                    "price": 600
+                },
+                {
+                    "name": "don ramón",
+                    "price": 800
+                },
+                {
+                    "name": "gin beefeater",
+                    "price": 500
+                },
+                {
+                    "name": "gin q spades",
+                    "price": 600
+                },
+                {
+                    "name": "gin q rosse",
+                    "price": 600
+                },
+                {
+                    "name": "gin master",
+                    "price": 650
+                },
+                {
+                    "name": "old fashion",
+                    "price": 700
+                },
+                {
+                    "name": "mini julep",
+                    "price": 800
+                },
+                {
+                    "name": "jhon collins",
+                    "price": 800
+                },
+                {
+                    "name": "sangria",
+                    "price": 750
+                },
+                {
+                    "name": "calimocho",
+                    "price": 600
+                },
+                {
+                    "name": "tinto verano",
+                    "price": 600
+                },
+                {
+                    "name": "medusa",
+                    "price": 450
+                },
+                {
+                    "name": "derrame cerebral",
+                    "price": 450
+                },
+                {
+                    "name": "B52",
+                    "price": 600
+                },
+                {
+                    "name": "orgasmo",
+                    "price": 600
+                },
+                {
+                    "name": "orgasmos multiples",
+                    "price": 900
+                },
+                {
+                    "name": "submarino",
+                    "price": 700
+                },
+                {
+                    "name": "chelada",
+                    "price": 620
+                },
+                {
+                    "name": "michelada",
+                    "price": 750
+                },
+                {
+                    "name": "clan campbell",
+                    "price": 550
+                },
+                {
+                    "name": "jameson",
+                    "price": 550
+                },
+                {
+                    "name": "JW red label",
+                    "price": 650
+                },
+                {
+                    "name": "ballantines",
+                    "price": 650
+                },
+                {
+                    "name": "chiva 12",
+                    "price": 800
+                },
+                {
+                    "name": "jack daniel",
+                    "price": 1000
+                },
+                {
+                    "name": "JW black lavel",
+                    "price": 1100
+                },
+                {
+                    "name": "HC añejo blanco",
+                    "price": 250
+                },
+                {
+                    "name": "HC añejo 3 años",
+                    "price": 300
+                },
+                {
+                    "name": "HC añejo 7 años",
+                    "price": 500
+                },
+                {
+                    "name": "HC ritual",
+                    "price": 400
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expreso",
+                    "price" : 150
+                },
+                {
+                    "name" : "cortado",
+                    "price" : 250
+                },
+                {
+                    "name" : "carajillo",
+                    "price" : 450
+                },
+                {
+                    "name" : "frappuccino",
+                    "price" : 750
+                }
+            ]
+            },
+        "special_offers": false
+        }
+}

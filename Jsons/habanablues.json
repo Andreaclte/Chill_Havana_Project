@@ -1,0 +1,720 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Habana Blues",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.139273167960297, 
+        "longitude": -82.38864216668844
+    },
+    "contact": {
+        "phone_number": "78356545",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Habana Blues Restaurant",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2200"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "latina", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "las honradas",
+                    "price": 550
+                },
+                {
+                    "name": "cuando el amor no alcanza",
+                    "price": 650
+                },
+                {
+                    "name": "se permuta",
+                    "price": 980
+                },
+                {
+                    "name": "sueño tropical",
+                    "price": 550
+                },
+                {
+                    "name": "al atardecer",
+                    "price": 900
+                },
+                {
+                    "name": "hasta cierto punto",
+                    "price": 1000
+                },
+                {
+                    "name": "como la vida misma",
+                    "price": 1200
+                },
+                {
+                    "name": "perfecto amor equivocado",
+                    "price": 1200
+                },
+                {
+                    "name": "boccacerías habaneras",
+                    "price": 1700
+                },
+                {
+                    "name": "irremediablemente juntos",
+                    "price": 950
+                },
+                {
+                    "name": "a otro con ese cuento",
+                    "price": 400
+                },
+                {
+                    "name": "la primera carga al machete",
+                    "price": 480
+                },
+                {
+                    "name": "adorables mentiras",
+                    "price": 700
+                },
+                {
+                    "name": "hoy como ayer",
+                    "price": 1000
+                },
+                {
+                    "name": "sopa de pollo de enrique molina",
+                    "price": 550
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "juan de los muertos",
+                    "price": 1600
+                },
+                {
+                    "name": "viva cuba",
+                    "price": 1800
+                },
+                {
+                    "name": "la bella del alhambra",
+                    "price": 2400
+                },
+                {
+                    "name": "clandestinos",
+                    "price": 2600
+                },
+                {
+                    "name": "al habla con los muertos",
+                    "price": 2000
+                },
+                {
+                    "name": "esther en alguna parte",
+                    "price": 650
+                },
+                {
+                    "name": "doble juego",
+                    "price": 500
+                },
+                {
+                    "name": "el cuerno de la abundancia",
+                    "price": 1500
+                },
+                {
+                    "name": "memorias del subdesarrollo",
+                    "price": 1100
+                },
+                {
+                    "name": "camino a eden",
+                    "price": 1990
+                },
+                {
+                    "name": "un paraiso bajo las estrellas",
+                    "price": 2300
+                },
+                {
+                    "name": "amor cronico",
+                    "price": 3100
+                },
+                {
+                    "name": "no hay sabado sin sol",
+                    "price": 1990
+                },
+                {
+                    "name": "una casa colonial",
+                    "price": 2700
+                },
+                {
+                    "name": "patty candela",
+                    "price": 1990
+                },
+                {
+                    "name": "una novia para david",
+                    "price": 2000
+                },
+                {
+                    "name": "el regreso",
+                    "price": 3900
+                },
+                {
+                    "name": "la cara oculta de la luna",
+                    "price": 2500
+                },
+                {
+                    "name": "vuelos prohibidos",
+                    "price": 2200
+                },
+                {
+                    "name": "los pequenos fugitivos",
+                    "price": 2600
+                },
+                {
+                    "name": "la tierra y el cielo",
+                    "price": 2400
+                },
+                {
+                    "name": "rompiendo el silencio",
+                    "price": 2400
+                },
+                {
+                    "name": "ciudad en rojo",
+                    "price": 3800
+                },
+                {
+                    "name": "mas alla del limite",
+                    "price": 2200
+                },
+                {
+                    "name": "promesas",
+                    "price": 2300
+                },
+                {
+                    "name": "algo mas que sonar",
+                    "price": 1990
+                },
+                {
+                    "name": "la noche de los inocentes",
+                    "price": 1750
+                },
+                {
+                    "name": "el premio flaco",
+                    "price": 1970
+                },
+                {
+                    "name": "boleto a paris",
+                    "price": 2600
+                },
+                {
+                    "name": "suite habana",
+                    "price": 1900
+                },
+                {
+                    "name": "vientos en la habana",
+                    "price": 2000
+                },
+                {
+                    "name": "lejania",
+                    "price": 1800
+                },
+                {
+                    "name": "como la vida misma",
+                    "price": 2800
+                },
+                {
+                    "name": "un hombre de exito",
+                    "price": 1300
+                },
+                {
+                    "name": "son o no son",
+                    "price": 2000
+                },
+                {
+                    "name": "habanera",
+                    "price": 1900
+                },
+                {
+                    "name": "de cierta manera",
+                    "price": 1000
+                },
+                {
+                    "name": "un rey en la habana",
+                    "price": 990
+                },
+                {
+                    "name": "aventuras de juan quinquin",
+                    "price": 1900
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "vestido de novia",
+                    "price": 480
+                },
+                {
+                    "name": "oh, la habana",
+                    "price": 520
+                },
+                {
+                    "name": "cuando el agua regresa a la tierra",
+                    "price": 520
+                },
+                {
+                    "name": "las doce sillas",
+                    "price": 540
+                },
+                {
+                    "name": "habanastation",
+                    "price": 540
+                },
+                {
+                    "name": "tierra brava",
+                    "price": 530
+                },
+                {
+                    "name": "miel para oshun",
+                    "price": 530
+                },
+                {
+                    "name": "el brigadista",
+                    "price": 400
+                },
+                {
+                    "name": "pina",
+                    "price": 300
+                },
+                {
+                    "name": "aji piminento",
+                    "price": 300
+                },
+                {
+                    "name": "cebolla",
+                    "price": 310
+                },
+                {
+                    "name": "jamon",
+                    "price": 400
+                },
+                {
+                    "name": "chorizo",
+                    "price": 400
+                },
+                {
+                    "name": "aceitunas",
+                    "price": 404
+                },
+                {
+                    "name": "atun",
+                    "price": 500
+                },
+                {
+                    "name": "champinon",
+                    "price": 600
+                },
+                {
+                    "name": "queso",
+                    "price": 510
+                },
+                {
+                    "name": "camaron",
+                    "price": 800
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 840
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "el benny",
+                    "price": 700
+                },
+                {
+                    "name": "madagascar",
+                    "price": 700
+                },
+                {
+                    "name": "en tres y dos",
+                    "price": 380
+                },
+                {
+                    "name": "tres veces dos",
+                    "price": 990
+                },
+                {
+                    "name": "regreso a itaca",
+                    "price": 400
+                },
+                {
+                    "name": "plaff",
+                    "price": 450
+                },
+                {
+                    "name": "en tiempo de amar",
+                    "price": 880
+                },
+                {
+                    "name": "bajo presion",
+                    "price": 880
+                },
+                {
+                    "name": "melaza",
+                    "price": 990
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural/gaseada 500ml",
+                    "price": 250
+                },
+                {
+                    "name": "agua natural/gaseada 1500ml",
+                    "price": 350
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 650
+                },
+                {
+                    "name": "refrescos",
+                    "price": 380
+                },
+                {
+                    "name": "maltas",
+                    "price": 400
+                },
+                {
+                    "name": "red bull",
+                    "price": 750
+                },
+                {
+                    "name": "kermato",
+                    "price": 650
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frappe",
+                    "price": 350
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 280
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cubanito",
+                    "price": 550
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 550
+                },
+                {
+                    "name": "daiquiri frappe",
+                    "price": 500
+                },
+                {
+                    "name": "daiquiri rebelde",
+                    "price": 550
+                },
+                {
+                    "name": "pina colada",
+                    "price": 600
+                },
+                {
+                    "name": "mojito de frutas",
+                    "price": 580
+                },
+                {
+                    "name": "mojito mulatico",
+                    "price": 700
+                },
+                {
+                    "name": "mojito tradicional",
+                    "price": 550
+                },
+                {
+                    "name": "mojito santiaguero",
+                    "price": 850
+                },
+                {
+                    "name": "sangria",
+                    "price": 650
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 650
+                },
+                {
+                    "name": "dry martini",
+                    "price": 590
+                },
+                {
+                    "name": "alexander",
+                    "price": 550
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 600
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 600
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 500
+                },
+                {
+                    "name": "margarita",
+                    "price": 580
+                },
+                {
+                    "name": "cubata",
+                    "price": 550
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 750
+                },
+                {
+                    "name": "mulata",
+                    "price": 500
+                },
+                {
+                    "name": "havana green",
+                    "price": 700
+                },
+                {
+                    "name": "servicio de michelada",
+                    "price": 300
+                },
+                {
+                    "name": "coctel san francisco",
+                    "price": 500
+                },
+                {
+                    "name": "virgen colada",
+                    "price": 450
+                },
+                {
+                    "name": "cerveza",
+                    "price": 400
+                },
+                {
+                    "name": "cerveza cristal/bucanero",
+                    "price": 450
+                },
+                {
+                    "name": "cerveza corona/modelo",
+                    "price": 700
+                },
+                {
+                    "name": "crema baileys",
+                    "price": 600
+                },
+                {
+                    "name": "crema al ron",
+                    "price": 600
+                },
+                {
+                    "name": "licores nacionales",
+                    "price": 350
+                },
+                {
+                    "name": "licor frangelico",
+                    "price": 800
+                },
+                {
+                    "name": "vermouth blanco",
+                    "price": 280
+                },
+                {
+                    "name": "havana club anejo 3 anos",
+                    "price": 350
+                },
+                {
+                    "name": "havana club anejo reserva",
+                    "price": 500
+                },
+                {
+                    "name": "havana club anejo especial",
+                    "price": 450
+                },
+                {
+                    "name": "havana club anejo 7 anos",
+                    "price": 600
+                },
+                {
+                    "name": "ron santiago",
+                    "price": 650
+                },
+                {
+                    "name": "ron seleccion de maestro",
+                    "price": 800
+                },
+                {
+                    "name": "chivas regal",
+                    "price": 800
+                },
+                {
+                    "name": "jameson",
+                    "price": 600
+                },
+                {
+                    "name": "ballentines",
+                    "price": 780
+                },
+                {
+                    "name": "clan campbell",
+                    "price": 450
+                },
+                {
+                    "name": "jhonnie walker e.roja",
+                    "price": 800
+                },
+                {
+                    "name": "jhonnie walker e.negra",
+                    "price": 950
+                },
+                {
+                    "name": "jyb",
+                    "price": 550
+                },
+                {
+                    "name": "vodka",
+                    "price": 400
+                },
+                {
+                    "name": "ginebra",
+                    "price": 500
+                },
+                
+                {
+                    "name": "tequila",
+                    "price": 600 
+                },
+    
+                { 
+                    "name": "tequila reposado",
+                    "price": 650 
+                },
+    
+                { 
+                    "name": "vino blanco",
+                    "price": 700 
+                },
+    
+                { 
+                    "name": "vino tinto",
+                    "price": 700 
+                },
+    
+                { 
+                    "name": "vino rosado",
+                    "price": 700 
+                }
+            ],
+            "coffee" : [
+                { 
+                    "name": "expresso",
+                    "price": 300 
+                },
+
+                { 
+                    "name": "americano",
+                    "price": 270 
+                },
+
+                { 
+                    "name": "carajillo",
+                    "price": 350 
+                },
+
+                { 
+                    "name": "cortado",
+                    "price": 320 
+                },
+
+                { 
+                    "name": "capuccino",
+                    "price": 400 
+                },
+
+                { 
+                    "name": "te",
+                    "price": 230 
+                },
+
+                { 
+                    "name": "cafe con leche",
+                    "price": 450 
+                },
+
+                { 
+                    "name": "frapuccino",
+                    "price": 580 
+                },
+
+                { 
+                    "name": "bombon",
+                    "price": 550 
+                }
+            ]
+            },
+        "special_offers": false
+    }
+}

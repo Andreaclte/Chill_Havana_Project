@@ -1,0 +1,227 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Beer para creer",
+    "district": "Habana del Este",
+    "coordinates": {
+        "latitude": 23.165680191088374, 
+        "longitude": -82.28273010731503
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Beer Para Creer",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2100"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "hamurguesa simple",
+                    "price": 450
+                },
+                {
+                    "name": "hamburguesa especial",
+                    "price": 550
+                },
+                {
+                    "name": "sandwich pinareno",
+                    "price": 900
+                },
+                {
+                    "name": "croquetas del chef",
+                    "price": 650
+                },
+                {
+                    "name": "pan con lechon",
+                    "price": 350
+                },
+                {
+                    "name": "sandwich cubano con lechon",
+                    "price": 950
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "fajitas de pollo",
+                    "price": 850
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 520
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 800
+                },
+                {
+                    "name": "masas de cerdo fritas",
+                    "price": 1350
+                },
+                {
+                    "name": "ropa vieja de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 850
+                },
+                {
+                    "name": "bistec de cerdo princesa",
+                    "price": 1100
+                },
+                {
+                    "name": "milanesa de cerdo",
+                    "price": 1100
+                },
+                {
+                    "name": "envoltino de cerdo",
+                    "price": 1250
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 1000
+                },
+                {
+                    "name": "lonjas de cerdo asadas al carbon",
+                    "price": 1300
+                },
+                {
+                    "name": "uruguayo de cerdo",
+                    "price": 1150
+                },
+                {
+                    "name": "escalope de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "gordon blue de cerdo",
+                    "price": 1250
+                },
+                {
+                    "name": "bistec de pollo grille",
+                    "price": 850
+                },
+                {
+                    "name": "bistec de pollo gratinado",
+                    "price": 1200
+                },
+                {
+                    "name": "fricase de pollo",
+                    "price": 1400
+                },
+                {
+                    "name": "arroz a la chorrera",
+                    "price": 1400
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 850
+                },
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 160
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 250
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamon",
+                    "price": 100
+                },
+                {
+                    "name": "queso blanco",
+                    "price": 80
+                },
+                {
+                    "name": "cebolla",
+                    "price": 120
+                },
+                {
+                    "name": "chorizo",
+                    "price": 100
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 250
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 180
+                },
+                {
+                    "name": "vianda frita",
+                    "price": 100
+                },
+                {
+                    "name": "ensalada de vegetales",
+                    "price": 80
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

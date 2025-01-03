@@ -1,0 +1,595 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "La Rosa De Ortega",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.09090965711562, 
+        "longitude": -82.37153742065038
+    },
+    "contact": {
+        "phone_number": "76414329",
+        "e-mail": "larosadeortegacuba1996@gmail.com",
+        "web_page": "www.larosadeortega.com",
+        "whatsapp": "52464574",
+        "facebook": "La Rosa de Ortega",
+        "instagram": "@la_rosa_de_ortega"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0730",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0730",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tabla de jamón serrano y queso",
+                    "price": 3125
+                },
+                {
+                    "name": "cóctel de camarones en lecho de vegetales",
+                    "price": 1650
+                },
+                {
+                    "name": "carpaccio",
+                    "price": 3000
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 825
+                },
+                {
+                    "name": "ceviche de pescado en vinagreta de cachucha y culantro",
+                    "price": null
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 875
+                },
+                {
+                    "name": "eperlán",
+                    "price": 1126
+                },
+                {
+                    "name": "tamales criollos",
+                    "price": 500
+                },
+                {
+                    "name": "cesta de pan",
+                    "price": 625
+                },
+                {
+                    "name": "montadito de tamal",
+                    "price": 625
+                },
+                {
+                    "name": "ensalada caprese",
+                    "price": 1185
+                },
+                {   
+                    "name": "sandwich de queso",
+                    "price": 1450
+                },
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 1625
+                },
+                {
+                    "name": "sandwich cubano",
+                    "price": 2000
+                },
+                {
+                    "name": "sandwich de atún",
+                    "price": 1500
+                },
+                {
+                    "name": "sandwich de pechuga de pollo",
+                    "price": 2000
+                },
+                {
+                    "name": "ensalada catalana",
+                    "price": 1500
+                },
+                {
+                    "name": "ensalada silvestre",
+                    "price": 1625
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pechuga de pollo a la parmesana",
+                    "price": 2750
+                },
+                {
+                    "name": "pechuga de pollo empardada",
+                    "price": 3000
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 2125
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2125
+                },
+                {
+                    "name": "solomillo de res en salsa demiglas",
+                    "price": 5750
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 2375
+                },
+                {
+                    "name": "tacos de pollo en salsa barbecue",
+                    "price": 1500
+                },
+                {
+                    "name": "camarones enchilados",
+                    "price": 2800
+                },
+                {
+                    "name": "camarones al ajillo",
+                    "price": 2950
+                },
+                {
+                    "name": "filete de pescado grillé",
+                    "price": 2500
+                },
+                {
+                    "name": "filete de pescado en salsa verde",
+                    "price": 2750
+                },
+                {
+                    "name": "filete de pescado john-bill",
+                    "price": 3125
+                },
+                {
+                    "name": "grillada del mar",
+                    "price": 5250
+                },
+                {
+                    "name": "pasta carbonara",
+                    "price": 1878
+                },
+                {
+                    "name": "pasta tomate y albahaca",
+                    "price": 1200
+                },
+                {
+                    "name": "pasta frutti di mare",
+                    "price": 2600
+                },
+                {
+                    "name": "pasta al pesto",
+                    "price": 1500
+                },
+                {
+                    "name": "pasta amatriciana",
+                    "price": 1750
+                },
+                {
+                    "name": "paella del mar",
+                    "price": 2500
+                },
+                {
+                    "name": "paella de la tierra",
+                    "price": 2125
+                },
+                {
+                    "name": "paella mar y tierra",
+                    "price": 2675
+                },
+                {
+                    "name": "risotto al pesto",
+                    "price": 1625
+                },
+                {
+                    "name": "risotto de mariscos",
+                    "price": 2750
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz",
+                    "price": 250
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 375
+                },
+                {
+                    "name": "vegetales salteados en aceite de oliva",
+                    "price": 575
+                },
+                {
+                    "name": "ensalada de vegetales frescos",
+                    "price": 625
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "copa de helado",
+                    "price": 925
+                },
+                {
+                    "name": "tarta fría de chocolate",
+                    "price": 875
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua ciego montero 1.5 l",
+                    "price": 625
+                },
+                {
+                    "name": "agua ciego montero 0.5 l",
+                    "price": 375
+                },
+                {
+                    "name": "agua gaseada nacional",
+                    "price": 375
+                },
+                {
+                    "name": "agua tónica nacional",
+                    "price": 500
+                },
+                {
+                    "name": "agua tónica importada",
+                    "price": 875
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos importados",
+                    "price": 675
+                },
+                {
+                    "name": "refrescos nacionales",
+                    "price": 475
+                },
+                {
+                    "name": "refrescos piñita",
+                    "price": 626
+                },
+                {
+                    "name": "malta",
+                    "price": 625
+                },
+                {
+                    "name": "time flies",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "de lata",
+                    "price": 575
+                },
+                {
+                    "name": "naturales",
+                    "price": 250
+                },
+                {
+                    "name": "limonada",
+                    "price": 500
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "j. bouchon",
+                    "price": 2750
+                },
+                {
+                    "name": "collezione beatrice",
+                    "price": 5000
+                },
+                {
+                    "name": "casa del valle acantus",
+                    "price": 5000
+                },
+                {
+                    "name": "leira",
+                    "price": 6350
+                },
+                {
+                    "name": "río andino",
+                    "price": 6250
+                },
+                {
+                    "name": "collezione beatrice rosado",
+                    "price": 4950
+                },
+                {
+                    "name": "vino por copas",
+                    "price": 750
+                },
+                {
+                    "name": "cune",
+                    "price": 7250
+                },
+                {
+                    "name": "reinares",
+                    "price": 6000
+                },
+                {
+                    "name": "calvet reserva",
+                    "price": 6500
+                },
+                {
+                    "name": "pieve castelletto chianti",
+                    "price": 5500
+                },
+                {
+                    "name": "nederburg",
+                    "price": 6250
+                },
+                {
+                    "name": "altos del plata",
+                    "price": 8000
+                },
+                {
+                    "name": "sidra lagar de camin",
+                    "price": 2000
+                },
+                {
+                    "name": "nectar de paris",
+                    "price": 2500
+                },
+                {
+                    "name": "jp chenet",
+                    "price": 6000
+                },
+                {
+                    "name": "j. bouchon",
+                    "price": 2750
+                },
+                {
+                    "name": "collezione beatrice",
+                    "price": 5000
+                },
+                {
+                    "name": "casa del valle acantus",
+                    "price": 5000
+                },
+                {
+                    "name": "leira",
+                    "price": 6350
+                },
+                {
+                    "name": "río andino",
+                    "price": 6250
+                },
+                {
+                    "name": "collezione beatrice",
+                    "price": 4950
+                },
+                {
+                    "name": "sidra lagar de camin",
+                    "price": 2000
+                },
+                {
+                    "name": "nectar de paris",
+                    "price": 2500
+                },
+                {
+                    "name": "jp chenet",
+                    "price": 6000
+                },
+                {
+                    "name": "mojito",
+                    "price": 675
+                },
+                {
+                    "name": "cubata",
+                    "price": 750
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 675
+                },
+                {
+                    "name": "daiquirí",
+                    "price": 675
+                },
+                {
+                    "name": "daiquirí frutal",
+                    "price": 750
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 550
+                },
+                {
+                    "name": "margarita",
+                    "price": 700
+                },
+                {
+                    "name": "screw driver",
+                    "price": 825
+                },
+                {
+                    "name": "sangría",
+                    "price": 875
+                },
+                {
+                    "name": "piña colada",
+                    "price": 876
+                },
+                {
+                    "name": "gintonic",
+                    "price": 750
+                },
+                {
+                    "name": "gintonic de coco",
+                    "price": 875
+                },
+                {
+                    "name": "cuban flavor",
+                    "price": 875
+                },
+                {
+                    "name": "enlatada brok",
+                    "price": 425
+                },
+                {
+                    "name": "enlatadas",
+                    "price": 575
+                },
+                {
+                    "name": "botella",
+                    "price": 625
+                },
+                {
+                    "name": "enlatada cristal - bucanero - corona",
+                    "price": 625
+                },
+                {
+                    "name": "botella cristal - bucanero - corona",
+                    "price": 675
+                },
+                {
+                    "name": "servicio de michelada",
+                    "price": 226
+                },
+                {
+                    "name": "servicio de chelada",
+                    "price": 150
+                },
+                {
+                    "name": "clan campbell",
+                    "price": 700
+                },
+                {
+                    "name": "jameson",
+                    "price": 875
+                },
+                {
+                    "name": "buchanan's 18",
+                    "price": 4000
+                },
+                {
+                    "name": "buchanan's 12",
+                    "price": 3376
+                },
+                {
+                    "name": "hc - 7 años",
+                    "price": 750
+                },
+                {
+                    "name": "smoky",
+                    "price": 1000
+                },
+                {
+                    "name": "santiago tradición",
+                    "price": 750
+                },
+                {
+                    "name": "santiago 8 a",
+                    "price": 950
+                },
+                {
+                    "name": "santiago 11 a",
+                    "price": 1500
+                },
+                {
+                    "name": "santiago 12 a",
+                    "price": 1875
+                },
+                {
+                    "name": "olmeca blanco",
+                    "price": 1200
+                },
+                {
+                    "name": "olmeca reposado",
+                    "price": 1300
+                },
+                {
+                    "name": "mezcal",
+                    "price": 1300
+                },
+                {
+                    "name": "amaretto sinfonia",
+                    "price": 625
+                },
+                {
+                    "name": "sambuca",
+                    "price": 750
+                },
+                {
+                    "name": "grappa cavallina bianca",
+                    "price": 1000
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "espresso",
+                    "price": 250
+                },
+                {
+                    "name": "cortado",
+                    "price": 300
+                },
+                {
+                    "name": "café con leche o chocolate",
+                    "price": 450
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

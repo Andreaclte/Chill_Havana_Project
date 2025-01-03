@@ -1,0 +1,317 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Bejuco",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.131150637521987, 
+        "longitude": -82.40805233415749
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "50671673",
+        "facebook": false,
+        "instagram": "@_elbejuco_"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "0400"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "0400"
+        }
+    },
+    "rating": 4.8,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "combo dulce",
+                    "price": 950
+                },
+                {
+                    "name": "combo salado",
+                    "price": 950
+                },
+                {
+                    "name": "tostadas con dulce",
+                    "price": 250
+                },
+                {
+                    "name": "tostadas con salsa",
+                    "price": 250
+                },
+                {
+                    "name": "fruta de temporada",
+                    "price": 250
+                },
+                {
+                    "name": "picadera simple",
+                    "price": 600
+                },
+                {
+                    "name": "picadera guajira",
+                    "price": 1200
+                },
+                {
+                    "name": "chicharritas",
+                    "price": 300
+                },
+                {
+                    "name": "tamal con cerdo",
+                    "price": 900
+                },
+                {
+                    "name": "tamal",
+                    "price": 200
+                },
+                {
+                    "name": "tostones naturales",
+                    "price": 400
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 800
+                },
+                {
+                    "name": "sandwich de queso",
+                    "price": 750
+                },
+                {
+                    "name": "sandwich de jamón",
+                    "price": 750
+                },
+                {
+                    "name": "pan con lechón",
+                    "price": 1000
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso",
+                    "price": 150
+                },
+                {
+                    "name": "jamón",
+                    "price": 200
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco",
+                    "price": 300
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos naturales",
+                    "price": 250
+                },
+                {
+                    "name": "limonada",
+                    "price": 500
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batidos",
+                    "price": 350
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "mojito",
+                    "price": 500
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 450
+                },
+                {
+                    "name": "caipirina",
+                    "price": 400
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 400
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 400
+                },
+                {
+                    "name": "canchanchara",
+                    "price": 450
+                },
+                {
+                    "name": "melonada",
+                    "price": 700
+                },
+                {
+                    "name": "verano en un vaso",
+                    "price": 600
+                },
+                {
+                    "name": "tinto de verano",
+                    "price": 600
+                },
+                {
+                    "name": "piña colada",
+                    "price": 700
+                },
+                {
+                    "name": "bejuco colorao",
+                    "price": 700
+                },
+                {
+                    "name": "bejuco gin",
+                    "price": 700
+                },
+                {
+                    "name": "cubata en reserva",
+                    "price": 650
+                },
+                {
+                    "name": "cubata con 7 años",
+                    "price": 800
+                },
+                {
+                    "name": "cerveza cristal (botella)",
+                    "price": 350
+                },
+                {
+                    "name": "michelada",
+                    "price": 750
+                },
+                {
+                    "name": "línea black tears",
+                    "price": 350
+                },
+                {
+                    "name": "línea 7 años",
+                    "price": 600
+                },
+                {
+                    "name": "línea smoky",
+                    "price": 700
+                },
+                {
+                    "name": "línea santiago",
+                    "price": 900
+                },
+                {
+                    "name": "línea reserva",
+                    "price": 400
+                },
+                {
+                    "name": "tequila blanco",
+                    "price": 350
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 500
+                },
+                {
+                    "name": "tequila reposado",
+                    "price": 500
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expreso",
+                    "price": 150
+                },
+                {
+                    "name": "cortado",
+                    "price": 250
+                },
+                {
+                    "name": "capuccino",
+                    "price": 300
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 350
+                },
+                {
+                    "name": "macchiato",
+                    "price": 250
+                },
+                {
+                    "name": "iced latte",
+                    "price": 350
+                },
+                {
+                    "name": "americano",
+                    "price": 350
+                }
+            ]
+            },
+        "special_offers": false
+    }
+}

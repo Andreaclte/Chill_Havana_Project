@@ -1,0 +1,146 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El pórtico",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13385424944992, 
+        "longitude": -82.36160649338726
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0000",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "pollo chiflado",
+                    "price": 400
+                },
+                {
+                    "name": "chuleton",
+                    "price": 950
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas",
+                    "price": 350
+                },
+                {
+                    "name": "tostones",
+                    "price": 250
+                }
+            ]
+        },
+        "main_courses": false,
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza dispensada (jarra)",
+                    "price" : 300
+                },
+                {
+                    "name" : "cerveza dispensada (termo)",
+                    "price" : 2000
+                },
+                {
+                    "name" : "cerveza parranda",
+                    "price" : 400
+                },
+                {
+                    "name" : "cerveza hollandia",
+                    "price" : 200
+                },
+                {
+                    "name" : "cerveza cacique",
+                    "price" : 240
+                },
+                {
+                    "name" : "cerveza unlaguer",
+                    "price" : 200
+                },
+                {
+                    "name" : "cerveza La Fria",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza almara",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza bucanero",
+                    "price" : 240
+                },
+                {
+                    "name" : "cerveza cristal",
+                    "price" : 250
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": null
+        }
+}

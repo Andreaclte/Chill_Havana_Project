@@ -1,0 +1,158 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Salchipizza",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13412923367649, 
+        "longitude": -82.37826298998031
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Salchipizza",
+        "instagram": "@salchipizza"
+    },
+    "schedule": {
+        "monday": { 
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1300",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "rating": 4.2,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking":false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tabla de panes artesanales",
+                    "price": 1500
+                },
+                {
+                    "name": "terrina de pescado",
+                    "price": 2700
+                },
+                {
+                    "name": "tinaja de carbón con crema Parmentier de verduras de estacion",
+                    "price": 2500
+                },
+                {
+                    "name": "ensalada de cerdo guayaba y fruta bomba",
+                    "price": 2000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "carretón de boniato, rueda de quimbombó y y látigo de carnero ahumado",
+                    "price": 3000
+                },
+                {
+                    "name": "volcán de maíz, lava de pescado ardiente y cenizas de pulpo",
+                    "price": 3500
+                },
+                {
+                    "name": "masa de cerdo con verduras al gratin",
+                    "price": 2300
+                },
+                {
+                    "name": "lasaña de carne a la boloñesa",
+                    "price": 1600
+                },
+                {
+                    "name": "señorita de cerdo con verduras al gratin",
+                    "price": 3000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "recuerdos de la infancia",
+                    "price" : 2000
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua",
+                "price" : 200
+                }
+            ],
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "copa de vino",
+                    "price" : 750
+                },
+                {
+                    "name" : "copa de champagne",
+                    "price" : 800
+                },
+                {
+                    "name" : "cerveza nacional",
+                    "price" : 350
+                },
+                {
+                    "name" : "cerveza importada",
+                    "price" : 400
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "cafe",
+                    "price" : 150
+                }
+            ]
+            },
+        "special_offers": null
+        }
+}

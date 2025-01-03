@@ -1,0 +1,200 @@
+{
+    "type_of_establishment": "",
+    "name": "",
+    "district": "",
+    "coordinates": {
+        "latitude": "",
+        "longitude": ""
+    },
+    "contact": {
+        "phone_number": "",
+        "e-mail": "",
+        "web_page": "",
+        "whatsapp": "",
+        "facebook": "",
+        "instagram": ""
+    },
+    "schedule": {
+        "monday": {
+            "open": "",
+            "close": ""
+        },
+        "tuesday": {
+            "open": "",
+            "close": ""
+        },
+        "wednesday": {
+            "open": "",
+            "close": ""
+        },
+        "thursday": {
+            "open": "",
+            "close": ""
+        },
+        "friday": {
+            "open": "",
+            "close": ""
+        },
+        "saturday": {
+            "open": "",
+            "close": ""
+        },
+        "sunday": {
+            "open": "",
+            "close": ""
+        }
+    },
+    "rating": "",
+    "intake_capacity": "",
+    "cuisine": "",
+    "services": {
+        "plant": "",
+        "child_care": "",
+        "disable_support": "",
+        "parking": "",
+        "delivery": "",
+        "reserves": "",
+        "takeaway": "",
+        "vip_zone": "",
+        "interactive_act": ""
+    },
+    "pay_meth": {
+        "cash": "",
+        "transfer": ""
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                },
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                },
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                },
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "",
+                    "price": ""
+                },
+                {
+                    "name": "",
+                    "price": ""
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "",
+                "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+                ],
+            "smoothie" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+                ],
+            "ice_cream_shake" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+                ],
+            "alcoholic" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "",
+                    "price" : ""
+                },
+                {
+                    "name" : "",
+                    "price" : ""
+                }
+            ]
+        },
+        "special_offers": []
+    }
+}

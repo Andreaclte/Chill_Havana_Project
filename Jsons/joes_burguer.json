@@ -1,0 +1,171 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Joe's Burguer",
+    "district": "Diez de Octubre",
+    "coordinates": {
+        "latitude": 23.08829101929028, 
+        "longitude": -82.3777419915061
+    },
+    "contact": {
+        "phone_number": "76400715",
+        "e-mail": "roxybbcute.16@gmail.com",
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Joes Burguer Shack",
+        "instagram": "@joes_burguer00"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2300"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "baja",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa de cerdo",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa de res",
+                    "price": 700
+                },
+                {
+                    "name": "hamburguesa doble",
+                    "price": 900
+                },
+                {
+                    "name": "bocadito de jamón y queso",
+                    "price": 450
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "pepinillo",
+                    "price": 30
+                },
+                {
+                    "name": "chorizo",
+                    "price": 80
+                },
+                {
+                    "name": "jamón",
+                    "price": 100
+                },
+                {
+                    "name": "tomate",
+                    "price": 100
+                },
+                {
+                    "name": "queso",
+                    "price": 120
+                },
+                {
+                    "name": "cebolla",
+                    "price": 150
+                },
+                {
+                    "name": "huevo",
+                    "price": 150
+                },
+                {
+                    "name": "bacon",
+                    "price": 150
+                },
+                {
+                    "name": "lechuga",
+                    "price": 200
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "potes de helado",
+                    "price": 2000
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frappé",
+                    "price": 500
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 700
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 350
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Hábitat",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.142049436581914, 
+        "longitude": -82.39508647982898
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Hábitat",
+        "instagram": "@habitat_calzada"
+    },
+    "schedule": {
+        "monday": { 
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2000"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["americana", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "Empanadas margaritas 4u",
+                    "price": "600"
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "Hamburguesa Sencilla de pollo",
+                    "price": "900"
+                },
+                {
+                    "name": "Hamburguesa Sencilla de cerdo",
+                    "price": "900"
+                },
+                {
+                    "name": "Hamburguesa Sencilla de res",
+                    "price": "1100"
+                },
+                {
+                    "name": "Hamburguesa Mini de pollo",
+                    "price": "450"
+                },
+                {
+                    "name": "Hamburguesa Mini de cerdo",
+                    "price": "450"
+                },
+                {
+                    "name": "Hamburguesa Mini de res",
+                    "price": "550"
+                },
+                {
+                    "name": "Cheese burguer de pollo",
+                    "price": "1050"
+                },
+                {
+                    "name": "Cheese burguer de cerdo",
+                    "price": "1050"
+                },
+                {
+                    "name": "Cheese burguer de res",
+                    "price": "1150"
+                },
+                {
+                    "name": "Hamburguesota de pollo",
+                    "price": "1500"
+                },
+                {
+                    "name": "Hamburguesota de cerdo",
+                    "price": "1500"
+                },
+                {
+                    "name": "Hamburguesota de res",
+                    "price": "1900"
+                },
+                {
+                    "name": "Pan con lechon",
+                    "price": "850"
+                },
+                {
+                    "name": "Mini lechon",
+                    "price": "450"
+                },
+                {
+                    "name": "Sandwich Jamon y queso",
+                    "price": "700"
+                },
+                {
+                    "name": "Sandwich Mini J y Q",
+                    "price": "400"
+                },
+                {
+                    "name": "Sandwich Cubano",
+                    "price": "1100"
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "Queso",
+                    "price": "150"
+                },
+                {
+                    "name": "Jamon",
+                    "price": "150"
+                },
+                {
+                    "name": "Bacon",
+                    "price": "250"
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "Helados",
+                    "price": "250"
+                },
+                { 
+                    " name": "Mantequilla de maní",
+                    "price": 400
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "Agua (500ml)",
+                    "price": "220"
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "Pepsi",
+                    "price": 380
+                },
+                {
+                    "name": "7up",
+                    "price": 380
+                }
+            ],
+            "juices" : [
+                { 
+                    "name": "Jugo de caja",
+                    "price": 280
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "Expresso",
+                    "price": "150"
+                },
+                {
+                    "name": "Cortado",
+                    "price": "180"
+                }
+            ]
+            },
+        "special_offers": false
+    }
+}

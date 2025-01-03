@@ -1,0 +1,283 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Ranchon Don Martin",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.03192045701879, 
+        "longitude": -82.47284867841391
+    },
+    "contact": {
+        "phone_number": "72677049",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "63717638",
+        "facebook": "Ranchón Don Martín",
+        "instagram": "@ranchondonmartin"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ensalada fria",
+                    "price": 400
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 950
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 470
+                },
+                {
+                    "name": "toston con mojo",
+                    "price": 470
+                },
+                {
+                    "name": "chicharritas",
+                    "price": 380
+                },
+                {
+                    "name": "papa frita",
+                    "price": 370
+                },
+                {
+                    "name": "toston relleno",
+                    "price": 700
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "masa frita de cerdo",
+                    "price": 2030
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 2030
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1400
+                },
+                {
+                    "name": "bistec de cerdo uruguayo",
+                    "price": 2050
+                },
+                {
+                    "name": "bistec de cerdo empanado",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec de cerdo al graten",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec de cerdo a la reina",
+                    "price": 1700
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 2820
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2850
+                },
+                {
+                    "name": "pechuga",
+                    "price": 1440
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 1530
+                },
+                {
+                    "name": "pechuga empanada",
+                    "price": 1520
+                },
+                {
+                    "name": "pechuga al graten",
+                    "price": 1580
+                },
+                {
+                    "name": "pechuga a la reina",
+                    "price": 1780
+                },
+                {
+                    "name": "gordon blue",
+                    "price": 1600
+                },
+                {
+                    "name": "filete de pescado grille",
+                    "price": 1800
+                },
+                {
+                    "name": "filete de pescado empanado",
+                    "price": 1800
+                },
+                {
+                    "name": "filete de pescado al graten",
+                    "price": 2000
+                },
+                {
+                    "name": "canciller",
+                    "price": 2450
+                },
+                {
+                    "name": "filete don martin",
+                    "price": 2000
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2000
+                },
+                {
+                    "name": "camaron al ajillo",
+                    "price": 2100
+                },
+                {
+                    "name": "camaron rebozado",
+                    "price": 3600
+                },
+                {
+                    "name": "langosta al ajillo",
+                    "price": 3650
+                },
+                {
+                    "name": "langosta enchilado",
+                    "price": 1810
+                },
+                {
+                    "name": "chilindron de cordero",
+                    "price": 900
+                },
+                {
+                    "name": "pan con hamburguesa",
+                    "price": 1280
+                },
+                {
+                    "name": "pan con hamburguesa, jamon y queso",
+                    "price": 840
+                },
+                {
+                    "name": "pizza",
+                    "price": 860
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 860
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan",
+                    "price": 350
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 180
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco de lata",
+                    "price": 220
+                },
+                {
+                    "name": "malta caribia",
+                    "price": 230
+                },
+                {
+                    "name": "refresco manzanita",
+                    "price": 290
+                },
+                {
+                    "name": "seven-up",
+                    "price": 240
+                },
+                {
+                    "name": "piñita",
+                    "price": 225
+                },
+                {
+                    "name": "energizante",
+                    "price": 245
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de caja",
+                    "price": 175
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 450
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

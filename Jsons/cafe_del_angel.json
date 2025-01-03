@@ -1,0 +1,246 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Café Del Ángel",
+    "district": "La Habana Vieja",
+    "coordinates": {
+        "latitude": 23.142051017464148, 
+        "longitude": -82.35552776299248
+    },
+    "contact": {
+        "phone_number": "78015162",
+        "e-mail": false,
+        "web_page": "https://linktr.ee/cafedelangeljf",
+        "whatsapp": false,
+        "facebook": "Jacqueline Fumero - Café del Angel",
+        "instagram": "@cafedelangeljf"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2200"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["española", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "del angel",
+                    "price": 2500
+                },
+                {
+                    "name": "croissant madame",
+                    "price": 2500
+                },
+                {
+                    "name": "omelette al queso",
+                    "price": 1630
+                },
+                {
+                    "name": "americano",
+                    "price": 2400
+                },
+                {
+                    "name": "pancakes",
+                    "price": 1700
+                },
+                {
+                    "name": "continental",
+                    "price": 1600
+                },
+                {
+                    "name": "bagel nordico",
+                    "price": 2450
+                },
+                {
+                    "name": "yogurt parfait",
+                    "price": 1360
+                },
+                {
+                    "name": "bagel catalan",
+                    "price": 2450
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas serrano",
+                    "price": 1480
+                },
+                {
+                    "name": "rillete de cerdo",
+                    "price": 1500
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 2200
+                },
+                {
+                    "name": "mixto de brusquetas",
+                    "price": 2200
+                },
+                {
+                    "name": "tacos de camarones",
+                    "price": 2380
+                },
+                {
+                    "name": "empanadillas de queso",
+                    "price": 1400
+                },
+                {
+                    "name": "tabla charcuteria",
+                    "price": 4000
+                },
+                {
+                    "name": "ensalada del angel",
+                    "price": 2340
+                },
+                {
+                    "name": "baguette de jamon & queso",
+                    "price": 1600
+                },
+                {
+                    "name": "bocata catalana",
+                    "price": 2400
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 1530
+                },
+                {
+                    "name": "sandwich vegetales",
+                    "price": 1530
+                },
+                {
+                    "name": "sandwich cubano",
+                    "price": 2600
+                },
+                {
+                    "name": "huevos & pesto",
+                    "price": 2400
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 4200
+                },
+                {
+                    "name": "pescado a la siciliana",
+                    "price": 3580
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 3580
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 4950
+                },
+                {
+                    "name": "hamburguesa de res",
+                    "price": 3200
+                },
+                {
+                    "name": "langosta caribena",
+                    "price": 5400
+                },
+                {
+                    "name": "pollo mediterraneo",
+                    "price": 2340
+                },
+                {
+                    "name": "spaghetti pomodoro",
+                    "price": 1880
+                },
+                {
+                    "name": "ragu de cordero",
+                    "price": 3450
+                },
+                {
+                    "name": "ravioli carbonara",
+                    "price": 3200
+                },
+                {
+                    "name": "spaghetti al pesto",
+                    "price": 2200
+                },
+                {
+                    "name": "rigatoni amatriciana",
+                    "price": 3200
+                },
+                {
+                    "name": "spaghetti altamar",
+                    "price": 3450
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "mousse de chocolate",
+                    "price": 1925
+                },
+                {
+                    "name": "esfera de maracuya",
+                    "price": 1925
+                },
+                {
+                    "name": "arroz con leche",
+                    "price": 1500
+                },
+                {
+                    "name": "dados de guayaba",
+                    "price": 1500
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

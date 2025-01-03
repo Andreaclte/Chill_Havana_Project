@@ -1,0 +1,124 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Shapuseros",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.117562853692327, 
+        "longitude": -82.38451702024058
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Shapuseros Habana",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": { 
+            "open": "0900",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2100"
+        }
+    },
+    "rating": 3.0,
+    "intake_capacity": "baja",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa de cerdo",
+                    "price": 550
+                },
+                {
+                    "name": "hamburguesa de res",
+                    "price": 600
+                },
+                {
+                    "name": "hamburguesa Shapusero",
+                    "price": 1200
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso",
+                    "price": 150
+                },
+                {
+                    "name": "jamon",
+                    "price": 120
+                },
+                {
+                    "name": "chorizo",
+                    "price": 150
+                },
+                {
+                    "name": "bacon",
+                    "price": 155
+                },
+                {
+                    "name": "huevo",
+                    "price": 150
+                },
+                {
+                    "name": "cebolla",
+                    "price": 50
+                },
+                {
+                    "name": "salsa BBQ",
+                    "price": 30
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+        }
+}

@@ -1,0 +1,168 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Tráfico",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.08023772075543,
+        "longitude": -82.32083560917445
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2200"
+        }
+    },
+    "rating": 2.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "italiana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "papas fritas",
+                    "price": 600
+                },
+                {
+                    "name": "tamal",
+                    "price": 200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de pollo",
+                    "price": 1500
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1950
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 1950
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 1950
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1950
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 2000
+                },
+                {
+                    "name": "cerdo guisado",
+                    "price": 2000
+                },
+                {
+                    "name": "lomo ahumado",
+                    "price": 2000
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 2000
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2000
+                },
+                {
+                    "name": "filete de merluza",
+                    "price": 2000
+                },
+                {
+                    "name": "pizza de queso blanco",
+                    "price": 280
+                },
+                {
+                    "name": "pizza de queso blanco xl",
+                    "price": 770
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 320
+                },
+                {
+                    "name": "pizza de queso gouda xl",
+                    "price": 830
+                },
+                {
+                    "name": "pizza de queso parmesano",
+                    "price": 350
+                },
+                {
+                    "name": "pizza de queso parmesano xl",
+                    "price": 850
+                },
+                {
+                    "name": "spaghetti con queso blanco",
+                    "price": 400
+                },
+                {
+                    "name": "spaghetti con queso gouda",
+                    "price": 420
+                },
+                {
+                    "name": "spaghetti con queso parmesano",
+                    "price": 450
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

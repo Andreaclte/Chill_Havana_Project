@@ -1,0 +1,193 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "2KFÉ",
+    "district": "Regla",
+    "coordinates": {
+        "latitude": 23.12805874474967, 
+        "longitude": -82.33435589367647
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": "@2kfe_bar"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2000"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2000"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana", "mexicana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas",
+                    "price": 300
+                },
+                {
+                    "name": "viandas fritas",
+                    "price": 100
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 250
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 800
+                },
+                {
+                    "name": "mini gordon bleu",
+                    "price": 800
+                },
+                {
+                    "name": "plato combinado",
+                    "price": 1200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "tacos carnitas",
+                    "price": 850
+                },
+                {
+                    "name": "tacos res",
+                    "price": 900
+                },
+                {
+                    "name": "tacos pollo",
+                    "price": 600
+                },
+                {
+                    "name": "tacos vegetariano",
+                    "price": 400
+                },
+                {
+                    "name": "tacos vegetales salteados en mantequilla y limon",
+                    "price": 500
+                },
+                {
+                    "name": "tacos jamon y queso",
+                    "price": 650
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 100
+                },
+                {
+                    "name": "americano",
+                    "price": 100
+                },
+                {
+                    "name": "cortadito",
+                    "price": 150
+                },
+                {
+                    "name": "con leche",
+                    "price": 200
+                },
+                {
+                    "name": "expresso macchiato",
+                    "price": 180
+                },
+                {
+                    "name": "caramel macchiato",
+                    "price": 250
+                },
+                {
+                    "name": "cappuccino",
+                    "price": 220
+                },
+                {
+                    "name": "frappuccino",
+                    "price": 500
+                },
+                {
+                    "name": "irlandes",
+                    "price": 250
+                },
+                {
+                    "name": "caribeno",
+                    "price": 180
+                },
+                {
+                    "name": "alma mia",
+                    "price": 180
+                },
+                {
+                    "name": "minty coffee",
+                    "price": 250
+                },
+                {
+                    "name": "2kf",
+                    "price": 250
+                },
+                {
+                    "name": "lujo",
+                    "price": 600
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

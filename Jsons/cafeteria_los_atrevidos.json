@@ -1,0 +1,257 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Pizzería Los Atrevidos",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.062585294878723,
+        "longitude": -82.36389982686543
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://atrevidospizzeria.com",
+        "whatsapp": "52966948",
+        "facebook": "Pizzeria Los Atrevidos",
+        "instagram": "@terrazalosatrevidos"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2100"
+        }
+    },
+    "rating": 4.4,
+    "intake_capacity": "alta",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": true,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "fajitas de pollo",
+                    "price": 2496
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 2080
+                },
+                {
+                    "name": "pizza 4 quesos",
+                    "price": 1600
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1760
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1280
+                },
+                {
+                    "name": "pizza super atrevida",
+                    "price": 2080
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 1760
+                },
+                {
+                    "name": "pizza de jamón serrano",
+                    "price": 2240
+                },
+                {
+                    "name": "pizza de peperoni",
+                    "price": 1760
+                },
+                {
+                    "name": "pizza de pimiento",
+                    "price": 1440
+                },
+                {
+                    "name": "pizza de camarones",
+                    "price": 2240
+                },
+                {
+                    "name": "pizza de champiñones",
+                    "price": 1600
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1440
+                },
+                {
+                    "name": "pizza de chorizo vela",
+                    "price": 1600
+                },
+                {
+                    "name": "pizza de aceitunas",
+                    "price": 1536
+                },
+                {
+                    "name": "pizza de atún",
+                    "price": 1664
+                },
+                {
+                    "name": "pizza de atún con cebolla",
+                    "price": 1760
+                },
+                {
+                    "name": "pizza de baecon",
+                    "price": 1920
+                },
+                {
+                    "name": "lasagna",
+                    "price": 1440
+                },
+                {
+                    "name": "spaghetti de aceitunas",
+                    "price": 2080
+                },
+                {
+                    "name": "spaghetti de atún",
+                    "price": 2240
+                },
+                {
+                    "name": "spaghetti de camarones",
+                    "price": 2400
+                },
+                {
+                    "name": "spaghetti hawaianos",
+                    "price": 1920
+                },
+                {
+                    "name": "spaghetti 4 quesos",
+                    "price": 2240
+                },
+                {
+                    "name": "spaghetti atrevidos",
+                    "price": 2720
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 1440
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural 1500 ml",
+                    "price": 800
+                },
+                {
+                    "name": "agua natural 500ml",
+                    "price": 400
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "pepsi",
+                    "price": 640
+                },
+                {
+                    "name": "pomo coca cola 750 ml",
+                    "price": 960
+                },
+                {
+                    "name": "sevenup",
+                    "price": 640
+                },
+                {
+                    "name": "sprite",
+                    "price": 640
+                },
+                {
+                    "name": "malta bucanero",
+                    "price": 640
+                },
+                {
+                    "name": "coca cola",
+                    "price": 640
+                },
+                {
+                    "name": "coca cola 1.75 ltr",
+                    "price": 1760
+                },
+                {
+                    "name": "fanta",
+                    "price": 640
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de pera la estancia",
+                    "price": 1280
+                },
+                {
+                    "name": "jugo manzana la estancia",
+                    "price": 1280
+                },
+                {
+                    "name": "kermato",
+                    "price": 800
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza sol",
+                    "price": 1120
+                },
+                {
+                    "name": "cerveza corona",
+                    "price": 1120
+                },
+                {
+                    "name": "cerveza cristal",
+                    "price": 896
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

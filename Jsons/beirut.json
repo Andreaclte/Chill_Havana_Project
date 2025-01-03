@@ -1,0 +1,201 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Beirut",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.14155904081577, 
+        "longitude": -82.40118050679031
+    },
+    "contact": {
+        "phone_number": "78315883",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "55924333",
+        "facebook": false,
+        "instagram": "@beiruthabana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["arabe", "libanesa"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "shawarma de pollo",
+                    "price": 1520
+                },
+                {
+                    "name": "shawarma árabe",
+                    "price": 1520
+                },
+                {
+                    "name": "sandwich falafel",
+                    "price": 1420
+                },
+                {
+                    "name": "sandwich shish taouk",
+                    "price": 1720
+                },
+                {
+                    "name": "sandwich kabab",
+                    "price": 1720
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "shish taouk",
+                    "price": 2950
+                },
+                {
+                    "name": "kabab",
+                    "price": 2900
+                },
+                {
+                    "name": "shish taouk-kabab",
+                    "price": 2800
+                },
+                {
+                    "name": "shish kabab",
+                    "price": 2000
+                },
+                {
+                    "name": "tajin",
+                    "price": 3500
+                },
+                {
+                    "name": "mixto beirut",
+                    "price": 3700
+                },
+                {
+                    "name": "fetuche",
+                    "price": 1500
+                },
+                {
+                    "name": "ensalada mixta",
+                    "price": 2000
+                },
+                {
+                    "name": "betabel",
+                    "price": 2000
+                },
+                {
+                    "name": "ensalada beirut",
+                    "price": 2100
+                },
+                {
+                    "name": "tabule",
+                    "price": 3000
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua natural",
+                "price" : 175
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos importados",
+                    "price": 290
+                },
+                {
+                    "name": "maltas",
+                    "price": 290
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "limonada",
+                    "price" : 410
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 410
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cervezas",
+                    "price": 390
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 125
+                },
+                {
+                    "name": "capuccino",
+                    "price": 300
+                },
+                {
+                    "name": "americano",
+                    "price": 160
+                },
+                {
+                    "name": "cortado",
+                    "price": 200
+                },
+                {
+                    "name": "te",
+                    "price": 150
+                }
+            ]
+            },
+        "special_offers": false
+        }
+}

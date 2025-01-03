@@ -1,0 +1,452 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Juanky's Pan",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.072350868212965,
+        "longitude": -82.46030204960273
+    },
+    "contact": {
+        "phone_number": "72718794",
+        "e-mail": false,
+        "web_page": "https://lalisa.juankyspan.com",
+        "whatsapp": false,
+        "facebook": "Juanky's PAN",
+        "instagram": "@juankys_pan"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "0200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "americana", "italiana"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de jamon",
+                    "price": 570
+                },
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 765
+                },
+                {
+                    "name": "huevos rotos",
+                    "price": 905
+                },
+                {
+                    "name": "mixto de maria",
+                    "price": 2200
+                },
+                {
+                    "name": "punetazos de cerdo c/ queso",
+                    "price": 895
+                },
+                {
+                    "name": "punetazos de cerdo c/ queso y bacon",
+                    "price": 1030
+                },
+                {
+                    "name": "punetazos de cerdo c/ bacon",
+                    "price": 955
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "tacos de ropa vieja de carnero",
+                    "price": 2055
+                },
+                {
+                    "name": "tacos de ropa vieja de cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "hamburguesa a caballo de cerdo",
+                    "price": 733
+                },
+                {
+                    "name": "big cheese burger de cerdo",
+                    "price": 890
+                },
+                {
+                    "name": "big tasty cerdo",
+                    "price": 870
+                },
+                {
+                    "name": "hamburguesa de cerdo con atun",
+                    "price": 1000
+                },
+                {
+                    "name": "hamburguesa de cerdo con bacon",
+                    "price": 995
+                },
+                {
+                    "name": "hamburguesa de cerdo con jamon y queso",
+                    "price": 1000
+                },
+                {
+                    "name": "doble hamburguesa de cerdo",
+                    "price": 1050
+                },
+                {
+                    "name": "hamburguesa de cerdo de doble queso",
+                    "price": 895
+                },
+                {
+                    "name": "hamburguesa don juan cerdo",
+                    "price": 1130
+                },
+                {
+                    "name": "hamburguesa don pascual cerdo",
+                    "price": 1375
+                },
+                {
+                    "name": "especial de cerdo",
+                    "price": 800
+                },
+                {
+                    "name": "hamburguesa guajira de cerdo",
+                    "price": 2715
+                },
+                {
+                    "name": "juanky's combo de cerdo con queso + jugo",
+                    "price": 1094
+                },
+                {
+                    "name": "mix sin pan de cerdo",
+                    "price": 830
+                },
+                {
+                    "name": "pina caramelo de cerdo",
+                    "price": 1055
+                },
+                {
+                    "name": "premium de champinon cerdo",
+                    "price": 730
+                },
+                {
+                    "name": "hamburguesa sencilla de cerdo",
+                    "price": 838
+                },
+                {
+                    "name": "hamburguesa taquena de cerdo",
+                    "price": 230
+                },
+                {
+                    "name": "juankymon",
+                    "price": 594
+                },
+                {
+                    "name": "media noche",
+                    "price": 454
+                },
+                {
+                    "name": "media noche sin queso",
+                    "price": 760
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 780
+                },
+                {
+                    "name": "sandwich de queso",
+                    "price": 560
+                },
+                {
+                    "name": "sandwich hawaiano",
+                    "price": 1360
+                },
+                {
+                    "name": "spaghetti de bacon con queso",
+                    "price": 470
+                },
+                {
+                    "name": "spaghetti base",
+                    "price": 1195
+                },
+                {
+                    "name": "spaghetti con carne de cerdo",
+                    "price": 1390
+                },
+                {
+                    "name": "spaghetti de chorizo con queso",
+                    "price": 695
+                },
+                {
+                    "name": "spaghetti de jamon con queso",
+                    "price": 985
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "helado montado",
+                    "price": 580
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "belga star",
+                    "price": 300
+                },
+                {
+                    "name": "refresco de cola",
+                    "price": 300
+                },
+                {
+                    "name": "refresco de limon",
+                    "price": 300
+                },
+                {
+                    "name": "refresco de naranja",
+                    "price": 300
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de fruta bomba",
+                    "price": 185
+                },
+                {
+                    "name": "jugo de guayaba",
+                    "price": 185
+                },
+                {
+                    "name": "limonada",
+                    "price": 415
+                },
+                {
+                    "name": "jugo de melon",
+                    "price": 185
+                },
+                {
+                    "name": "jugo de platano",
+                    "price": 185
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de fruta bomba",
+                    "price": 300
+                },
+                {
+                    "name": "batido de guayaba",
+                    "price": 300
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 850
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 950
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza stella",
+                    "price": 510
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 600
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 520
+                },
+                {
+                    "name": "caipiroska absolut",
+                    "price": 680
+                },
+                {
+                    "name": "caipiroska c/ cirok",
+                    "price": 950
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 530
+                },
+                {
+                    "name": "cubanito",
+                    "price": 420
+                },
+                {
+                    "name": "cubata c/ 7 anos",
+                    "price": 600
+                },
+                {
+                    "name": "cubata c/ especial",
+                    "price": 695
+                },
+                {
+                    "name": "cubata c/ reserva",
+                    "price": 580
+                },
+                {
+                    "name": "gin tonic",
+                    "price": 795
+                },
+                {
+                    "name": "gin tonic beefeater",
+                    "price": 940
+                },
+                {
+                    "name": "gin tonic c/ tanqueray",
+                    "price": 990
+                },
+                {
+                    "name": "sangria",
+                    "price": 600
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 500
+                },
+                {
+                    "name": "screwdriver absolut",
+                    "price": 780
+                },
+                {
+                    "name": "vodka tonic",
+                    "price": 850
+                },
+                {
+                    "name": "vodka tonic absolut",
+                    "price": 1200
+                },
+                {
+                    "name": "copa de vino tinto",
+                    "price": 460
+                },
+                {
+                    "name": "copa de vino tinto yzaguirre vermouth",
+                    "price": 450
+                },
+                {
+                    "name": "jagger",
+                    "price": 350
+                },
+                {
+                    "name": "ron anejo 7 anos",
+                    "price": 250
+                },
+                {
+                    "name": "ron anejo especial",
+                    "price": 175
+                },
+                {
+                    "name": "ron anejo reserva",
+                    "price": 195
+                },
+                {
+                    "name": "ron seleccion de maestros",
+                    "price": 830
+                },
+                {
+                    "name": "tequila don julio reposado",
+                    "price": 1400
+                },
+                {
+                    "name": "tequila silver los corrales",
+                    "price": 380
+                },
+                {
+                    "name": "whisky ballentines",
+                    "price": 450
+                },
+                {
+                    "name": "whisky chivas regal",
+                    "price": 790
+                },
+                {
+                    "name": "whisky j&b",
+                    "price": 350
+                },
+                {
+                    "name": "whisky jack daniels black label",
+                    "price": 495
+                },
+                {
+                    "name": "whisky jack daniels honey",
+                    "price": 380
+                },
+                {
+                    "name": "whisky jameson",
+                    "price": 575
+                },
+                {
+                    "name": "whisky jw black label",
+                    "price": 940
+                },
+                {
+                    "name": "whisky jw red label",
+                    "price": 470
+                },
+                {
+                    "name": "whisky old partner",
+                    "price": 200
+                },
+                {
+                    "name": "whisky spirit speech",
+                    "price": 200
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

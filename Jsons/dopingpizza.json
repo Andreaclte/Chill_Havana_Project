@@ -1,0 +1,216 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Doping pizza",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13389533564469, 
+        "longitude": -82.37685653415737
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "51260311",
+        "facebook": false,
+        "instagram": "@dopingpizzas"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 3.1,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ensalada fria natural",
+                    "price": 500
+                },
+                {
+                    "name": "ensalada fria de jamon",
+                    "price": 600
+                },
+                {
+                    "name": "ensalada fria de atun",
+                    "price": 700
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza napolitana",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1400
+                },
+                {
+                    "name": "pizza de bacon",
+                    "price": 1400
+                },
+                {
+                    "name": "pizza doping extreme",
+                    "price": 1500
+                },
+                {
+                    "name": "spaghetti napoles",
+                    "price": 900
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso",
+                    "price": 450
+                },
+                {
+                    "name": "jamon",
+                    "price": 350
+                },
+                {
+                    "name": "chorizo",
+                    "price": 350
+                },
+                {
+                    "name": "atun",
+                    "price": 400
+                },
+                {
+                    "name": "cebolla",
+                    "price": 200
+                },
+                {
+                    "name": "pimiento",
+                    "price": 200
+                },
+                {
+                    "name": "aceituna",
+                    "price": 300
+                },
+                {
+                    "name": "bacon",
+                    "price": 400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "paletica de helado clasica",
+                    "price" : 150
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua",
+                "price" : 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 250
+                },
+                {
+                    "name" : "malta",
+                    "price" : 300
+                },
+                {
+                    "name": "malteada",
+                    "price": 650
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugos",
+                    "price" : 300
+                }
+                ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name" : "batido de helado (12oz)",
+                    "price" : 550
+                },
+                {
+                    "name" : "batido de helado (16oz)",
+                    "price" : 750
+                }
+                ],
+            "alcoholic" : [
+                {
+                    "name" : "cerveza",
+                    "price" : 300
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": [
+            {
+                "name": "lasaña",
+                "price": 1300
+            }
+        ]
+        }
+}

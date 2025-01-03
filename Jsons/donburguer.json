@@ -1,0 +1,306 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Don Burguer",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.07552643657392, 
+        "longitude": -82.35874254913283
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "bit.ly/DonBurguerJJ",
+        "whatsapp": "56073379",
+        "facebook": "Don Burguer JJ",
+        "instagram": "@donburguercuba"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ensalada fria",
+                    "price": 580
+                },
+                {
+                    "name": "aceitunas (racion)",
+                    "price": 420
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 640
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 510
+                },
+                {
+                    "name": "croquetas",
+                    "price": 640
+                },
+                {
+                    "name": "papitas",
+                    "price": 640
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 940
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 1720
+                },
+                {
+                    "name": "brusquetas",
+                    "price": 780
+                },
+                {
+                    "name": "burritos de jamon y queso",
+                    "price": 1260
+                },
+                {
+                    "name": "tacos de vegetales",
+                    "price": 620
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1120
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 1120
+                },
+                {
+                    "name": "tacos de res",
+                    "price": 1280
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa (cerdo)",
+                    "price": 740
+                },
+                {
+                    "name": "hamburguesa (pollo)",
+                    "price": 740
+                },
+                {
+                    "name": "hamburguesa (res)",
+                    "price": 860
+                },
+                {
+                    "name": "doble hamb. (cerdo)",
+                    "price": 1040
+                },
+                {
+                    "name": "doble hamb. (pollo)",
+                    "price": 1040
+                },
+                {
+                    "name": "doble hamb. (res)",
+                    "price": 1480
+                },
+                {
+                    "name": "doble hamburguesa de cerdo(bistec de cerdo y 3 agregos / jamon vicking, queso y chorizo)",
+                    "price": 2680
+                },
+                {
+                    "name": "pan c/ bistec de cerdo",
+                    "price": 840
+                },
+                {
+                    "name": "pan c/ bistec de pollo",
+                    "price": 810
+                },
+                {
+                    "name": "pan c/ lechón",
+                    "price": 890
+                },
+                {
+                    "name": "bocadito de atún",
+                    "price": 840
+                },
+                {
+                    "name": "sandwich de jamón queso y chorizo",
+                    "price": 890
+                },
+                {
+                    "name": "sandwich cubano",
+                    "price": 1290
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "jamón vicking",
+                    "price": 120
+                },
+                {
+                    "name": "jamón pierna",
+                    "price": 190
+                },
+                {
+                    "name": "bacon",
+                    "price": 190
+                },
+                {
+                    "name": "queso",
+                    "price": 150
+                },
+                {
+                    "name": "chorizo",
+                    "price": 120
+                },
+                {
+                    "name": "huevo",
+                    "price": 190
+                },
+                {
+                    "name": "cebolla",
+                    "price": 60
+                },
+                {
+                    "name": "tomate",
+                    "price": 60
+                },
+                {
+                    "name": "lechuga",
+                    "price": 30
+                },
+                {
+                    "name": "pepinillo encurtido",
+                    "price": 30
+                },
+                {
+                    "name": "piña glaseada",
+                    "price": 80
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "3 gracias",
+                    "price": 740
+                },
+                {
+                    "name": "ensalada",
+                    "price": 1080
+                },
+                {
+                    "name": "suero de helado",
+                    "price": 840
+                },
+                {
+                    "name": "casquitos de guayaba",
+                    "price": 560
+                },
+                {
+                    "name": "flan",
+                    "price": 560
+                },
+                {
+                    "name": "dulce de coco",
+                    "price": 460
+                },
+                {
+                    "name": "torrejas",
+                    "price": 680
+                },
+                {
+                    "name": "dulce de fruta bomba",
+                    "price": 460
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua",
+                    "price" : 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "resfrescos",
+                    "price" : 240
+                },
+                {
+                    "name": "malta",
+                    "price": 400
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frape",
+                    "price": 380
+                },
+                {
+                    "name": "limonada con hierba buena",
+                    "price": 460
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas",
+                    "price": 390
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : false
+            },
+        "special_offers": false
+    }
+}

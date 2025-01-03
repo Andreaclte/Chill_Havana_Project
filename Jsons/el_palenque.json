@@ -1,0 +1,229 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Palenque",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.08636901084588, 
+        "longitude": -82.4625362784828
+    },
+    "contact": {
+        "phone_number": "72038222",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Restaurante El Palenque",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2100"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "latina", "internacional", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "cesta de pan",
+                    "price": 100
+                },
+                {
+                    "name": "croquetas",
+                    "price": 150
+                },
+                {
+                    "name": "chicharrones",
+                    "price": 400
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 100
+                },
+                {
+                    "name": "entremes de jamon y chorizo",
+                    "price": 150
+                },
+                {
+                    "name": "variado de queso",
+                    "price": 200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "arroz con pollo",
+                    "price": 250
+                },
+                {
+                    "name": "pechuga con papas fritas",
+                    "price": 700
+                },
+                {
+                    "name": "fajitas de pollo salteadas",
+                    "price": 400
+                },
+                {
+                    "name": "picadillo de res",
+                    "price": 350
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 300
+                },
+                {
+                    "name": "res de campesina",
+                    "price": 400
+                },
+                {
+                    "name": "pasta napolitana",
+                    "price": 250
+                },
+                {
+                    "name": "lasagna de carne",
+                    "price": 200
+                },
+                {
+                    "name": "chilindron de cordero",
+                    "price": 1700
+                },
+                {
+                    "name": "masas de cerdo fritas",
+                    "price": 1000
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 300
+                },
+                {
+                    "name": "pollo asado 1kg",
+                    "price": 630
+                },
+                {
+                    "name": "cerdo asado 400gr",
+                    "price": 800
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "papas fritas",
+                    "price": 215
+                },
+                {
+                    "name": "ensalada de vegetales",
+                    "price": 300
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "mermelada con queso",
+                    "price": 60
+                },
+                {
+                    "name": "arroz con leche",
+                    "price": 60
+                },
+                {
+                    "name": "dulce de frutabomba",
+                    "price": 120
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name": "jugos naturales",
+                    "price": 100
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza",
+                    "price": 120
+                },
+                {
+                    "name": "licores nacionales",
+                    "price": 20
+                },
+                {
+                    "name": "ron havana club reserva",
+                    "price": 40
+                },
+                {
+                    "name": "tequila blanco",
+                    "price": 150
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe palenque",
+                    "price": null
+                },
+                {
+                    "name": "cortadito",
+                    "price": 60
+                },
+                {
+                    "name": "café con leche",
+                    "price": 80
+                },
+                {
+                    "name": "te",
+                    "price": 30
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

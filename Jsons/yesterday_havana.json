@@ -1,0 +1,276 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Yesterday Havana",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.099170645364698, 
+        "longitude": -82.33964892703689
+    },
+    "contact": {
+        "phone_number": "76930649",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Yesterday Habana",
+        "instagram": "@yesterdayhabanabarrest"
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "0200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "0200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "0200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "0200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "0200"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "internacional"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "picadera yesterday",
+                    "price": 3000
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 600
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 800
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 800
+                },
+                {
+                    "name": "ceviche",
+                    "price": 800
+                },
+                {
+                    "name": "eperlan",
+                    "price": 900
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 1000
+                },
+                {
+                    "name": "entremes de jamon, queso y chorizo",
+                    "price": 800
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 650
+                },
+                {
+                    "name": "toston al ajo",
+                    "price": 600
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 500
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 500
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 950
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "brochetas mixtas",
+                    "price": 2500
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 2000
+                },
+                {
+                    "name": "fabada",
+                    "price": 2000
+                },
+                {
+                    "name": "cema del dia",
+                    "price": 1000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "mariscada yesterday",
+                    "price": 7000
+                },
+                {
+                    "name": "calamar al gusto",
+                    "price": 3000
+                },
+                {
+                    "name": "langosta al gusto",
+                    "price": 3000
+                },
+                {
+                    "name": "3 delicias",
+                    "price": 3000
+                },
+                {
+                    "name": "camarones al ajo",
+                    "price": 2000
+                },
+                {
+                    "name": "camarones grille",
+                    "price": 2000
+                },
+                {
+                    "name": "enchilado de camarones",
+                    "price": 2000
+                },
+                {
+                    "name": "camaron empanado",
+                    "price": 2500
+                },
+                {
+                    "name": "filete de pescado",
+                    "price": 1800
+                },
+                {
+                    "name": "filete de pescado jhombill",
+                    "price": 2200
+                },
+                {
+                    "name": "rueda de pescado frito",
+                    "price": 2500
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1800
+                },
+                {
+                    "name": "cerdo encebollado",
+                    "price": 2000
+                },
+                {
+                    "name": "pechuga de pollo grille",
+                    "price": 1800
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 5500
+                },
+                {
+                    "name": "mar y tierra res",
+                    "price": 5500
+                },
+                {
+                    "name": "cordero al vino",
+                    "price": 3000
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 3000
+                },
+                {
+                    "name": "cerdo desmechado",
+                    "price": 3000
+                },
+                {
+                    "name": "masas fritas",
+                    "price": 3000
+                },
+                {
+                    "name": "lonjas de cerdo",
+                    "price": 3000
+                },
+                {
+                    "name": "lonjas ahumadas",
+                    "price": 3000
+                },
+                {
+                    "name": "uruguayo",
+                    "price": 2500
+                },
+                {
+                    "name": "canciller",
+                    "price": 2500
+                },
+                {
+                    "name": "corden bleu",
+                    "price": 2500
+                },
+                {
+                    "name": "solomillo de cerdo",
+                    "price": 4000
+                },
+                {
+                    "name": "arroz a la marinera",
+                    "price": 3500
+                },
+                {
+                    "name": "arroz campesino",
+                    "price": 3000
+                },
+                {
+                    "name": "arroz frito (camaron)",
+                    "price": 2000
+                },
+                {
+                    "name": "arroz frito (langosta)",
+                    "price": 2500
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

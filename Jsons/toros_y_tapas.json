@@ -1,0 +1,663 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Toros y Tapas",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.128870429493183, 
+        "longitude": -82.41660271357874
+    },
+    "contact": {
+        "phone_number": "72021548",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59729796",
+        "facebook": "TOROS & TAPAS",
+        "instagram": "@torostapashabana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": false,
+            "close": false
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["caribeña", "mediterránea"," española", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "tabla mixta de quesos importados",
+                    "price": 6500
+                },
+                {
+                    "name": "carpaccio de ternera",
+                    "price": 3900
+                },
+                {
+                    "name": "ceviche tradicional con panka amarillo",
+                    "price": 2600
+                },
+                {
+                    "name": "tabla de jamon iberico con pan tumaca",
+                    "price": 9750
+                },
+                {
+                    "name": "charcuteria iberica de la casa",
+                    "price": 9750
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 2600
+                },
+                {
+                    "name": "piquillos rellenos de morcillo de ternera en salsa ligeramente trufada",
+                    "price": 3250
+                },
+                {
+                    "name": "callos a la madrilena",
+                    "price": 3250
+                },
+                {
+                    "name": "gambas al ajillo",
+                    "price": 2600
+                },
+                {
+                    "name": "huevos rotos con jamon serrano o iberico",
+                    "price": 3250
+                },
+                {
+                    "name": "pimientos del piquillo rellenos de gambas y chipirones en su tinta",
+                    "price": 2600
+                },
+                {
+                    "name": "manitas de cerdo estofada",
+                    "price": 2110
+                },
+                {
+                    "name": "pan rustico",
+                    "price": 650
+                },
+                {
+                    "name": "pan baguette con alioli",
+                    "price": 650
+                },
+                {
+                    "name": "pan chapata con alioli",
+                    "price": 650
+                },
+                {
+                    "name": "coctel de ostiones",
+                    "price": 2600
+                },
+                {
+                    "name": "mini tortilla espanola",
+                    "price": 2600
+                },
+                {
+                    "name": "anchoas de santona sobre queso scarmoza",
+                    "price": 3900
+                },
+                {
+                    "name": "burrata ahumada sobre concasse de tomate natural marinado",
+                    "price": 5200
+                },
+                {
+                    "name": "patatas braviolis con crujiente de jamon serrano",
+                    "price": 2600
+                },
+                {
+                    "name": "tentaculo de pulpo (importado) a la plancha",
+                    "price": 2600
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "arroz meloso o paella con verduras",
+                    "price": 3900
+                },
+                {
+                    "name": "fideua con costillitas de cerdo y guisantes",
+                    "price": 4550
+                },
+                {
+                    "name": "paella valenciana",
+                    "price": 4550
+                },
+                {
+                    "name": "paella mixta",
+                    "price": 4550
+                },
+                {
+                    "name": "fideua marinera",
+                    "price": 4550
+                },
+                {
+                    "name": "paella de mariscos",
+                    "price": 4550
+                },
+                {
+                    "name": "arroz negro con calamar y gambas",
+                    "price": 5200
+                },
+                {
+                    "name": "arroz seco trufado de pato con setas",
+                    "price": 5200
+                },
+                {
+                    "name": "arroz meloso con langosta y gambas",
+                    "price": 5200
+                },
+                {
+                    "name": "falso risotto de frutos del mar",
+                    "price": 5200
+                },
+                {
+                    "name": "pesca del dia",
+                    "price": 4875
+                },
+                {
+                    "name": "zarzuela de mariscos",
+                    "price": 11375
+                },
+                {
+                    "name": "parrillada de mariscos",
+                    "price": 9750
+                },
+                {
+                    "name": "calamares a la plancha",
+                    "price": 5200
+                },
+                {
+                    "name": "solomillo de ternera importado",
+                    "price": 9750
+                },
+                {
+                    "name": "cochinillo al estilo segoviano",
+                    "price": null
+                },
+                {
+                    "name": "pierna o paletilla de cabrito lechal al horno con patatas panaderas",
+                    "price": 9750
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz blanco",
+                    "price": 650
+                },
+                {
+                    "name": "pure de malanga con crujiente de jamon serrano",
+                    "price": 975
+                },
+                {
+                    "name": "patatas fritas",
+                    "price": 1950
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "crema catalana",
+                    "price": 1300
+                },
+                {
+                    "name": "coulant de chocolate con helado",
+                    "price": 1950
+                },
+                {
+                    "name": "mini tarta vasca de queso y turron de jijona",
+                    "price": 1950
+                },
+                {
+                    "name": "flan de la casa",
+                    "price": 1300
+                },
+                {
+                    "name": "infusion de arandanos con helado de cereza negra",
+                    "price": 1950
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural importada",
+                    "price": 815
+                },
+                {
+                    "name": "agua tonica mg",
+                    "price": 815
+                },
+                {
+                    "name": "agua gaseada importada (mondariz)",
+                    "price": 1300
+                },
+                {
+                    "name": "agua gaseada importada (tehuacan)",
+                    "price": 815
+                },
+                {
+                    "name": "agua gaseada importada (perrier)",
+                    "price": 975
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "mirinda (naranja)",
+                    "price": 650
+                },
+                {
+                    "name": "redbull",
+                    "price": 820
+                },
+                {
+                    "name": "coca cola",
+                    "price": 975
+                },
+                {
+                    "name": "7up",
+                    "price": 650
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kermato",
+                    "price": 975
+                },
+                {
+                    "name": "zumos naturales",
+                    "price": 650
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 975
+                },
+                {
+                    "name": "limonada frappe con hierba buena",
+                    "price": 1140
+                },
+                {
+                    "name": "zumo de tomate (mocito)",
+                    "price": 650
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza mahou clasica de botella",
+                    "price": 650
+                },
+                {
+                    "name": "cerveza estrella galicia de botella",
+                    "price": 815
+                },
+                {
+                    "name": "cerveza super bock de botella",
+                    "price": 815
+                },
+                {
+                    "name": "cerveza alhambra de botella",
+                    "price": 975
+                },
+                {
+                    "name": "cerveza estrella galicia (grifo) 300 ml",
+                    "price": 975
+                },
+                {
+                    "name": "cerveza estrella galicia (grifo) 500 ml",
+                    "price": 1625
+                },
+                {
+                    "name": "tiojito",
+                    "price": 1625
+                },
+                {
+                    "name": "jarra de sangria",
+                    "price": 5850
+                },
+                {
+                    "name": "sangria nevada (con vino blanco)",
+                    "price": 1465
+                },
+                {
+                    "name": "sangria de la casa",
+                    "price": 1465
+                },
+                {
+                    "name": "pina colada",
+                    "price": 1950
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 1140
+                },
+                {
+                    "name": "chelada (salt and lemon)",
+                    "price": 325
+                },
+                {
+                    "name": "michelada (english sauce, salt and lemon juice)",
+                    "price": 650
+                },
+                {
+                    "name": "gin tonic con agua tonica importada",
+                    "price": 1790
+                },
+                {
+                    "name": "long island",
+                    "price": 1950
+                },
+                {
+                    "name": "caipirinha (black tear, lemon and sugar)",
+                    "price": 1300
+                },
+                {
+                    "name": "caipirisima (white rum, lemon and sugar)",
+                    "price": 1300
+                },
+                {
+                    "name": "caipiroska (vodka, lemon and sugar)",
+                    "price": 1300
+                },
+                {
+                    "name": "mojito",
+                    "price": 1300
+                },
+                {
+                    "name": "cuba libre con refresco importado",
+                    "price": 1465
+                },
+                {
+                    "name": "cubata con refresco importado",
+                    "price": 1625
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 1465
+                },
+                {
+                    "name": "cubanito",
+                    "price": 1140
+                },
+                {
+                    "name": "mary pickford",
+                    "price": 1140
+                },
+                {
+                    "name": "michelada manolete (homemade sauce, english sauce, salt, lemon juice and tajin)",
+                    "price": 815
+                },
+                {
+                    "name": "martini",
+                    "price": 1790
+                },
+                {
+                    "name": "tinto de verano (7up and red wine)",
+                    "price": 1300
+                },
+                {
+                    "name": "copa de vino blanco",
+                    "price": 845
+                },
+                {
+                    "name": "copa de vino tinto",
+                    "price": 845
+                },
+                {
+                    "name": "moscow mule",
+                    "price": 1300
+                },
+                {
+                    "name": "negroni",
+                    "price": 1625
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 1300
+                },
+                {
+                    "name": "toro loco",
+                    "price": 1625
+                },
+                {
+                    "name": "aperol spritz",
+                    "price": 1625
+                },
+                {
+                    "name": "margarita",
+                    "price": 1950
+                },
+                {
+                    "name": "torres 15",
+                    "price": 1300
+                },
+                {
+                    "name": "licor de cafe",
+                    "price": 975
+                },
+                {
+                    "name": "ron escarchado",
+                    "price": 975
+                },
+                {
+                    "name": "tostada escachado",
+                    "price": 975
+                },
+                {
+                    "name": "pazo pondal licor de hierbas de galicia",
+                    "price": 1140
+                },
+                {
+                    "name": "pazo pondal orujo de galicia (blanco)",
+                    "price": 1300
+                },
+                {
+                    "name": "crema ruavieja",
+                    "price": 1140
+                },
+                {
+                    "name": "cointreau",
+                    "price": 1300
+                },
+                {
+                    "name": "sambuca molinari",
+                    "price": 1140
+                },
+                {
+                    "name": "master's",
+                    "price": 975
+                },
+                {
+                    "name": "bulldog",
+                    "price": 2600
+                },
+                {
+                    "name": "hendrick",
+                    "price": 2275
+                },
+                {
+                    "name": "tanqueray ten",
+                    "price": 1950
+                },
+                {
+                    "name": "london dry gin no3",
+                    "price": 2600
+                },
+                {
+                    "name": "1800 anejo",
+                    "price": 3900
+                },
+                {
+                    "name": "don julio reposado",
+                    "price": 3250
+                },
+                {
+                    "name": "don julio 70",
+                    "price": 4875
+                },
+                {
+                    "name": "havana club anejo anos",
+                    "price": 815
+                },
+                {
+                    "name": "havana club 15 años",
+                    "price": 6500
+                },
+                {
+                    "name": "ron zacapa 23",
+                    "price": 4875
+                },
+                {
+                    "name": "santiago 12 años",
+                    "price": 2600
+                },
+                {
+                    "name": "santiago 8 años",
+                    "price": 1140
+                },
+                {
+                    "name": "santiago 11 años",
+                    "price": 1950
+                },
+                {
+                    "name": "santisima trinidad 7 años",
+                    "price": 975
+                },
+                {
+                    "name": "seleccion de maestros",
+                    "price": 2600
+                },
+                {
+                    "name": "j.w. gold label 18 años",
+                    "price": 4875
+                },
+                {
+                    "name": "gentelman jack",
+                    "price": 1950
+                },
+                {
+                    "name": "jack daniels no. 7",
+                    "price": 1625
+                },
+                {
+                    "name": "singleton",
+                    "price": 6500
+                },
+                {
+                    "name": "wood ford (bourbon)",
+                    "price": 5850
+                },
+                {
+                    "name": "glenlivet founder",
+                    "price": 1950
+                },
+                {
+                    "name": "buchanan's 12 años deluxe",
+                    "price": 2115
+                },
+                {
+                    "name": "j.w. black label",
+                    "price": 1950
+                },
+                {
+                    "name": "j.w. double black",
+                    "price": 2600
+                },
+                {
+                    "name": "stolichnaya",
+                    "price": 1140
+                },
+                {
+                    "name": "prince igor",
+                    "price": 975
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "infusion/te",
+                    "price": 490
+                },
+                {
+                    "name": "cafe express",
+                    "price": 490
+                },
+                {
+                    "name": "capuchino",
+                    "price": 815
+                },
+                {
+                    "name": "cafe irlandes",
+                    "price": 1140
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 650
+                },
+                {
+                    "name": "cafe con leche",
+                    "price": 650
+                },
+                {
+                    "name": "cafe carajillo",
+                    "price": 650
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 490
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 975
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

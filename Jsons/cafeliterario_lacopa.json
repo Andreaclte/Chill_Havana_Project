@@ -1,0 +1,169 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Café literario La Copa",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.118089959620736, 
+        "longitude": -82.4323885782618
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "55094105",
+        "facebook": false,
+        "instagram": "@cafe.literario.lacopa"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "1700"
+        },
+        "sunday": {
+            "open": false,
+            "close": false
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "baja",
+    "cuisine": ["americana", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas con tostadas",
+                    "price": 500
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 600
+                },
+                {
+                    "name": "hot dog",
+                    "price": 600
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 700
+                },
+                {
+                    "name": "pan con hamburguesa",
+                    "price": 700
+                },
+                {
+                    "name": "croissant de jamon con queso",
+                    "price": 800
+                },
+                {
+                    "name": "croissant natural",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": false,
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "copa de helado",
+                    "price": 500
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 120
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malteada",
+                    "price": 500
+                },
+                {
+                    "name": "malta bucanero",
+                    "price": 300
+                },
+                {
+                    "name": "energizante",
+                    "price": 230
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de lata",
+                    "price": 270
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "suero helado",
+                    "price": 800
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "cafe expresso",
+                    "price": 1500
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 200
+                },
+                {
+                    "name": "cafe bombon",
+                    "price": 350
+                },
+                {
+                    "name": "capuchino",
+                    "price": 400
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 500
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

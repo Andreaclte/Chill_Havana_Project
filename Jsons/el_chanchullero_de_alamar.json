@@ -1,0 +1,272 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Chanchullero de Alamar",
+    "district": "Habana del Este",
+    "coordinates": {
+        "latitude": 23.15801520544494, 
+        "longitude": -82.27622310019264
+    },
+    "contact": {
+        "phone_number": "78610915",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "El Chanchullero de Alamar Bar&Restaurant",
+        "instagram": "@chanchullerobar.zona6"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "chicharrita de platano macho",
+                    "price": 250
+                },
+                {
+                    "name": "toston relleno con cerdo",
+                    "price": 375
+                },
+                {
+                    "name": "fritura de malanga con miel",
+                    "price": 375
+                },
+                {
+                    "name": "ceviche de pulpo y pescado",
+                    "price": 450
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "cerdo al perejil",
+                    "price": 795
+                },
+                {
+                    "name": "brochetas de cerdo",
+                    "price": 795
+                },
+                {
+                    "name": "bistec encebollado",
+                    "price": 800
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 800
+                },
+                {
+                    "name": "cerdo asado al horno",
+                    "price": 795
+                },
+                {
+                    "name": "pulpo al ajillo",
+                    "price": 925
+                },
+                {
+                    "name": "pescado chanchullero (castero)",
+                    "price": 800
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 975
+                },
+                {
+                    "name": "langosta a la plancha",
+                    "price": 975
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 800
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan al caramelo",
+                    "price": 150
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 130
+                },
+                {
+                    "name": "agua gaseada",
+                    "price": 180
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refrescos importados",
+                    "price": 240
+                },
+                {
+                    "name": "refrescos nacionales",
+                    "price": 200
+                },
+                {
+                    "name": "red bull",
+                    "price": 300
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de fruta natural",
+                    "price": 140
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "catarro",
+                    "price": 275
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 275
+                },
+                {
+                    "name": "mojito",
+                    "price": 275
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 275
+                },
+                {
+                    "name": "ron coli",
+                    "price": 275
+                },
+                {
+                    "name": "cosita de esa",
+                    "price": 275
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 275
+                },
+                {
+                    "name": "caipirina",
+                    "price": 300
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 300
+                },
+                {
+                    "name": "pina colada",
+                    "price": 300
+                },
+                {
+                    "name": "vodka con naranja",
+                    "price": 300
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 300
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 275
+                },
+                {
+                    "name": "ron hc club especial",
+                    "price": 325
+                },
+                {
+                    "name": "chelada",
+                    "price": 400
+                },
+                {
+                    "name": "michelada",
+                    "price": 450
+                },
+                {
+                    "name": "botella de vino",
+                    "price": 1200
+                },
+                {
+                    "name": "vodka absolut",
+                    "price": 525
+                },
+                {
+                    "name": "whiskey black and white",
+                    "price": 395
+                },
+                {
+                    "name": "clan cambell",
+                    "price": 425
+                },
+                {
+                    "name": "jameson",
+                    "price": 425
+                },
+                {
+                    "name": "finest blended (speech)",
+                    "price": 400
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expresso",
+                    "price": 100
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

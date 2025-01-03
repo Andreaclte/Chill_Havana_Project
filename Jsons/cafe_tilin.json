@@ -1,0 +1,484 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Cafe Tilin",
+    "district": "Boyeros",
+    "coordinates": {
+        "latitude": 23.02223192051713, 
+        "longitude": -82.39913129234107
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53857447",
+        "facebook": "cafetilin",
+        "instagram": "@cafe_tilin_fontanar"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 850
+                },
+                {
+                    "name": "tostones rellenos de jamon y queso",
+                    "price": 950
+                },
+                {
+                    "name": "tostones rellenos de atun",
+                    "price": 950
+                },
+                {
+                    "name": "tostones rellenos de ropa vieja",
+                    "price": 950
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 850
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 950
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 950
+                },
+                {
+                    "name": "picadera tilin",
+                    "price": 2500
+                },
+                {
+                    "name": "hamburguesa clasica",
+                    "price": 1100
+                },
+                {
+                    "name": "hamburguesa bar",
+                    "price": 1300
+                },
+                {
+                    "name": "hamburguesa mexicana",
+                    "price": 1750
+                },
+                {
+                    "name": "hamburguesa tilin",
+                    "price": 2000
+                },
+                {
+                    "name": "combo americano",
+                    "price": 1750
+                },
+                {
+                    "name": "hamburguesa la cubana",
+                    "price": 1800
+                },
+                {
+                    "name": "hamburguesa super clasica",
+                    "price": 1750
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de cerdo encebollado",
+                    "price": 1850
+                },
+                {
+                    "name": "bistec de cerdo grille",
+                    "price": 1600
+                },
+                {
+                    "name": "masas de cerdo",
+                    "price": 1850
+                },
+                {
+                    "name": "escalope de cerdo",
+                    "price": 1950
+                },
+                {
+                    "name": "ropa vieja de cerdo",
+                    "price": 1700
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1500
+                },
+                {
+                    "name": "suprema de pollo",
+                    "price": 1850
+                },
+                {
+                    "name": "fajitas de pollo salteadas con vegetales",
+                    "price": 1750
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1450
+                },
+                {
+                    "name": "brochetas mixtas al carbon",
+                    "price": 2500
+                },
+                {
+                    "name": "cordon bleu",
+                    "price": 3050
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 3250
+                },
+                {
+                    "name": "milanesa a la napolitana",
+                    "price": 3300
+                },
+                {
+                    "name": "crema de malanga",
+                    "price": 800
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 1300
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 1300
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1950
+                },
+                {
+                    "name": "pizza tilin",
+                    "price": 2500
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 1700
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza napolitana de 21cm",
+                    "price": 500
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz moro",
+                    "price": 350
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 250
+                },
+                {
+                    "name": "ensalada mixta",
+                    "price": 750
+                },
+                {
+                    "name": "viandas fritas",
+                    "price": 650
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 750
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "postre del dia",
+                    "price": 500
+                },
+                {
+                    "name": "tarta helada",
+                    "price": 950
+                },
+                {
+                    "name": "flan de caramelo",
+                    "price": 350
+                },
+                {
+                    "name": "copa de helado",
+                    "price": 450
+                },
+                {
+                    "name": "copa lolita",
+                    "price": 650
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural nacional",
+                    "price": 250
+                },
+                {
+                    "name": "agua natural importada",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco importado",
+                    "price": 300
+                },
+                {
+                    "name": "energizante",
+                    "price": 350
+                },
+                {
+                    "name": "malta importada",
+                    "price": 350
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo de frutas",
+                    "price": 500
+                },
+                {
+                    "name": "limonada frappe",
+                    "price": 450
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "suero de helado",
+                    "price": 850
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cerveza nacional",
+                    "price": 400
+                },
+                {
+                    "name": "piña colada",
+                    "price": 950
+                },
+                {
+                    "name": "michelada",
+                    "price": 750
+                },
+                {
+                    "name": "chelada",
+                    "price": 650
+                },
+                {
+                    "name": "cubanito",
+                    "price": 800
+                },
+                {
+                    "name": "mojito",
+                    "price": 500
+                },
+                {
+                    "name": "mojito de fruta",
+                    "price": 750
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 500
+                },
+                {
+                    "name": "daiquiri de fruta",
+                    "price": 750
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 500
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 650
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 600
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 900
+                },
+                {
+                    "name": "screwdriver",
+                    "price": 700
+                },
+                {
+                    "name": "cubalibre",
+                    "price": 550
+                },
+                {
+                    "name": "sangria",
+                    "price": 850
+                },
+                {
+                    "name": "tequila",
+                    "price": 900
+                },
+                {
+                    "name": "margarita",
+                    "price": 1250
+                },
+                {
+                    "name": "san francisco",
+                    "price": 750
+                },
+                {
+                    "name": "blue lagon",
+                    "price": 800
+                },
+                {
+                    "name": "coctel de la casa \"un tilin\"",
+                    "price": 1500
+                },
+                {
+                    "name": "copa de vino frontera",
+                    "price": 900
+                },
+                {
+                    "name": "copa de vino casillero del diablo",
+                    "price": 1200
+                },
+                {
+                    "name": "linea chanceler",
+                    "price": 250
+                },
+                {
+                    "name": "linea jaggermeister",
+                    "price": 1000
+                },
+                {
+                    "name": "linea red label",
+                    "price": 1200
+                },
+                {
+                    "name": "linea ballentines finest",
+                    "price": 1200
+                },
+                {
+                    "name": "linea ballentines 10 años",
+                    "price": 1500
+                },
+                {
+                    "name": "linea chivas regal 12 años",
+                    "price": 1800
+                },
+                {
+                    "name": "linea jack daniels",
+                    "price": 2500
+                },
+                {
+                    "name": "botella de vino frontera",
+                    "price": 4500
+                },
+                {
+                    "name": "botella de vino casillero del diablo",
+                    "price": 8000
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "cafe expresso",
+                    "price": 200
+                },
+                {
+                    "name": "cafe americano",
+                    "price": 200
+                },
+                {
+                    "name": "cafe cortado",
+                    "price": 250
+                },
+                {
+                    "name": "cafe cappuccino",
+                    "price": 350
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 750
+                },
+                {
+                    "name": "cafe tilin",
+                    "price": 600
+                },
+                {
+                    "name": "cafe tolon",
+                    "price": 750
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

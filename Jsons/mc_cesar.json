@@ -1,0 +1,306 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "McCesar's",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.052069154835742, 
+        "longitude": -82.27571196298325
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59770018",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0930",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0930",
+            "close": "2300"
+        }
+    },
+    "rating": 4.1,
+    "intake_capacity": "media",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "dados jamo-queso",
+                    "price": 1000
+                },
+                {
+                    "name": "eperlan",
+                    "price": 1300
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 300
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 600
+                },
+                {
+                    "name": "tostones criollos",
+                    "price": 350
+                },
+                {
+                    "name": "croquetas la casa",
+                    "price": 500
+                },
+                {
+                    "name": "picadera mc.cesar",
+                    "price": 2500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa cerdo",
+                    "price": 500
+                },
+                {
+                    "name": "pan atun",
+                    "price": 600
+                },
+                {
+                    "name": "pan jamon-queso",
+                    "price": 500
+                },
+                {
+                    "name": "pan pechuga",
+                    "price": 500
+                },
+                {
+                    "name": "pan bistec",
+                    "price": 500
+                },
+                {
+                    "name": "pizza",
+                    "price": 500
+                },
+                {
+                    "name": "spaghetti",
+                    "price": 500
+                },
+                {
+                    "name": "garbanzos fritos",
+                    "price": 1000
+                },
+                {
+                    "name": "higado cerdo italiana",
+                    "price": 1000
+                },
+                {
+                    "name": "salteado vegetales",
+                    "price": 1500
+                },
+                {
+                    "name": "uruguayo",
+                    "price": 1500
+                },
+                {
+                    "name": "brocha cerdo-pollo",
+                    "price": 1700
+                },
+                {
+                    "name": "bistec grille",
+                    "price": 1300
+                },
+                {
+                    "name": "faja cerdo",
+                    "price": 1400
+                },
+                {
+                    "name": "escalope",
+                    "price": 1400
+                },
+                {
+                    "name": "solomillo",
+                    "price": 2000
+                },
+                {
+                    "name": "lomo ahumado deshuesado",
+                    "price": 1300
+                },
+                {
+                    "name": "pechuga grille",
+                    "price": 1300
+                },
+                {
+                    "name": "salteado pollo",
+                    "price": 1400
+                },
+                {
+                    "name": "pollo deshuesado",
+                    "price": 900
+                },
+                {
+                    "name": "goldon blue",
+                    "price": 1500
+                },
+                {
+                    "name": "suprema princesa",
+                    "price": 1500
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1800
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec res",
+                    "price": 2000
+                },
+                {
+                    "name": "pescado grille",
+                    "price": 1500
+                },
+                {
+                    "name": "pescado mc.cesar",
+                    "price": 2500
+                },
+                {
+                    "name": "canciller",
+                    "price": 1800
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 1600
+                },
+                {
+                    "name": "pescado salsa limon",
+                    "price": 1700
+                },
+                {
+                    "name": "camaron grille",
+                    "price": 1900
+                },
+                {
+                    "name": "camaron ajillo",
+                    "price": 1900
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2000
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "atun",
+                    "price": 400
+                },
+                {
+                    "name": "cebolla",
+                    "price": 250
+                },
+                {
+                    "name": "pimiento",
+                    "price": 300
+                },
+                {
+                    "name": "queso",
+                    "price": 300
+                },
+                {
+                    "name": "jamon",
+                    "price": 250
+                },
+                {
+                    "name": "piña",
+                    "price": 200
+                },
+                {
+                    "name": "chorizo",
+                    "price": 200
+                },
+                {
+                    "name": "arroz campesina",
+                    "price": 1500
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 300
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 500
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "torrejas",
+                    "price": 500
+                },
+                {
+                    "name": "ensalada helado",
+                    "price": 500
+                },
+                {
+                    "name": "bola helado",
+                    "price": 100
+                },
+                {
+                    "name": "batido helado",
+                    "price": 500
+                }
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+    }
+}

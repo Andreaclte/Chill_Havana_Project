@@ -1,0 +1,157 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Rápido",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.11835682709935,
+        "longitude": -82.3775341306507
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": { 
+            "open": "0730",
+            "close": "1930"
+        },
+        "tuesday": {
+            "open": "0730",
+            "close": "1930"
+        },
+        "wednesday": {
+            "open": "0730",
+            "close": "1930"
+        },
+        "thursday": {
+            "open": "0730",
+            "close": "1930"
+        },
+        "friday": {
+            "open": "0730",
+            "close": "1930"
+        },
+        "saturday": {
+            "open": "0730",
+            "close": "1930"
+        },
+        "sunday": {
+            "open": "0730",
+            "close": "1930"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana", "americana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pan con tortilla natural",
+                    "price": 300
+                },
+                {
+                    "name": "pan con tortilla c/jamon",
+                    "price": 360
+                },
+                {
+                    "name": "pan con tortilla c/chorizo",
+                    "price": 360
+                },
+                {
+                    "name": "pan con tortilla c/cebolla",
+                    "price": 360
+                },
+                {
+                    "name": "pan con tortilla c/queso gouda",
+                    "price": 400
+                },
+                {
+                    "name": "pan con tortilla Jumbo (todos los agregos)",
+                    "price": 580
+                },
+                {
+                    "name": "Rapi Perro",
+                    "price": 220
+                },
+                {
+                    "name": "Rapi Perro Jumbo",
+                    "price": 420
+                },
+                {
+                    "name": "Bocadito de jamon y queso",
+                    "price": 300
+                },
+                {
+                    "name": "Sandwich Jumbo (chorizo, jamon y queso",
+                    "price": 550
+                },
+                {
+                    "name": "Hamburguesa de Cerdo",
+                    "price": 620
+                },
+                {
+                    "name": "Hamburguesa de Res",
+                    "price": 720
+                },
+                {
+                    "name": "Pollo chiflado",
+                    "price": 750
+                },
+                {
+                    "name": "Spaghetti napoles",
+                    "price": 380
+                },
+                {
+                    "name": "bocadito de chorizo y queso",
+                    "price": 300
+                },
+                {
+                    "name": "croquetas caseras (15u)",
+                    "price": 400
+                },
+                {
+                    "name": "pan con cerdo asado",
+                    "price": 780
+                },
+                {
+                    "name": "sandwich cubano (jamon, queso y cerdo asado",
+                    "price": 860
+                },
+                {
+                    "name": "pan con bistec de cerdo",
+                    "price": 760
+                },
+                {
+                    "name": "papas fritas (200g)",
+                    "price": 360
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": null,
+        "drinks" : null,
+        "special_offers": false
+        }
+}

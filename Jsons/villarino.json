@@ -1,0 +1,268 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Villarino",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.10341935595807, 
+        "longitude": -82.41834601431532
+    },
+    "contact": {
+        "phone_number": "72077867",
+        "e-mail": false,
+        "web_page": "http://linktr.ee/restaurantevillarino",
+        "whatsapp": "59889447",
+        "facebook": "Restaurante Club Villarino",
+        "instagram": "@villarino.restaurantehabana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2200"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "alta",
+    "cuisine": ["criolla", "italiana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "crujientes de yuca con aderezo agridulce",
+                    "price": 480
+                },
+                {
+                    "name": "croquetas de la casa",
+                    "price": 520
+                },
+                {
+                    "name": "bolitas de queso crujientes",
+                    "price": 720
+                },
+                {
+                    "name": "sandwich clasico",
+                    "price": 520
+                },
+                {
+                    "name": "eperlan de pescado",
+                    "price": 720
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 680
+                },
+                {
+                    "name": "cazuelita de garbanzos a la criolla",
+                    "price": 680
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "arroz con pollo a la campesina",
+                    "price": 800
+                },
+                {
+                    "name": "arroz frito especial",
+                    "price": 800
+                },
+                {
+                    "name": "risotto",
+                    "price": 2250
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 700
+                },
+                {
+                    "name": "pizza cebolla",
+                    "price": 750
+                },
+                {
+                    "name": "pizza chorizo",
+                    "price": 780
+                },
+                {
+                    "name": "pizza doble queso",
+                    "price": 950
+                },
+                {
+                    "name": "pizza jamon",
+                    "price": 800
+                },
+                {
+                    "name": "pizza vegetales",
+                    "price": 800
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 880
+                },
+                {
+                    "name": "pizza de pollo",
+                    "price": 800
+                },
+                {
+                    "name": "pizza del mar",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de ropa vieja",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de camarones",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza al gusto",
+                    "price": 1000
+                },
+                {
+                    "name": "pasta de queso",
+                    "price": 850
+                },
+                {
+                    "name": "pasta de jamon",
+                    "price": 920
+                },
+                {
+                    "name": "pasta de chorizo",
+                    "price": 880
+                },
+                {
+                    "name": "pasta carbonara",
+                    "price": 950
+                },
+                {
+                    "name": "pasta villarino",
+                    "price": 1200
+                },
+                {
+                    "name": "lasagna de carne",
+                    "price": 850
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 150
+                },
+                {
+                    "name": "agua tonica",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malta importada",
+                    "price": 280
+                },
+                {
+                    "name": "malteada",
+                    "price": 480
+                },
+                {
+                    "name": "red bull",
+                    "price": 220
+                },
+                {
+                    "name": "refrescos nacionales",
+                    "price": 220
+                },
+                {
+                    "name": "refrescos importados",
+                    "price": 235
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frappe",
+                    "price": 200
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 180
+                },
+                {
+                    "name": "jugos importados",
+                    "price": 210
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cocteles nacionales",
+                    "price": 475
+                },
+                {
+                    "name": "cocteles internacionales",
+                    "price": 550
+                },
+                {
+                    "name": "copa de vino",
+                    "price": 350
+                },
+                {
+                    "name": "cervezas nacionales (cristal/bucanero)",
+                    "price": 260
+                },
+                {
+                    "name": "cervezas importadas",
+                    "price": 380
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

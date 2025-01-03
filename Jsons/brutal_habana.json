@@ -1,0 +1,301 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Brutal Habana",
+    "district": "Cerro",
+    "coordinates": {
+        "latitude": 23.12076655269561, 
+        "longitude": -82.37262902250966
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://brutal.servicioshabana.com/",
+        "whatsapp": "50989151",
+        "facebook": false,
+        "instagram": "@brutal_habana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "media",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "papas fritas (medias) 100g",
+                    "price": 300
+                },
+                {
+                    "name": "papas fritas (normal) 200g",
+                    "price": 600
+                },
+                {
+                    "name": "salchipapas",
+                    "price": 500
+                },
+                {
+                    "name": "salchipapas brutal",
+                    "price": 1400
+                },
+                {
+                    "name": "croquetas de pollo x 5",
+                    "price": 175
+                },
+                {
+                    "name": "croquetas de pollo x 10",
+                    "price": 350
+                },
+                {
+                    "name": "baguette",
+                    "price": 5150
+                },
+                {
+                    "name": "suave",
+                    "price": 120
+                },
+                {
+                    "name": "croissant",
+                    "price": 450
+                },
+                {
+                    "name": "pan de hamburguesa",
+                    "price": 150
+                },
+                {
+                    "name": "papas fritas medias",
+                    "price": 300
+                },
+                {
+                    "name": "papas fritas normales",
+                    "price": 600
+                },
+                {
+                    "name": "salchipapas",
+                    "price": 500
+                },
+                {
+                    "name": "fajitas de pechuga con papas fritas",
+                    "price": 1500
+                },
+                {
+                    "name": "croquetas de pollo (5 unidades)",
+                    "price": 175
+                },
+                {
+                    "name": "croquetas de pollo (10 unidades)",
+                    "price": 350
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 1100
+                },
+                {
+                    "name": "hamburguesa brutal",
+                    "price": 3200
+                },
+                {
+                    "name": "baguette brutal",
+                    "price": 2000
+                },
+                {
+                    "name": "salchipapas brutal",
+                    "price": 1400
+                },
+                {
+                    "name": "papas fritas brutal",
+                    "price": 1100
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "cebolla",
+                    "price": 100
+                },
+                {
+                    "name": "pepinillo",
+                    "price": 5100
+                },
+                {
+                    "name": "pimiento",
+                    "price": 5100
+                },
+                {
+                    "name": "tomate",
+                    "price": 100
+                },
+                {
+                    "name": "aceituna",
+                    "price": 100
+                },
+                {
+                    "name": "lechuga",
+                    "price": 50
+                },
+                {
+                    "name": "agrego de nutella",
+                    "price": 50
+                },
+                {
+                    "name": "agrego de gomita",
+                    "price": 400
+                },
+                {
+                    "name": "jamon barra york",
+                    "price": 240
+                },
+                {
+                    "name": "bacon",
+                    "price": 260
+                },
+                {
+                    "name": "jamon ahumado 1964",
+                    "price": 350
+                },
+                {
+                    "name": "chorizo iberico",
+                    "price": 350
+                },
+                {
+                    "name": "salchichon natural",
+                    "price": 370
+                },
+                {
+                    "name": "jamon serrano",
+                    "price": 500
+                },
+                {
+                    "name": "jamon pastrami de ternera",
+                    "price": 500
+                },
+                {
+                    "name": "jamon de pechuga de pollo",
+                    "price": 500
+                },
+                {
+                    "name": "lomo de cerdo disco",
+                    "price": 500
+                },
+                {
+                    "name": "pasta de atun",
+                    "price": 820
+                },
+                {
+                    "name": "queso blanco",
+                    "price": 135
+                },
+                {
+                    "name": "queso cheddar",
+                    "price": 190
+                },
+                {
+                    "name": "queso cheddar fundido",
+                    "price": 210
+                },
+                {
+                    "name": "queso curado con trufas",
+                    "price": 240
+                },
+                {
+                    "name": "queso azul gorgonzola",
+                    "price": 300
+                },
+                {
+                    "name": "queso gouda",
+                    "price": 350
+                },
+                {
+                    "name": "queso cheddar",
+                    "price": 350
+                },
+                {
+                    "name": "queso blanco lombardo",
+                    "price": 650
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 1000
+                },
+                {
+                    "name": "batido de helado con gomitas",
+                    "price": 1400
+                },
+                {
+                    "name": "batido de helado brutal",
+                    "price": 2000
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : false
+        },
+        "special_offers": [
+            {
+                "name": "brutal junior",
+                "price": 550
+            },
+            {
+                "name": "combo brutal junior",
+                "price": 2550
+            }
+        ]
+    }
+}

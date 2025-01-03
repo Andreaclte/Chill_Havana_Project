@@ -1,0 +1,182 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Tong Do Laug",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.134994228631488, 
+        "longitude": -82.363759151347
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "55100355",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2100"
+        }
+    },
+    "rating": 2.8,
+    "intake_capacity": "media",
+    "cuisine": ["china"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name" : "jiaozi ravioles",
+                    "price" : 1350
+                },
+                {
+                    "name" : "bao",
+                    "price" : 700
+                },
+                {
+                    "name" : "mia especial tallarines",
+                    "price" : 1100
+                },
+                {
+                    "name" : "arroz frito especial",
+                    "price" : 1100
+                },
+                {
+                    "name" : "siumi",
+                    "price" : 1200
+                },
+                {
+                    "name" : "chunkun rollitos de primavera",
+                    "price" : 1050
+                },
+                {
+                    "name" : "sopa china",
+                    "price" : 990
+                },
+                {
+                    "name" : "lomo ahumado",
+                    "price" : 2000
+                },
+                {
+                    "name" : "mariscos",
+                    "price" : 2500
+                },
+                {
+                    "name" : "mar y tierra",
+                    "price" : 3850
+                },
+                {
+                    "name" : "camarones",
+                    "price" : 3600
+                },
+                {
+                    "name" : "pescado",
+                    "price" : 1650
+                },
+                {
+                    "name" : "fajitas de pechuga",
+                    "price" : 2200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua",
+                    "price" : 220
+                },
+                {
+                    "name" : "agua caliente",
+                    "price" : 220
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 300
+                },
+                {
+                    "name" : "frapeado",
+                    "price" : 330
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugo",
+                    "price" : 330
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza",
+                    "price" : 300
+                },
+                {
+                    "name" : "cerveza nacional",
+                    "price" : 500
+                },
+                {
+                    "name" : "cocteles",
+                    "price" : 660
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "café",
+                    "price" : 390
+                },
+                {
+                    "name" : "té",
+                    "price" : 170
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

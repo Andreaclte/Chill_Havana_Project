@@ -1,0 +1,208 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Tutti Frutti",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13880856299898, 
+        "longitude": -82.37737514949882
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2000"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2000"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "desayuno completo",
+                    "price": 1200
+                },
+                {
+                    "name": "dulce de fruta",
+                    "price": 600
+                },
+                {
+                    "name": "sandwich cubano",
+                    "price": 1200
+                },
+                {
+                    "name": "sandwich de aguacate",
+                    "price": 1200
+                },
+                {
+                    "name": "leche",
+                    "price": 400
+                }
+            ]
+        },
+        "appetizers": false,
+        "main_courses": false,
+        "sides": {
+            "items": [
+                {
+                    "name": "huevo",
+                    "price": 250
+                },
+                {
+                    "name": "atún",
+                    "price": 800
+                },
+                {
+                    "name": "jamón",
+                    "price": 300
+                },
+                {
+                    "name": "pollo",
+                    "price": 500
+                },
+                {
+                    "name": "cebolla",
+                    "price": 200
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "copa de frutas",
+                    "price": 400
+                },
+                {
+                    "name": "tutti frutti",
+                    "price": 500
+                },
+                {
+                    "name": "frutas dulces",
+                    "price": 300
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 400
+                },
+                {
+                    "name": "champola",
+                    "price": 600
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "smoothies",
+                    "price": 800
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batidos",
+                    "price": 600
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "mojito",
+                    "price": 700
+                },
+                {
+                    "name": "mojito tutti frutti",
+                    "price": 800
+                },
+                {
+                    "name": "daiquirí",
+                    "price": 700
+                },
+                {
+                    "name": "daiquirí tutti frutti",
+                    "price": 800
+                },
+                {
+                    "name": "santiago",
+                    "price": 900
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 700
+                },
+                {
+                    "name": "piña colada",
+                    "price": 900
+                },
+                {
+                    "name": "canchánchara",
+                    "price": 800
+                },
+                {
+                    "name": "caribbean",
+                    "price": 900
+                },
+                {
+                    "name": "emma",
+                    "price": 900
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café",
+                    "price": 900
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

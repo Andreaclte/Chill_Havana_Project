@@ -1,0 +1,242 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Bok2",
+    "district": "Plaza de la Revolución",
+    "coordinates": {
+        "latitude": 23.14067652925281, 
+        "longitude": -82.37851087833417
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": "@bok2_habana"
+    },
+    "schedule": {
+        "monday": { 
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["americana", "cubana"],
+    "services": {
+        "plant": null,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+					"name": "Croquetas BOK2",
+					"price": 1000
+				},
+				{
+					"name": "Papas Fritas",
+					"price": 1200
+				},
+                {
+					"name": "Tabla de Jamón Serrano",
+					"price": 3500
+				},
+				{
+					"name": "Cesta de Pan",
+					"price": 400
+				},
+				{
+					"name": "Tabla BOK2",
+					"price": 4800
+				}
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+					"name": "Fajitas d' Pollo",
+					"price": 1800
+				},
+				{
+					"name": "Eperlan",
+					"price": 2000
+				},
+				{
+					"name": "Huevos Rotos",
+					"price": 2100
+				},
+				{
+					"name": "Pollo Loco",
+					"price": 1300
+				},
+				{
+					"name": "Ceviche BOK2",
+					"price": 2700
+				},
+				{
+					"name": "Ropa Vieja",
+					"price": 3200
+				},
+				{
+					"name": "Cerdo Asado",
+					"price": 3000
+				},
+				{
+					"name": "Supremo d' Pollo Grille",
+					"price": 2800
+				},
+				{
+					"name": "Fajitas d' Pollo Salteadas",
+					"price": 2950
+				},
+				{
+					"name": "Filete d' Pescado",
+					"price": 3500
+				},
+				{
+					"name": "Camaron al Gusto",
+					"price": 3800
+				},
+				{
+					"name": "Langosta al gusto",
+					"price": 4100
+				},
+				{
+					"name": "Pasta Napoles",
+					"price": 2000
+				},
+				{
+					"name": "Pasta Boloñesa",
+					"price": 2700
+				},
+				{
+					"name": "Pasta Carbonara",
+					"price": 3100
+				},
+				{
+					"name": "Sandwich JQ",
+					"price": 1500
+				},
+				{
+					"name": "Sandwich Cubanito",
+					"price": 1900
+				},
+				{
+					"name": "Sandwich Marinero",
+					"price": 2500
+				},
+				{
+					"name": "Cheese Burger",
+					"price": 1700
+				},
+				{
+					"name": "American Burger",
+					"price": 1950
+				}
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+					"name": "Mayonesa",
+					"price": 250
+				},
+				{
+					"name": "Huevo",
+					"price": 310
+				},
+				{
+					"name": "Aceitunas",
+					"price": 370
+				},
+				{
+					"name": "Queso Gouda",
+					"price": 580
+				},
+				{
+					"name": "Jamón",
+					"price": 600
+				},
+				{
+					"name": "Chorizo",
+					"price": 590
+				},
+				{
+					"name": "Bacon",
+					"price": 650
+				},
+				{
+					"name": "Jamón Serrano",
+					"price": 900
+				},
+				{
+					"name": "Atún",
+					"price": 500
+				},
+				{
+					"name": "Piña",
+					"price": 280
+				},
+				{
+					"name": "Cebolla",
+					"price": 350
+				},
+				{
+					"name": "Pimiento",
+					"price": 290
+				}
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+					"name": "Helado Montado",
+					"price": 720
+				},
+				{
+					"name": "Postre del dia",
+					"price": 900
+				}
+            ]
+        },
+        "drinks" : null,
+        "special_offers": false
+	}
+}

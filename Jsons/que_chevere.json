@@ -1,0 +1,315 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Qué chévere",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.04726944912177, 
+        "longitude": -82.3630574258128
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "50766999",
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0000",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0000",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "picadera",
+                    "price": 1600
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 350
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 200
+                },
+                {
+                    "name": "croquetas de chorizo",
+                    "price": 200
+                },
+                {
+                    "name": "croquetas de pollo",
+                    "price": 250
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 600
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 350
+                },
+                {
+                    "name": "tostones",
+                    "price": 250
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "masa frita",
+                    "price": 1050
+                },
+                {
+                    "name": "masas glasé",
+                    "price": 1050
+                },
+                {
+                    "name": "bistec de cerdo gratinado",
+                    "price": 1000
+                },
+                {
+                    "name": "bistec de cerdo grillé",
+                    "price": 950
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 1100
+                },
+                {
+                    "name": "lonjas ahumadas",
+                    "price": 950
+                },
+                {
+                    "name": "filete de pescado grillé",
+                    "price": 1600
+                },
+                {
+                    "name": "filete de pescado gratinado",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec de pechuga grille",
+                    "price": 900
+                },
+                {
+                    "name": "bistec de pechuga gratinado",
+                    "price": 950
+                },
+                {
+                    "name": "pollo bola 8",
+                    "price": 1000
+                },
+                {
+                    "name": "bistec de pollo empanado",
+                    "price": 800
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1400
+                },
+                {
+                    "name": "vaca frita",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 1200
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "vegetales salteados",
+                    "price": 350
+                },
+                {
+                    "name": "yuca con mojo",
+                    "price": 300
+                },
+                {
+                    "name": "ensalada mixta de estacion",
+                    "price": 300
+                },
+                {
+                    "name": "arroz blanco",
+                    "price": 200
+                },
+                {
+                    "name": "arroz moro",
+                    "price": 300
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 350
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 350
+                },
+                {
+                    "name": "tostones",
+                    "price": 250
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "ciego montero",
+                    "price": 100
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "limón",
+                    "price": 200
+                },
+                {
+                    "name": "cola",
+                    "price": 200
+                },
+                {
+                    "name": "naranja",
+                    "price": 200
+                },
+                {
+                    "name": "piña",
+                    "price": 200
+                },
+                {
+                    "name": "7up",
+                    "price": 220
+                },
+                {
+                    "name": "pepsi",
+                    "price": 220
+                },
+                {
+                    "name": "malta bucanero",
+                    "price": 280
+                },
+                {
+                    "name": "energizante evolution",
+                    "price": 230
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "kerns pera",
+                    "price": 250
+                },
+                {
+                    "name": "kerns manzana",
+                    "price": 250
+                },
+                {
+                    "name": "kerns melocotón",
+                    "price": 250
+                },
+                {
+                    "name": "jugo de cajita",
+                    "price": 200
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza cristal (lata)",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza cristal blanca (lata)",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza bucanero (lata)",
+                    "price": 220
+                },
+                {
+                    "name": "cerveza beer 69",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza 3 caballo",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza hoshter",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza chacal",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza la fría",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza vitaisberg",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza holandia",
+                    "price": 190
+                },
+                {
+                    "name": "cerveza estrella galicia",
+                    "price": 190
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

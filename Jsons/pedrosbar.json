@@ -1,0 +1,211 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "Pedro's Bar",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.136930631399565, 
+        "longitude": -82.36181409182808
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "5510666",
+        "facebook": "Pedro's Bar",
+        "instagram": "@pedrosbar_boulevard"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "tuesday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "wednesday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "thursday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "friday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "saturday": {
+            "open": "1400",
+            "close": "0200"
+        },
+        "sunday": {
+            "open": "1400",
+            "close": "0200"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["cocteleria", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "papas fritas",
+                    "price": 1150
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 800
+                },
+                {
+                    "name": "croquetas",
+                    "price": 1050
+                },
+                {
+                    "name": "dados de queso",
+                    "price": 1350
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1450
+                },
+                {
+                    "name": "tabla mixta",
+                    "price": 4600
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza de queso",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza de vegetales",
+                    "price": 1500
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 1200
+                },
+                {
+                    "name": "sandwich de pechuga",
+                    "price": 1550
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 1500
+                },
+                {
+                    "name": "sandwich de lechon",
+                    "price": 1550
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua natural",
+                "price" : 250
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 500
+                },
+                {
+                    "name" : "energizante",
+                    "price" : 500
+                }
+            ],
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "canchanchara",
+                    "price" : 1150
+                },
+                {
+                    "name" : "mojito",
+                    "price" : 1100
+                },
+                {
+                    "name" : "caipis",
+                    "price" : 1100
+                },
+                {
+                    "name" : "daiquiri",
+                    "price" : 1100
+                },
+                {
+                    "name" : "gin tonic",
+                    "price" : 1450
+                },
+                {
+                    "name" : "margarita",
+                    "price" : 1050
+                },
+                {
+                    "name" : "cubata",
+                    "price" : 1050
+                },
+                {
+                    "name" : "sangria",
+                    "price" : 1350
+                },
+                {
+                    "name" : "piña colada",
+                    "price" : 1100
+                },
+                {
+                    "name" : "jarra de cerveza",
+                    "price" : 350
+                },
+                {
+                    "name" : "cerveza",
+                    "price" : 600
+                },
+                {
+                    "name" : "vasos de ceveza",
+                    "price" : 200
+                },
+                {
+                    "name" : "servicio de michelada",
+                    "price" : 300
+                },
+                {
+                    "name" : "servicio de chelada",
+                    "price" : 400
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+        }
+}

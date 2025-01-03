@@ -1,0 +1,160 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Faro",
+    "district": "Guanabacoa",
+    "coordinates": {
+        "latitude": 23.124494370316903, 
+        "longitude": -82.30417726451671
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "ElFaro Guanabacoa",
+        "instagram": "@_elfar0"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2300"
+        }
+    },
+    "rating": 3.7,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "cubana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "enchilado de cangrejo",
+                    "price": 750
+                },
+                {
+                    "name": "croqueta de la casa",
+                    "price": 180
+                },
+                {
+                    "name": "ensalada fría de jamón",
+                    "price": 700
+                },
+                {
+                    "name": "ensalada fría de atún",
+                    "price": 1200
+                },
+                {
+                    "name": "picadera tropical",
+                    "price": 850
+                },
+                {
+                    "name": "plato a lo cubano",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pan con hamburguesa",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa faro",
+                    "price": 900
+                },
+                {
+                    "name": "costillas de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "ruedas de pescado grille",
+                    "price": 1400
+                },
+                {
+                    "name": "pollo grille",
+                    "price": 950
+                },
+                {
+                    "name": "pizza el faro",
+                    "price": 900
+                },
+                {
+                    "name": "pizza combinada",
+                    "price": 900
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 900
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 900
+                },
+                {
+                    "name": "pizza de pimiento",
+                    "price": 900
+                },
+                {
+                    "name": "pizza gustazo (doble queso)",
+                    "price": 900
+                },
+                {
+                    "name": "pizza jamon",
+                    "price": 900
+                },
+                {
+                    "name": "spaguetti napolitano",
+                    "price": 750
+                },
+                {
+                    "name": "spaguetti de jamon",
+                    "price": 850
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

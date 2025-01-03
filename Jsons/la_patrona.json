@@ -1,0 +1,188 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Patrona",
+    "district": "San Miguel del Padrón",
+    "coordinates": {
+        "latitude": 23.0906213981348, 
+        "longitude": -82.37667411357992
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2400"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "baja",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa clasica",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 700
+                },
+                {
+                    "name": "hamburguesa grosera",
+                    "price": 1200
+                },
+                {
+                    "name": "hamburguesa patrona",
+                    "price": 1000
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2600
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1400
+                },
+                {
+                    "name": "escalope de cerdo",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1600
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza La Patrona",
+                    "price": 1800
+                },
+                {
+                    "name": "lasaña",
+                    "price": 1250
+                },
+                {
+                    "name": "canelones",
+                    "price": 1100
+                },
+                {
+                    "name": "spaghetti carbonara",
+                    "price": 1500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan",
+                    "price": 200
+                },
+                {
+                    "name": "copa lolita",
+                    "price": 400
+                },
+                {
+                    "name": "cesta helado",
+                    "price": 500
+                },
+                {
+                    "name": "tres gracias",
+                    "price": 300
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name": "jugos",
+                    "price": 100
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batidos",
+                    "price": 300
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "suero helado",
+                    "price": 350
+                }
+            ],
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "café express",
+                    "price": 150
+                },
+                {
+                    "name": "cafe con crema",
+                    "price": 180
+                },
+                {
+                    "name": "cafe la patrona",
+                    "price": 250
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 250
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

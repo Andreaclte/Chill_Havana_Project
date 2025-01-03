@@ -1,0 +1,184 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Los Taticos",
+    "district": "Marianao",
+    "coordinates": {
+        "latitude": 23.08427961422461, 
+        "longitude": -82.43597367849351
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2400"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "picadera tatico",
+                    "price": 2800
+                },
+                {
+                    "name": "entremes surtido",
+                    "price": 800
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 800
+                },
+                {
+                    "name": "bolitas de carne",
+                    "price": 800
+                },
+                {
+                    "name": "croquetas caseras",
+                    "price": 800
+                },
+                {
+                    "name": "taco de cerdo",
+                    "price": 650
+                },
+                {
+                    "name": "taco de carne",
+                    "price": 800
+                },
+                {
+                    "name": "taco de atun",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "super hamburguesa tatico",
+                    "price": 900
+                },
+                {
+                    "name": "hamburguesa tatico",
+                    "price": 750
+                },
+                {
+                    "name": "super hamburguesa queso",
+                    "price": 800
+                },
+                {
+                    "name": "hamburguesa queso",
+                    "price": 650
+                },
+                {
+                    "name": "super hamburguesa sencilla",
+                    "price": 700
+                },
+                {
+                    "name": "hamburguesa sencilla",
+                    "price": 600
+                },
+                {
+                    "name": "sandwich tatico",
+                    "price": 650
+                },
+                {
+                    "name": "bocadito de atun",
+                    "price": 600
+                },
+                {
+                    "name": "pan con lechon",
+                    "price": 650
+                },
+                {
+                    "name": "pan con croqueta",
+                    "price": 240
+                },
+                {
+                    "name": "pollo al carbon",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza tatico",
+                    "price": 1200
+                },
+                {
+                    "name": "pizza mixta",
+                    "price": 680
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 680
+                },
+                {
+                    "name": "pizza jamon",
+                    "price": 680
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 680
+                },
+                {
+                    "name": "lasagna",
+                    "price": 1250
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Novia",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.025201021634437, 
+        "longitude": -82.46433927310295
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "Restaurante La Novia",
+        "instagram": "@restaurante_lanovia"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2400"
+        }
+    },
+    "rating": 3.0,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "italiana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de la casa",
+                    "price": 600
+                },
+                {
+                    "name": "frituras de malanga",
+                    "price": 400
+                },
+                {
+                    "name": "bolitas de yuca y queso",
+                    "price": 350
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 1000
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 1000
+                },
+                {
+                    "name": "picadera mixta",
+                    "price": 2200
+                },
+                {
+                    "name": "chips de vianda",
+                    "price": 200
+                },
+                {
+                    "name": "milanesa de pollo",
+                    "price": 1200
+                },
+                {
+                    "name": "sandwich de jamon",
+                    "price": 580
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 730
+                },
+                {
+                    "name": "sandwich cubano con cerdo asado",
+                    "price": 1300
+                },
+                {
+                    "name": "ensaladita de aceitunas, queso y peperoni",
+                    "price": 1100
+                },
+                {
+                    "name": "tostones criollos",
+                    "price": 300
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 850
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "tacos de cerdo",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos de jamon y queso",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos marineros",
+                    "price": 1100
+                },
+                {
+                    "name": "tacos de ropa vieja",
+                    "price": 1300
+                },
+                {
+                    "name": "masas fritas de cerdo",
+                    "price": 1700
+                },
+                {
+                    "name": "pollo frito",
+                    "price": 1300
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1200
+                },
+                {
+                    "name": "bistec de pechuga",
+                    "price": 1600
+                },
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1600
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1900
+                },
+                {
+                    "name": "brochetas de cerdo",
+                    "price": 1800
+                },
+                {
+                    "name": "completa de enchilado de cangrejo",
+                    "price": 1500
+                },
+                {
+                    "name": "cerdo asado",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 280
+                },
+                {
+                    "name": "pizza de peperoni",
+                    "price": 400
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 700
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "copa de helado",
+                    "price": 550
+                },
+                {
+                    "name": "flan",
+                    "price": 270
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua",
+                    "price": 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "malta importada",
+                    "price": 290
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 260
+                },
+                {
+                    "name": "energizante",
+                    "price": 260
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "limonada frappe",
+                    "price": 340
+                },
+                {
+                    "name": "limonada natural",
+                    "price": 340
+                },
+                {
+                    "name": "jugos naturales",
+                    "price": 160
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "batido de frutas",
+                    "price": 350
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 700
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "jarra de cerveza dispensada",
+                    "price": 300
+                },
+                {
+                    "name": "cerveza importada",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 290
+                },
+                {
+                    "name": "michelada mexicana",
+                    "price": 250
+                },
+                {
+                    "name": "michelada",
+                    "price": 230
+                },
+                {
+                    "name": "sangria",
+                    "price": 550
+                },
+                {
+                    "name": "cuba libre",
+                    "price": 250
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 300
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 300
+                },
+                {
+                    "name": "pina colada",
+                    "price": 550
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 100
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 450
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

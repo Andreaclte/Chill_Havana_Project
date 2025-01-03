@@ -1,0 +1,369 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Galy Cafe",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.13605979859447, 
+        "longitude": -82.36264764949895
+    },
+    "contact": {
+        "phone_number": "78634580",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": "GalyCafé",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2400"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2400"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["caribeña", "latina", "internacional", "cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": true,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas cremosas galy",
+                    "price": 650
+                },
+                {
+                    "name": "eperlan",
+                    "price": 760
+                },
+                {
+                    "name": "crema de queso",
+                    "price": 570
+                },
+                {
+                    "name": "crema virginia",
+                    "price": 600
+                },
+                {
+                    "name": "crema aurora",
+                    "price": 590
+                },
+                {
+                    "name": "crema de queso azul",
+                    "price": 720
+                },
+                {
+                    "name": "fajitas de pechuga de pollo",
+                    "price": 760
+                },
+                {
+                    "name": "coctel de camarones",
+                    "price": 1100
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de cerdo a la plancha",
+                    "price": 2750
+                },
+                {
+                    "name": "lomo de cerdo ahumado",
+                    "price": 2100
+                },
+                {
+                    "name": "filetillo de res o cerdo",
+                    "price": 1550
+                },
+                {
+                    "name": "bistec uruguayo",
+                    "price": 2750
+                },
+                {
+                    "name": "pechuga a la plancha",
+                    "price": 2750
+                },
+                {
+                    "name": "pechuga empanada",
+                    "price": 3100
+                },
+                {
+                    "name": "pechuga cordon bleu",
+                    "price": 2970
+                },
+                {
+                    "name": "pechuga milanesa",
+                    "price": 2860
+                },
+                {
+                    "name": "bistec de palomilla",
+                    "price": 2650
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 2650
+                },
+                {
+                    "name": "pescado a la plancha",
+                    "price": 3200
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 3200
+                },
+                {
+                    "name": "filete canciller",
+                    "price": 3520
+                },
+                {
+                    "name": "camarón al ajillo",
+                    "price": 3200
+                },
+                {
+                    "name": "camarón enchilado",
+                    "price": 3200
+                },
+                {
+                    "name": "camarón rebosado",
+                    "price": 3200
+                },
+                {
+                    "name": "camarón empanado",
+                    "price": 3200
+                },
+                {
+                    "name": "camarón a la plancha",
+                    "price": 3200
+                },
+                {
+                    "name": "pulpo enchilado",
+                    "price": 3300
+                },
+                {
+                    "name": "pulpo al ajillo",
+                    "price": 3300
+                },
+                {
+                    "name": "paella melosa del mar",
+                    "price": 3100
+                },
+                {
+                    "name": "mar y tierra",
+                    "price": 3300
+                },
+                {
+                    "name": "sandwich de queso",
+                    "price": 1150
+                },
+                {
+                    "name": "sandwich de jamón",
+                    "price": 1150
+                }, 
+                {
+                    "name": "sandwich de jamón y queso",
+                    "price": 1200
+                },
+                {
+                    "name": "sandwich de jamón, queso y chorizo",
+                    "price": 1250
+                },
+                {
+                    "name": "sandwich de atún y cebolla",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 1160
+                },
+                {
+                    "name": "pizza de jamón",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza de pimientos",
+                    "price": 1270
+                },
+                {
+                    "name": "pizza de camarones",
+                    "price": 1550
+                },
+                {
+                    "name": "pizza de atún y cebolla",
+                    "price": 1500
+                },
+                {
+                    "name": "pizza galy (2 quesos)",
+                    "price": 1550
+                },
+                {
+                    "name": "spaghetti de queso",
+                    "price": 1160
+                },
+                {
+                    "name": "spaghetti al diablo",
+                    "price": 1200
+                },
+                {
+                    "name": "spaghetti de jamón",
+                    "price": 1270
+                },
+                {
+                    "name": "spaghetti de chorizo",
+                    "price": 1270
+                },
+                {
+                    "name": "spaghetti carbonara",
+                    "price": 1450
+                },
+                {
+                    "name": "spaghetti de camarones",
+                    "price": 1550
+                },
+                {
+                    "name": "spaghetti con pescado y mariscos",
+                    "price": 1700
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "tarta de chocolate galy",
+                    "price": 650
+                },
+                {
+                    "name": "tres leche con hilo de chocolate",
+                    "price": 690
+                },
+                {
+                    "name": "helados variados",
+                    "price": 610
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 385
+                },
+                {
+                    "name": "agua gaseada",
+                    "price": 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "red bull",
+                    "price": 500
+                },
+                {
+                    "name": "malteada",
+                    "price": 500
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugos naturales",
+                    "price": 210
+                },
+                {
+                    "name": "jugo natural (cajita 200ml)",
+                    "price": 320
+                },
+                {
+                    "name": "jugo importado (enlatado)",
+                    "price": 385
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 950
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "cervezas nacionales",
+                    "price": 440
+                },
+                {
+                    "name": "cervezas importadas",
+                    "price": 330
+                }
+            ],
+            "coffee" : [
+                {
+                    "name": "café expreso",
+                    "price": 330
+                },
+                {
+                    "name": "café cortado",
+                    "price": 305
+                },
+                {
+                    "name": "café cremoso",
+                    "price": 440
+                },
+                {
+                    "name": "café galy",
+                    "price": 500
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

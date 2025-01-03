@@ -1,0 +1,243 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Food Master",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.10836341952027,
+        "longitude": -82.43424715134823
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "https://linktr.ee/foodmaster.havana",
+        "whatsapp": "53826366",
+        "facebook": "Food Master La Habana",
+        "instagram": "@foodmaster.havana"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1030",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "1030",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "1030",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "1030",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "1030",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1030",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1030",
+            "close": "2100"
+        }
+    },
+    "rating": 4.0,
+    "intake_capacity": "media",
+    "cuisine": ["americana", "mexicana", "internacional"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "picadera food master",
+                    "price": 2700
+                },
+                {
+                    "name": "salchichas al grill",
+                    "price": 1600
+                },
+                {
+                    "name": "quesadilla",
+                    "price": 990
+                },
+                {
+                    "name": "tacos",
+                    "price": 990
+                },
+                {
+                    "name": "croquetas",
+                    "price": 700
+                },
+                {
+                    "name": "empanadas",
+                    "price": 750
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 690
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "big master burger",
+                    "price": 3500
+                },
+                {
+                    "name": "hamburguesa suiza",
+                    "price": 2950
+                },
+                {
+                    "name": "hamburguesa max",
+                    "price": 2700
+                },
+                {
+                    "name": "hamburguesa la granja",
+                    "price": 2550
+                },
+                {
+                    "name": "hamburguesa italiana",
+                    "price": 2450
+                },
+                {
+                    "name": "pizza margarita",
+                    "price": 1900
+                },
+                {
+                    "name": "pizza margarita con jamon",
+                    "price": 2400
+                },
+                {
+                    "name": "pizza diavola",
+                    "price": 2600
+                },
+                {
+                    "name": "pizza de jamon serrano",
+                    "price": 3200
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 3100
+                },
+                {
+                    "name": "la prohibida en italia",
+                    "price": 3200
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "empanadas de piña y queso",
+                    "price": 750
+                },
+                {
+                    "name": "muffin",
+                    "price": 550
+                },
+                {
+                    "name": "helado",
+                    "price": 750
+                }
+            ]
+        },
+        "drinks" : {
+            "water" :false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name": "jugo natural",
+                    "price": 500
+                },
+                {
+                    "name": "jugo cajita",
+                    "price": 400
+                },
+                {
+                    "name": "fresh de pepino",
+                    "price": 300
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name": "smoothie de frutas",
+                    "price": 600
+                }
+            ],
+            "ice_cream_shake" : [
+                {
+                    "name": "batido de helado",
+                    "price": 750
+                },
+                {
+                    "name": "batido de helado y frutas",
+                    "price": 750
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name": "vino por copa",
+                    "price": 900
+                },
+                {
+                    "name": "gin & tonic",
+                    "price": 1200
+                },
+                {
+                    "name": "chelada",
+                    "price": 900
+                },
+                {
+                    "name": "michelada",
+                    "price": 1000
+                },
+                {
+                    "name": "sangria",
+                    "price": 1100
+                },
+                {
+                    "name": "sangria blanca",
+                    "price": 1100
+                },
+                {
+                    "name": "tinto de verano",
+                    "price": 900
+                },
+                {
+                    "name": "spirit coctel",
+                    "price": 800
+                },
+                {
+                    "name": "cerveza",
+                    "price": 600
+                },
+                {
+                    "name": "cerveza gama alta",
+                    "price": 800
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

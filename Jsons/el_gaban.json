@@ -1,0 +1,387 @@
+{
+    "type_of_establishment": "bar - restaurante",
+    "name": "El Gabán",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.11556412986255, 
+        "longitude": -82.43678182320103
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": "linktr.ee/elgabanhabana",
+        "whatsapp": "393926720865",
+        "facebook": "El Gabán la 14 restaurante",
+        "instagram": "@elgaban_oficial"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "0030"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "0030"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["internacional"],
+    "services": {
+        "plant": true,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": true,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "crema de vegetales",
+                    "price": 2400
+                },
+                {
+                    "name": "croquetones a la amatriciana",
+                    "price": 3000
+                },
+                {
+                    "name": "croquetones de iberico",
+                    "price": 3600
+                },
+                {
+                    "name": "tartar de res con maracuya",
+                    "price": 4500
+                },
+                {
+                    "name": "tabla mixta",
+                    "price": 5400
+                },
+                {
+                    "name": "carpaccio de res",
+                    "price": 6000
+                },
+                {
+                    "name": "tartar de langosta",
+                    "price": 6000
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pizza new york",
+                    "price": 6000
+                },
+                {
+                    "name": "pizza de bolonia",
+                    "price": 5400
+                },
+                {
+                    "name": "ñoquis",
+                    "price": 3600
+                },
+                {
+                    "name": "raviolis mariscos",
+                    "price": 4500
+                },
+                {
+                    "name": "risotto rosa",
+                    "price": 5400
+                },
+                {
+                    "name": "risotto al coco",
+                    "price": 6000
+                },
+                {
+                    "name": "pesca blanca",
+                    "price": 7500
+                },
+                {
+                    "name": "pesca azul",
+                    "price": 7500
+                },
+                {
+                    "name": "mignon",
+                    "price": 8400
+                },
+                {
+                    "name": "ribeye",
+                    "price": 8400
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "pure de malanga",
+                    "price": 1800
+                },
+                {
+                    "name": "papas al horno",
+                    "price": 1800
+                },
+                {
+                    "name": "vegetales salteados",
+                    "price": 1800
+                },
+                {
+                    "name": "arroz pilaf",
+                    "price": 2400
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "brownie blanco",
+                    "price" : 1800
+                },
+                {
+                    "name" : "paulova",
+                    "price" : 1800
+                },
+                {
+                    "name": "arroz con leche",
+                    "price": 1800
+                },
+                {
+                    "name": "postre con helado",
+                    "price": 1800
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua tonica",
+                    "price" : 1500
+                },
+                {
+                    "name" : "agua san pellegrino",
+                    "price" : 1600
+                },
+                {
+                    "name": "agua natural",
+                    "price": 1600
+                },
+                {
+                    "name": "agua panna",
+                    "price": 1600
+                },
+                {
+                    "name": "agua con gas",
+                    "price": 1600
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 1000
+                },
+                {
+                    "name" : "malta",
+                    "price" : 1000
+                },
+                {
+                    "name": "energizante",
+                    "price": 1500
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "kermato",
+                    "price" : 1600
+                },
+                {
+                    "name" : "limonada frappe/natural",
+                    "price" : 1600
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza de botella",
+                    "price" : 1600
+                },
+                {
+                    "name" : "copa de vino (espumoso, tinto o blanco)",
+                    "price" : 1800
+                },
+                {
+                    "name": "grinch",
+                    "price": 1600
+                },
+                {
+                    "name": "mohana",
+                    "price": 1600
+                },
+                {
+                    "name": "mojito de frutas",
+                    "price": 1600
+                },
+                {
+                    "name": "piña colada",
+                    "price": 1600
+                },
+                {
+                    "name": "rossini",
+                    "price": 2500
+                },
+                {
+                    "name": "negroni chocolate",
+                    "price": 2500
+                },
+                {
+                    "name": "bellini",
+                    "price": 2500
+                },
+                {
+                    "name": "garibaldi",
+                    "price": 2500
+                },
+                {
+                    "name": "mi to",
+                    "price": 2500
+                },
+                {
+                    "name": "negroni g",
+                    "price": 2500
+                },
+                {
+                    "name": "aperol spritz",
+                    "price": 2500
+                },
+                {
+                    "name": "spritz",
+                    "price": 2500
+                },
+                {
+                    "name": "campari spritz",
+                    "price": 2500
+                },
+                {
+                    "name": "daiquiri",
+                    "price": 2000
+                },
+                {
+                    "name": "canchanchara",
+                    "price": 2000
+                },
+                {
+                    "name": "mojito",
+                    "price": 2000
+                },
+                {
+                    "name": "cubanito",
+                    "price": 2000
+                },
+                {
+                    "name": "caipirisima",
+                    "price": 2000
+                },
+                {
+                    "name": "margarita",
+                    "price": 2500
+                },
+                {
+                    "name": "sangria",
+                    "price": 2500
+                },
+                {
+                    "name": "caipiroska",
+                    "price": 2500
+                },
+                {
+                    "name": "moscow mule",
+                    "price": 2500
+                },
+                {
+                    "name": "fernet con cola",
+                    "price": 2500
+                },
+                {
+                    "name": "vodka tonic",
+                    "price": 2500
+                },
+                {
+                    "name": "caipirinha",
+                    "price": 2500
+                },
+                {
+                    "name": "bloody mary",
+                    "price": 2500
+                },
+                {
+                    "name": "amaretto sour",
+                    "price": 2500
+                },
+                {
+                    "name": "old fashioned",
+                    "price": 2500
+                },
+                {
+                    "name": "new york whisky sour",
+                    "price": 2500
+                },
+                {
+                    "name": "expresso martini",
+                    "price": 1500
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "cafe",
+                    "price" : 800
+                },
+                {
+                    "name": "frapuccino",
+                    "price": 1500
+                },
+                {
+                    "name": "carajillo",
+                    "price": 1500
+                },
+                {
+                    "name" : "te",
+                    "price" : 800
+                },
+                {
+                    "name": "infusiones",
+                    "price": 800
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

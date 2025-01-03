@@ -1,0 +1,192 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Habana Tokio",
+    "district": "La Habana Vieja",
+    "coordinates": {
+        "latitude": 23.137485628241393, 
+        "longitude": -82.35639192066344
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59172392",
+        "facebook": "Habana Tokio",
+        "instagram": "@habanatokio"
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["japonesa"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": true
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "takoyaki",
+                    "price": 1000
+                },
+                {
+                    "name": "sushi (makizushi) atun",
+                    "price": 1750
+                },
+                {
+                    "name": "sushi (makizushi) salmon",
+                    "price": 2100
+                },
+                {
+                    "name": "sushi (makizushi) mixto",
+                    "price": 2750
+                },
+                {
+                    "name": "chashu",
+                    "price": 1000
+                },
+                {
+                    "name": "sashimi salmon",
+                    "price": 2900
+                },
+                {
+                    "name": "sashimi calamar",
+                    "price": 2900
+                },
+                {
+                    "name": "tataki atun",
+                    "price": 2300
+                },
+                {
+                    "name": "yakitori",
+                    "price": 2400
+                },
+                {
+                    "name": "karaage",
+                    "price": 2400
+                },
+                {
+                    "name": "chicken teriyaki",
+                    "price": 2400
+                },
+                {
+                    "name": "tempura vegetales",
+                    "price": 2300
+                },
+                {
+                    "name": "tempura calamar o camaron",
+                    "price": 3000
+                },
+                {
+                    "name": "tempura udon",
+                    "price": 2000
+                },
+                {
+                    "name": "ramen (shoyu o miso) camaron",
+                    "price": 2550
+                },
+                {
+                    "name": "ramen (shoyu o miso) camaron grande",
+                    "price": 3000
+                },
+                {
+                    "name": "katsudon",
+                    "price": 2850
+                },
+                {
+                    "name": "tonkatsu",
+                    "price": 2750
+                },
+                {
+                    "name": "yakisoba",
+                    "price": 2750
+                },
+                {
+                    "name": "yakisoba mariscos o calamar",
+                    "price": 3100
+                },
+                {
+                    "name": "yakisoba camaron",
+                    "price": 3100
+                },
+                {
+                    "name": "combo habana-tokio",
+                    "price": 3900
+                },
+                {
+                    "name": "combo sashimi atun",
+                    "price": 4200
+                },
+                {
+                    "name": "combo sashimi salmon",
+                    "price": 4400
+                },
+                {
+                    "name": "oyakodon",
+                    "price": 2800
+                },
+                {
+                    "name": "okonomiyaki",
+                    "price": 800
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "kakigoori",
+                    "price": 800
+                },
+                {
+                    "name": "flan",
+                    "price": 600
+                }
+            ]
+        },
+        "drinks" : false,
+        "special_offers": false
+    }
+}

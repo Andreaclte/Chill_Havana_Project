@@ -1,0 +1,384 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Fénix Dorado",
+    "district": "Centro Habana",
+    "coordinates": {
+        "latitude": 23.134776558921473, 
+        "longitude": -82.36387247467647
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 3.5,
+    "intake_capacity": "media",
+    "cuisine": ["italiana", "china", "caribeña", "cajún", "criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name" : "picadera fénix",
+                    "price" : 1785
+                },
+                {
+                    "name" : "entremés jamón y aceite",
+                    "price" : 535
+                },
+                {
+                    "name" : "entremés jamón y queso",
+                    "price" : 835
+                },
+                {
+                    "name" : "entremés aceitunas",
+                    "price" : 555
+                },
+                {
+                    "name" : "coctel camarones",
+                    "price" : 1200
+                },
+                {
+                    "name" : "ensalada fría jamón",
+                    "price" : 595
+                },
+                {
+                    "name" : "ensalada fría atún",
+                    "price" : 850
+                },
+                {
+                    "name" : "vianda c/mojo",
+                    "price" : 315
+                },
+                {
+                    "name" : "tostones nat. ajillo",
+                    "price" : 495
+                },
+                {
+                    "name" : "tost. rellenos jamoniquesos",
+                    "price" : 695
+                },
+                {
+                    "name" : "tost. rellenos c/camarón",
+                    "price" : 835
+                },
+                {
+                    "name" : "mariposas chinas",
+                    "price" : 375
+                },
+                {
+                    "name" : "ensalada mixta",
+                    "price" : 360
+                },
+                {
+                    "name" : "sopa fénix",
+                    "price" : 895
+                },
+                {
+                    "name" : "fritura malanga",
+                    "price" : 510
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name" : "bistec cerdo grille",
+                    "price" : 1625
+                },
+                {
+                    "name" : "bistec cerdo encebollado",
+                    "price" : 1885
+                },
+                {
+                    "name" : "ropa vieja",
+                    "price" : 2535
+                },
+                {
+                    "name" : "camarón grille",
+                    "price" : 2785
+                },
+                {
+                    "name" : "camarón al ajillo",
+                    "price" : 2950
+                },
+                {
+                    "name" : "camarón enchilado",
+                    "price" : 3120
+                },
+                {
+                    "name" : "filete pescado grille",
+                    "price" : 2675
+                },
+                {
+                    "name" : "filete sensación",
+                    "price" : 3000
+                },
+                {
+                    "name" : "filete terraza",
+                    "price" : 3940
+                },
+                {
+                    "name" : "chop suey camarón",
+                    "price" : 2970
+                },
+                {
+                    "name" : "chop suey pollo",
+                    "price" : 1995
+                },
+                {
+                    "name" : "chop suey cerdo",
+                    "price" : 2205
+                },
+                {
+                    "name" : "pollo grille",
+                    "price" : 3975
+                },
+                {
+                    "name" : "plancha de mar",
+                    "price" : 5255
+                },
+                {
+                    "name" : "masas cerdo ftas (1.5b)",
+                    "price" : 4550
+                },
+                {
+                    "name" : "brochetas cerdo (1.56)",
+                    "price" : 4650
+                },
+                {
+                    "name" : "plancha mar y tierra",
+                    "price" : 5255
+                },
+                {
+                    "name" : "corona fenix",
+                    "price" : 5965
+                },
+                {
+                    "name" : "zarzuela de mariscos",
+                    "price" : 5455
+                },
+                {
+                    "name" : "mucho cerdo (3 lb)",
+                    "price" : 8550
+                },
+                {
+                    "name" : "pizza c/queso gouda",
+                    "price" : 1120
+                },
+                {
+                    "name" : "pizza c/queso blanco",
+                    "price" : 695
+                },
+                {
+                    "name" : "pizza haw. queso blanco",
+                    "price" : 1145
+                },
+                {
+                    "name" : "pizza haw. queso gouda",
+                    "price" : 1570
+                },
+                {
+                    "name" : "spaghetti nap. c/queso gouda",
+                    "price" : 995
+                },
+                {
+                    "name" : "spaghetti nap. c/queso bco",
+                    "price" : 645
+                },
+                {
+                    "name" : "arroz frito fénix",
+                    "price" : 1120
+                },
+                {
+                    "name" : "arroz frito fénix especial",
+                    "price" : 1540
+                },
+                {
+                    "name" : "arroz frito fénix esp. familiar",
+                    "price" : 2810
+                },
+                {
+                    "name" : "paella fénix",
+                    "price" : 2920
+                },
+                {
+                    "name" : "arroz moro",
+                    "price" : 335
+                },
+                {
+                    "name" : "arroz blanco",
+                    "price" : 265
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name" : "pimiento",
+                    "price" : 200
+                },
+                {
+                    "name" : "cebolla",
+                    "price" : 200
+                },
+                {
+                    "name" : "piña",
+                    "price" : 200
+                },
+                {
+                    "name" : "jamón",
+                    "price" : 250
+                },
+                {
+                    "name" : "chorizo",
+                    "price" : 300
+                },
+                {
+                    "name" : "queso bco",
+                    "price" : 295
+                },
+                {
+                    "name" : "queso gouda",
+                    "price" : 520
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name" : "vino (bot)",
+                    "price" : 2500
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua natural, importada 500ml",
+                    "price" : 250
+                },
+                {
+                    "name" : "agua natural, importada 500ml",
+                    "price" : 210
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco nacional",
+                    "price" : 310
+                },
+                {
+                    "name" : "refresco importado",
+                    "price" : 350
+                },
+                {
+                    "name" : "malta",
+                    "price" : 340
+                },
+                {
+                    "name" : "energizante",
+                    "price" : 500
+                },
+                {
+                    "name" : "malteada",
+                    "price" : 600
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "nectar frutas",
+                    "price" : 340
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name" : "batido helado",
+                    "price" : 540
+                }
+                ],
+            "alcoholic" : [
+                {
+                    "name" : "cerveza corona",
+                    "price" : 480
+                },
+                {
+                    "name" : "cerveza nacional",
+                    "price" : 360
+                },
+                {
+                    "name" : "cerveza importada",
+                    "price" : 280
+                },
+                {
+                    "name" : "vino (bot)",
+                    "price" : 2500
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "café expreso",
+                    "price" : 220
+                },
+                {
+                    "name" : "café americano",
+                    "price" : 220
+                },
+                {
+                    "name" : "café carajillo",
+                    "price" : 320
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

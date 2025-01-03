@@ -1,0 +1,170 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "FoodTruck Pelegrin",
+    "district": "Playa",
+    "coordinates": {
+        "latitude": 23.111808672085502, 
+        "longitude": -82.44090092922819
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "52819512",
+        "facebook": false,
+        "instagram": "@food_truck_pelegrin"
+    },
+    "schedule": {
+        "monday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "0800",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "0800",
+            "close": "2100"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["cubana", "internacional"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": {
+            "items": [
+                {
+                    "name": "waffles",
+                    "price": 700
+                },
+                {
+                    "name": "desayuno",
+                    "price": 1250
+                }
+            ]
+        },
+        "appetizers": {
+            "items": [
+                {
+                    "name": "bolitas de queso",
+                    "price": 850
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 600
+                },
+                {
+                    "name": "croquetas",
+                    "price": 700
+                },
+                {
+                    "name": "sándwich jamon y queso",
+                    "price": 750
+                },
+                {
+                    "name": "sandwich atun",
+                    "price": 850
+                },
+                {
+                    "name": "sándwich cubano",
+                    "price": 1200
+                },
+                {
+                    "name": "sándwich pelegrin",
+                    "price": 1300
+                },
+                {
+                    "name": "sandwich pechuga",
+                    "price": 2500
+                },
+                {
+                    "name": "perro caliente",
+                    "price": 750
+                },
+                {
+                    "name": "palomitas",
+                    "price": 850
+                }
+            ]
+        },
+        "main_courses": false,
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : false,
+            "juices" : [
+                {
+                    "name": "jugos",
+                    "price": 270
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 150
+                },
+                {
+                    "name": "cortado",
+                    "price": 250
+                },
+                {
+                    "name": "capuchino",
+                    "price": 400
+                },
+                {
+                    "name": "café bombon",
+                    "price": 450
+                },
+                {
+                    "name": "frapuchino",
+                    "price": 550
+                },
+                {
+                    "name": "carajillo",
+                    "price": 350
+                },
+                {
+                    "name": "leche fría",
+                    "price": 370
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

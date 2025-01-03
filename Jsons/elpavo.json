@@ -1,0 +1,303 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "El Pavo",
+    "district": "Regla",
+    "coordinates": {
+        "latitude": 23.124478883457773, 
+        "longitude": -82.31947367832976
+    },
+    "contact": {
+        "phone_number": "77976432",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "58222469",
+        "facebook": "Restaurante El Pavo",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "media",
+    "cuisine": ["criolla", "internacional"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "ensalada fria de jamon",
+                    "price": 450
+                },
+                {
+                    "name": "ensalada fria de atun",
+                    "price": 500
+                },
+                {
+                    "name": "croquetas",
+                    "price": 200
+                },
+                {
+                    "name": "fajitas",
+                    "price": 500
+                },
+                {
+                    "name": "toston relleno de jamon",
+                    "price": 450
+                },
+                {
+                    "name": "toston relleno de atun",
+                    "price": 450
+                },
+                {
+                    "name": "costillas",
+                    "price": 800
+                },
+                {
+                    "name": "coctel de camaron",
+                    "price": 700
+                },
+                {
+                    "name": "garbanzo frito",
+                    "price": 400
+                },
+                {
+                    "name": "eperlan",
+                    "price": 600
+                },
+                {
+                    "name": "entremes",
+                    "price": 800
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo grille",
+                    "price": 1100
+                },
+                {
+                    "name": "masa de cerdo",
+                    "price": 1600
+                },
+                {
+                    "name": "cerdo a la milanesa",
+                    "price": 1400
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1300
+                },
+                {
+                    "name": "bistec de res",
+                    "price": 1300
+                },
+                {
+                    "name": "ropa vieja",
+                    "price": 1600
+                },
+                {
+                    "name": "camarones enchilados",
+                    "price": 1300
+                },
+                {
+                    "name": "camarones al ajillo",
+                    "price": 1300
+                },
+                {
+                    "name": "camarones grille",
+                    "price": 1200
+                },
+                {
+                    "name": "camarones rebozados",
+                    "price": 1300
+                },
+                {
+                    "name": "enchilado de langosta",
+                    "price": 1400
+                },
+                {
+                    "name": "langosta grille",
+                    "price": 1300
+                },
+                {
+                    "name": "pescado grille",
+                    "price": 1400
+                },
+                {
+                    "name": "marinada al pavo",
+                    "price": 2500
+                },
+                {
+                    "name": "pizza napolitana",
+                    "price": 600
+                },
+                {
+                    "name": "pizza de vegetales",
+                    "price": 650
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 800
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 800
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 850
+                },
+                {
+                    "name": "pizza de carne",
+                    "price": 800
+                },
+                {
+                    "name": "pizza de camarones",
+                    "price": 1000
+                },
+                {
+                    "name": "pizza especial 'el pavo'",
+                    "price": 1500
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 600
+                },
+                {
+                    "name": "spaghetti con jamon",
+                    "price": 800
+                },
+                {
+                    "name": "spaghetti boloñesa",
+                    "price": 800
+                },
+                {
+                    "name": "spaghetti con camarones",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti con atun",
+                    "price": 950
+                },
+                {
+                    "name": "spaghetti con bacon",
+                    "price": 800
+                },
+                {
+                    "name": "lasaña de jamon",
+                    "price": 800
+                },
+                {
+                    "name": "lasaña de carne",
+                    "price": 900
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": {
+            "items": [
+                {
+                    "name": "flan de leche",
+                    "price": 180
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name": "agua natural",
+                    "price": 180
+                },
+                {
+                    "name": "agua gaseada",
+                    "price": 180
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name": "refresco nacional",
+                    "price": 225
+                },
+                {
+                    "name": "refresco importado",
+                    "price": 260
+                },
+                {
+                    "name": "malta importada",
+                    "price": 225
+                },
+                {
+                    "name": "malta hypermalt",
+                    "price": 260
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo (cajita)",
+                    "price": 180
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name": "cerveza nacional",
+                    "price": 250
+                },
+                {
+                    "name": "cerveza nacional",
+                    "price": 200
+                },
+                {
+                    "name": "cerveza corona",
+                    "price": 300
+                }
+            ],
+            "coffee" : false
+            },
+        "special_offers": false
+    }
+}

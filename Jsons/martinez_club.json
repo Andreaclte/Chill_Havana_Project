@@ -1,0 +1,183 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Martínez Club",
+    "district": "Cotorro",
+    "coordinates": {
+        "latitude": 23.047306531006058, 
+        "longitude": -82.2683502866321
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "tuesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "wednesday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "thursday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "friday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "saturday": {
+            "open": "0900",
+            "close": "2100"
+        },
+        "sunday": {
+            "open": "0900",
+            "close": "2100"
+        }
+    },
+    "rating": null,
+    "intake_capacity": "media",
+    "cuisine": ["americana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": true,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "fritura de malanga",
+                    "price": 300
+                },
+                {
+                    "name": "ensalada fría",
+                    "price": 150
+                },
+                {
+                    "name": "croquetas",
+                    "price": 300
+                },
+                {
+                    "name": "tostones al ajillo",
+                    "price": 300
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "hamburguesa simple",
+                    "price": 230
+                },
+                {
+                    "name": "hamburguesa con mayonesa",
+                    "price": 280
+                },
+                {
+                    "name": "hamburguesa con jamón",
+                    "price": 350
+                },
+                {
+                    "name": "hamburguesa con chorizo",
+                    "price": 350
+                },
+                {
+                    "name": "hamburguesa con cebolla",
+                    "price": 330
+                },
+                {
+                    "name": "hamburguesa con queso blanco",
+                    "price": 330
+                },
+                {
+                    "name": "hamburguesa con queso gouda",
+                    "price": 430
+                },
+                {
+                    "name": "pollo chiflado",
+                    "price": 700
+                },
+                {
+                    "name": "masa de cerdo frita",
+                    "price": 1100
+                },
+                {
+                    "name": "pizza con queso blanco",
+                    "price": 200
+                },
+                {
+                    "name": "pizza con queso gouda",
+                    "price": 350
+                },
+                {
+                    "name": "pizza familiar con queso blanco",
+                    "price": 450
+                },
+                {
+                    "name": "pizza familiar con queso gouda",
+                    "price": 650
+                },
+                {
+                    "name": "spaguetti con queso blanco",
+                    "price": 350
+                },
+                {
+                    "name": "spaguetti con queso gouda",
+                    "price": 500
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name": "refresco",
+                    "price": 200
+                },
+                {
+                    "name": "malteada",
+                    "price": 330
+                }
+            ],
+            "juices" : [
+                {
+                    "name": "jugo",
+                    "price": 50
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name": "expresso",
+                    "price": 20
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}
