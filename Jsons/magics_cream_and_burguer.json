@@ -1,0 +1,253 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Magic's Cream & Burguer",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.079473928614, 
+        "longitude": -82.36211812904808
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["americana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas magic's",
+                    "price": 400
+                },
+                {
+                    "name": "fritura de malanga",
+                    "price": 400
+                },
+                {
+                    "name": "tacos de pollo",
+                    "price": 700
+                },
+                {
+                    "name": "tacos de cerdo",
+                    "price": 800
+                },
+                {
+                    "name": "fajas de pollo",
+                    "price": 600
+                },
+                {
+                    "name": "bolitas de queso",
+                    "price": 500
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                { 
+                    "name": "hamburguesas de cerdo", 
+                    "price": 430 
+                },
+                { 
+                    "name": "hamburguesas de pollo", 
+                    "price": 430 
+                },
+                { 
+                    "name": "hamburguesas doble", 
+                    "price": 1000 
+                },
+                { 
+                    "name": "hamburguesas super magic's", 
+                    "price": 1500 
+                }
+            ]
+        },
+        "sides": {
+            "items": false
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name" : "bola de helado",
+                    "price" : 70
+                },
+                {
+                    "name" : "jimaguas",
+                    "price" : 195
+                },
+                {
+                    "name" : "ensalada de helado",
+                    "price" : 350
+                },
+                {
+                    "name" : "tres gracias",
+                    "price" : 245
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name" : "malta",
+                    "price" : 300
+                },
+                {
+                    "name" : "pepsi",
+                    "price" : 300
+                },
+                {
+                    "name" : "refresco de lata",
+                    "price" : 210
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "limonada frappe",
+                    "price" : 250
+                },
+                {
+                    "name" : "piña colada sin alcohol",
+                    "price" : 500
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : [
+                {
+                    "name" : "batido de helado",
+                    "price" : 395
+                }
+            ],
+            "alcoholic" : [
+                {
+                    "name" : "cervezas importadas",
+                    "price" : 220
+                },
+                {
+                    "name" : "cervezas nacionales",
+                    "price" : 300
+                },
+                {
+                    "name" : "agrego de michelada",
+                    "price" : 250
+                },
+                {
+                    "name" : "piña colada con alcohol",
+                    "price" : 575
+                },
+                {
+                    "name" : "cuba libre",
+                    "price" : 500
+                },
+                {
+                    "name" : "mojito",
+                    "price" : 500
+                },
+                {
+                    "name" : "botella label 5",
+                    "price" : 3500
+                },
+                {
+                    "name" : "jw red label",
+                    "price" : 600
+                },
+                {
+                    "name" : "ballantine's",
+                    "price" : 550
+                },
+                {
+                    "name" : "howells",
+                    "price" : 300
+                },
+                {
+                    "name" : "gran marchell",
+                    "price" : 300
+                },
+                {
+                    "name" : "pacto navio",
+                    "price" : 700
+                },
+                {
+                    "name" : "havana club añejo reserva",
+                    "price" : 400
+                },
+                {
+                    "name" : "havana club añejo 3 años",
+                    "price" : 350
+                },
+                {
+                    "name" : "ginebra",
+                    "price" : 300
+                },
+                {
+                    "name" : "vodka",
+                    "price" : 300
+                },
+                {
+                    "name" : "copa vino tinto",
+                    "price" : 600
+                },
+                {
+                    "name" : "copa vino blanco",
+                    "price" : 550
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

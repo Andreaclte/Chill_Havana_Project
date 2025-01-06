@@ -1,0 +1,183 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Comida Criolla Ocho Vías",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.05199571820644, 
+        "longitude": -82.33216728909895
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "59107933",
+        "facebook": "8 Vías Comida Criolla",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 2.9,
+    "intake_capacity": "baja",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": true,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "croquetas de queso",
+                    "price": 500
+                },
+                {
+                    "name": "tostones rellenos",
+                    "price": 800
+                },
+                {
+                    "name": "tostones tradicionales",
+                    "price": 250
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 800
+                },
+                {
+                    "name": "platanos fritos",
+                    "price": 200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec de higado(460 gramos)",
+                    "price": 1600
+                },
+                {
+                    "name": "higado italiana(460 gramos)",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec de cerdo(460 gramos)",
+                    "price": 2200
+                },
+                {
+                    "name": "chuleta de cerdo(460 gramos)",
+                    "price": 2200
+                },
+                {
+                    "name": "fricase de cerdo(430 gramos)",
+                    "price": 2500
+                },
+                {
+                    "name": "masa frita(430 gramos)",
+                    "price": 2200
+                },
+                {
+                    "name": "fricase de carnero(960 gramos)",
+                    "price": 2200
+                },
+                {
+                    "name": "bistec uruguayo)",
+                    "price": 2800
+                },
+                {
+                    "name": "pescado entero a la marinera",
+                    "price": 2200
+                },
+                {
+                    "name": "ropa vieja(460 gramos)",
+                    "price": 2700
+                },
+                {
+                    "name": "camaron enchilado",
+                    "price": 2700
+                },
+                {
+                    "name": "langosta grille(690 gramos)",
+                    "price": 2700
+                },
+                {
+                    "name": "langosta enchilada(690 gramos)",
+                    "price": 2800
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 2500
+                },
+                {
+                    "name": "enchilado de cangrejo",
+                    "price": 1800
+                },
+                {
+                    "name": "bistec de pollo",
+                    "price": 2000
+                },
+                {
+                    "name": "pechuga de pollo",
+                    "price": 2500
+                },
+                {
+                    "name": "costilla frita o fricase",
+                    "price": 2200
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "arroz moro",
+                    "price": 200
+                },
+                {
+                    "name": "ensalada mixta",
+                    "price": 300
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : null,
+        "special_offers": false
+    }
+}

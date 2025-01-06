@@ -1,0 +1,315 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Los caneyes",
+    "district": "Arroyo Naranjo",
+    "coordinates": {
+        "latitude": 23.047931165777534, 
+        "longitude": -82.33276437842358
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1200",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1200",
+            "close": "2300"
+        }
+    },
+    "rating": 4.5,
+    "intake_capacity": "alta",
+    "cuisine": ["cubana", "criolla"],
+    "services": {
+        "plant": true,
+        "child_care": true,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act":false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name" : "tostones",
+                    "price" : 800
+                },
+                {
+                    "name" : "papas fritas",
+                    "price" : 900
+                },
+                {
+                    "name" : "fajitas de pollo empanadas",
+                    "price" : 1000
+                },
+                {
+                    "name" : "fajitas de cerdo empanadas",
+                    "price" : 1000
+                },
+                {
+                    "name" : "eperlan de pescado",
+                    "price" : 1300
+                },
+                {
+                    "name" : "masas de cangrejo con tostones",
+                    "price" : 1000
+                },
+                {
+                    "name" : "milanesa de res con papas fritas",
+                    "price" : 1500
+                },
+                {
+                    "name" : "hamburguesa de res c/ queso gratinado y papas fritas",
+                    "price" : 1500
+                },
+                {
+                    "name" : "hamburguesas de salmón c/ queso gratinado y tostones",
+                    "price" : 1500
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name" : "filete de pescado grille",
+                    "price" : 1500
+                },
+                {
+                    "name" : "filete de pescado empanado",
+                    "price" : 1500
+                },
+                {
+                    "name" : "filete de pescado monte toro",
+                    "price" : 1800
+                },
+                {
+                    "name" : "filete de pescado caney",
+                    "price" : 1800
+                },
+                {
+                    "name" : "filete de pescado los caneyes (filete con camarones y queso gratinado)",
+                    "price" : 2500
+                },
+                {
+                    "name" : "masas de cangrejo en salsa de tomate",
+                    "price" : 1300
+                },
+                {
+                    "name" : "salmón rociado en salsa de tomate",
+                    "price" : 1500
+                },
+                {
+                    "name" : "camarones al ajillo",
+                    "price" : 2200
+                },
+                {
+                    "name" : "enchilado de camarones",
+                    "price" : 2200
+                },
+                {
+                    "name" : "camarones rebozados",
+                    "price" : 2200
+                },
+                {
+                    "name" : "lomo ahumado deshuesado",
+                    "price" : 1800
+                },
+                {
+                    "name" : "bistec de cerdo frito",
+                    "price" : 1300
+                },
+                {
+                    "name" : "escalope de cerdo",
+                    "price" : 1500
+                },
+                {
+                    "name" : "bistec de cerdo con jamón, chorizo y queso",
+                    "price" : 1800
+                },
+                {
+                    "name" : "bistec uruguayo",
+                    "price" : 1800
+                },
+                {
+                    "name" : "boucht de cerdo",
+                    "price" : 1300
+                },
+                {
+                    "name" : "ropa vieja",
+                    "price" : 1700
+                },
+                {
+                    "name" : "vaca frita",
+                    "price" : 1700
+                },
+                {
+                    "name" : "suprema de pollo",
+                    "price" : 1300
+                },
+                {
+                    "name" : "fajitas salteadas",
+                    "price" : 1300
+                },
+                {
+                    "name" : "fajitas empanadas",
+                    "price" : 1400
+                },
+                {
+                    "name" : "suprema de pollo empanada",
+                    "price" : 1400
+                },
+                {
+                    "name" : "suprema de pollo con jamón y queso",
+                    "price" : 1800
+                },
+                {
+                    "name" : "gordon blue",
+                    "price" : 2300
+                },
+                {
+                    "name" : "suprema de pollo rellena con camarones y queso",
+                    "price" : 2300
+                },
+                {
+                    "name" : "suprema los caneyes (camarones y queso gratinado)",
+                    "price" : 2300
+                },
+                {
+                    "name" : "spaghetti napolitano",
+                    "price" : 700
+                },
+                {
+                    "name" : "pizza napolitana",
+                    "price" : 900
+                },
+                {
+                    "name" : "pizza napolitana con queso gouda",
+                    "price" : 1300
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name" : "arroz blanco",
+                    "price" : 150
+                },
+                {
+                    "name" : "arroz congrí",
+                    "price" : 200
+                },
+                {
+                    "name" : "yuca con mojo",
+                    "price" : 200
+                },
+                {
+                    "name" : "puré de malanga",
+                    "price" : 400
+                },
+                {
+                    "name" : "ensalada mixta de estación",
+                    "price" : 250
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name" : "tarta con ganache de chocolate",
+                    "price" : 450
+                },
+                {
+                    "name" : "pote de helado gustó (1 litro)",
+                    "price" : 1000
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua mineral embotellada",
+                    "price" : 300
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco cola y limón",
+                    "price" : 250
+                },
+                {
+                    "name" : "refresco de mate",
+                    "price" : 270
+                },
+                {
+                    "name" : "malta",
+                    "price" : 300
+                },
+                {
+                    "name" : "bebida energizante",
+                    "price" : 100
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "latas de jugo",
+                    "price" : 300
+                }
+            ],
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cervezas",
+                    "price" : 330
+                },
+                {
+                    "name" : "cerveza cristal",
+                    "price" : 300
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "café",
+                    "price" : 100
+                }
+            ]
+        },
+        "special_offers":false
+    }
+}

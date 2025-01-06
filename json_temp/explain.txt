@@ -1,0 +1,12 @@
+"type_of_establishment": bar, restaurante o bar - restaurante,
+"district": Municipio en el que se encuentra ubicado,
+"schedule": Horarios de apertura y cierra en formato de 24h. Toma valor false para aquellso dias en los que no se presta servicio.
+"rating": Calificacion de TripAdvisor,
+"intake_capacity": Capacidad del lugar como un dato cualitativo. Se expresa como "baja" para una cantidad menor a 20 clientes, "media" para una capcidad de entre 20 y 50 personas y "alta" para una cantidad superior a esta ultima.
+"services": {
+    "child_care": El establecimiento cuenta con elementos o espacios adecuados para niños,
+    "interactive_act": Musica en vivo, eventos, u elementos que permitan la realizacion de otras actividades recreativas dentro del establecimiento.
+}
+
+
+Los valores True y False indican la poseción o no de un determinado servicio, mientras que Null se empleó para aquel del cual no se pudo obtener una informacion certera.
