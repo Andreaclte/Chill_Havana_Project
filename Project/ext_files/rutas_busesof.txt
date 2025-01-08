@@ -1,0 +1,136 @@
+Bus name;Origin;Destination
+P1;Plaza de la Revolución;Playa
+P2;Cotorro;Plaza de la Revolución
+P3;Habana del Este;Plaza de la Revolución
+P4;La Lisa;La Habana Vieja
+P5;La Lisa;La Habana Vieja
+P6;Arroyo Naranjo;Plaza de la Revolución
+P7;Cotorro;La Habana Vieja
+P8;Arroyo Naranjo;Habana del Este
+P9;Arroyo Naranjo;Marianao
+P10;Diez de Octubre;Playa
+P11;Habana del Este;Plaza de la Revolución
+P12;Boyeros ;La Habana Vieja
+P13;Boyeros ;La Habana Vieja
+P14;La Lisa;La Habana Vieja
+P15;Playa;Plaza de la Revolución
+P16;Boyeros ;Plaza de la Revolución
+PC;La Lisa;Habana del Este
+A1;San Miguel del Padrón;San Miguel del Padrón
+A2;San Miguel del Padrón;La Habana Vieja
+A3;San Miguel del Padrón;Marianao
+A4;Diez de Octubre;Boyeros
+A5;Cotorro;La Habana Vieja
+A6;Cotorro;Cotorro
+A6L;Cotorro;Guanabacoa
+A7;Cotorro;Habana del Este
+A9;Cotorro;Boyeros
+A10;Cotorro;Marianao
+A11;Diez de Octubre;Guanabacoa
+A12;Diez de Octubre;Boyeros
+A13;Boyeros ;La Habana Vieja
+A14;Cerro;Boyeros
+A14CF;Cerro;Boyeros
+A15;Boyeros ;Boyeros
+A16;Cerro;La Habana Vieja
+A17;San Miguel del Padrón;Habana del Este
+A18;Diez de Octubre;Cotorro
+A19;Cotorro;Arroyo Naranjo
+A20;Cerro;Playa
+A21;Cotorro;Habana del Este
+A24;Guanabacoa;Regla
+A26;Habana del Este;Habana del Este
+A27;Cerro;La Habana Vieja
+A28;Habana del Este;Guanabacoa
+A29;Guanabacoa;Regla
+A30;Guanabacoa;La Habana Vieja
+A31;Guanabacoa;Guanabacoa
+A32;Cerro;Habana del Este
+A33;La Lisa;Plaza de la Revolución
+A35;San Miguel del Padrón;Marianao
+A40;Habana del Este;La Habana Vieja
+A42;Habana del Este;Cotorro
+A42L;Habana del Este;Habana del Este
+A44;La Lisa;Plaza de la Revolución
+A45;Habana del Este;Guanabacoa
+A47;Cotorro;Centro Habana
+A48;Habana del Este;Guanabacoa
+A49;Habana del Este;Habana del Este
+A49CF;Habana del Este;Centro Habana
+A49L;Habana del Este;San Miguel del Padrón
+A50;Guanabacoa;Plaza de la Revolución
+A51;Cerro;Playa
+A52;Cotorro;Arroyo Naranjo
+A56;Habana del Este;La Habana Vieja
+A58;Habana del Este;Plaza de la Revolución
+A60;Habana del Este;Regla
+A62;Habana del Este;San Miguel del Padrón
+A63;Habana del Este;Habana del Este
+A64;Habana del Este;Guanabacoa
+A65;Habana del Este;Cerro
+A66;Habana del Este;Regla
+A67;Habana del Este;Cerro
+A68;Habana del Este;Cerro
+A70;La Lisa;San Miguel del Padrón
+A81;Cerro;Playa
+A71;Habana del Este;Plaza de la Revolución
+A83;Habana del Este;Boyeros
+A72;Regla;Habana del Este
+A87;Boyeros ;Plaza de la Revolución
+A91;Playa;La Lisa
+A95;Guanabacoa;Plaza de la Revolución
+A97;Playa;Marianao
+C2;Cotorro;San Miguel del Padrón
+8;Playa;La Habana Vieja
+34;La Lisa;La Habana Vieja
+34L;La Lisa;Playa
+36;La Lisa;La Lisa
+40;La Lisa;Playa
+43;Playa;La Habana Vieja
+45;Boyeros ;Boyeros
+46;Boyeros ;Boyeros
+55;Playa;Centro Habana
+69;Playa;Diez de Octubre
+92;Playa;La Lisa
+93;Playa;Playa
+113;Playa;Arroyo Naranjo
+160;Boyeros ;Marianao
+179;Playa;San Miguel del Padrón
+177;Boyeros ;Marianao
+180;La Lisa;La Lisa
+191;Playa;Playa
+192;Playa;La Lisa
+193;Playa;Playa
+222;La Lisa;La Habana Vieja
+420;Playa;Playa
+436;La Lisa;La Lisa
+440;Boyeros ;Boyeros
+450;Boyeros ;Marianao
+450A;La Lisa;Boyeros
+450CF;Boyeros ;Marianao
+473;Boyeros ;Boyeros
+476;Boyeros ;Marianao
+486;La Lisa;Boyeros
+487;La Lisa;Playa
+488;Boyeros ;Arroyo Naranjo
+490;La Lisa;Boyeros
+C1;Cotorro;Cotorro
+C1CF;Cotorro;Habana del Este
+C3;Habana del Este;San Miguel del Padrón
+C4;Habana del Este;Habana del Este
+C5;Habana del Este;Habana del Este
+C5L;Habana del Este;Habana del Este
+C6;Guanabacoa;Guanabacoa
+C7;Habana del Este;Habana del Este
+CB;Habana del Este;La Habana Vieja
+CXXN;Boyeros ;Boyeros
+IP;Boyeros ;Boyeros
+R1;Diez de Octubre;Boyeros
+R15;Diez de Octubre;La Habana Vieja
+R23;Diez de Octubre;Plaza de la Revolución
+R25;Diez de Octubre;Diez de Octubre
+R37;Diez de Octubre;Playa
+R54;Diez de Octubre;Centro Habana
+R88;Diez de Octubre;Boyeros
+R88CF;Diez de Octubre;Boyeros
+R174;Diez de Octubre;Plaza de la Revolución
