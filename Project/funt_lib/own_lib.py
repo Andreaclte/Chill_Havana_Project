@@ -112,7 +112,10 @@ def aplicar_funcion(df_copia):
     for index, row in df_copia.iterrows():
         platillo, precio = platillo_mas_costoso(row)
         platillos.append(platillo)
-        precios.append(precio)
+        precios.append(precio)   
+    df_copia['platillo_mas_costoso'] = platillos
+    df_copia['precio'] = precios    
+    return df_copia
         
 #Funcion para sacar el plato principal menos costoso
 def platillo_menos_costoso(row):
@@ -134,13 +137,16 @@ def platillo_menos_costoso(row):
     return None, 1000000000
 
 #Funcion para aplicar la funcion platillo_menos_costoso al df
-def aplicar_funcion(df_copia):
+def aplicar_funcion_(df_copia):
     platillos = []
     precios = []
     for index, row in df_copia.iterrows():
         platillo, precio = platillo_menos_costoso(row)
         platillos.append(platillo)
         precios.append(precio)
+    df_copia['platillo_menos_costoso'] = platillos
+    df_copia['precio'] = precios
+    return df_copia
 
 #Encuentra los diferentes precios de un plato
 def check_price_range(aux, plato): 
