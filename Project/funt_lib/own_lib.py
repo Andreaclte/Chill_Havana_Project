@@ -32,8 +32,8 @@ def social_networks(contact):
 #Ver si un lugar tiene tipos únicos de comida
 def tiene_tipo_unico(cuisine_list): 
     if isinstance(cuisine_list, list): 
-        return any(tipo in tipos_unicos.values for tipo in cuisine_list) # Devuelve True si hay algun tipo de cocina unico
-    return False  # Si no es una lista
+        return any(tipo in tipos_unicos.values for tipo in cuisine_list) # True si hay algun tipo de cocina unico
+    return False 
 
 #Se obtiene el tipo de comida que hay en la lista "cuisine" si este es unico
 def obtener_tipo_unico(cuisine_list): 
@@ -45,7 +45,7 @@ def obtener_tipo_unico(cuisine_list):
 #Evidentemente cuenta los establecimientos que tienen pizza
 def contar_establecimientos_con_pizza():
     count = 0
-    for index, row in df.iterrows():
+    for index, row in df.iterrows(): 
         if isinstance(row['menu'], dict) and 'main_courses' in row['menu']:
             main_courses = row['menu']['main_courses']
             if isinstance(main_courses, dict) and 'items' in main_courses:
@@ -56,26 +56,26 @@ def contar_establecimientos_con_pizza():
 
 #Ver si un lugar tiene desayuno en su menu
 def tiene_desayuno(menu):
-    if isinstance(menu, dict): # Verificar si 'breakfasts' es un dict y contiene una lista no vacía
+    if isinstance(menu, dict): #Ver si 'breakfasts' es un dict y contiene una lista no vacía
         if isinstance(menu.get('breakfasts'), dict) and 'items' in menu['breakfasts']:
             return len(menu['breakfasts']['items']) > 0
     return False
 
 #Ver si un lugar tiene ofertas especiales en su menu
 def tiene_ofertas_especiales(menu):
-    if isinstance(menu, dict): # Ver si menu es un diccionario
+    if isinstance(menu, dict): 
         if isinstance(menu.get('special_offers'), list) and menu['special_offers']:#Ver si special offers es una list y no está vacía
             return True
     return False
 
 #Ver si un lugar tiene bebidas alcoholicas en menu/drinks
 def tiene_alcohol(menu):
-    if isinstance(menu.get('drinks'), dict): #Ver si 'drinks' es un dict y contiene 'alcoholic' 
-        alcoholic = menu['drinks'].get('alcoholic') #Ver si 'alcoholic' es una lista y tiene elementos
+    if isinstance(menu.get('drinks'), dict): 
+        alcoholic = menu['drinks'].get('alcoholic') 
         if isinstance(alcoholic, list):
-            return len(alcoholic) > 0  # Retorna True si hay elementos en la lista
-        elif isinstance(alcoholic, bool):
-            return alcoholic
+            return len(alcoholic) > 0  #True si hay elementos en la lista
+        elif isinstance(alcoholic, bool): 
+            return alcoholic #si es un bool, entonces es False, por lo q retorna eso mismo
     return False
 
 #Ver si un lugar tiene postres en su menu
@@ -157,19 +157,19 @@ def check_price_range(aux, plato):
 
 #Halla el precio maximo y minimo de ese plato en cada municipio donde se oferta
 def filter_price_range(_df, plato):
-    municipios = _df['district'].unique()  # Obtener todos los municipios
+    municipios = _df['district'].unique()  #Obtiene todos los municipios
     resultados = []
 
     for municipio in municipios:
-        aux = _df[_df['district'] == municipio]  # Filtrar por municipio
+        aux = _df[_df['district'] == municipio]  #Filtra por municipio
         if len(aux) == 0:
             continue
         
-        precios = [] #Obtener precios
+        precios = [] 
         for index, row in aux.iterrows():
             precios += check_price_range(row['menu'], plato)
             
-        if precios:  # Si hay precios encontrados
+        if precios: 
             min_price = min(precios)
             max_price = max(precios)
             resultados.append({
@@ -182,7 +182,7 @@ def filter_price_range(_df, plato):
 
 #Hallar precio promedio de un plato en cada municipio donde se oferta
 def filter_average_price(_df, plato):
-    municipios = _df['district'].unique()  # Obtener todos los municipios
+    municipios = _df['district'].unique()  
     resultados = []
     for municipio in municipios:
         aux = _df[_df['district'] == municipio]  
@@ -191,7 +191,7 @@ def filter_average_price(_df, plato):
         precios = [] 
         for index, row in aux.iterrows():
             precios += check_price_range(row['menu'], plato)   
-        if precios:  # Si hay precios encontrados
+        if precios: 
             average_price = round(sum(precios) / len(precios))  # Calcular y redondear precio promedio
             resultados.append({
                 'municipio': municipio,
@@ -275,8 +275,8 @@ def es_nombre_en_ingles(nombre):
     if isinstance(nombre, str):
         palabras = nombre.lower().split()
         resultados = [palabra for palabra in palabras if palabra not in diccionario_ingles]
-        return len(resultados) == 0  # True if resultados is empty (all words are in the dict)
-    return False  # Return False for non-string inputs
+        return len(resultados) == 0  #True si todas estan en el dict
+    return False 
 
 #ver si un lugar tiene disable_support
 def tiene_soporte(services):
