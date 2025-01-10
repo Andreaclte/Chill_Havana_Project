@@ -30,20 +30,20 @@ def social_networks(contact):
     return bool(contact.get('instagram')) and bool(contact.get('facebook'))
 
 #Ver si un lugar tiene tipos únicos de comida
-def tiene_tipo_unico(cuisine_list): 
+def tiene_tipo_unico(cuisine_list, tipos_unicos): 
     if isinstance(cuisine_list, list): 
         return any(tipo in tipos_unicos.values for tipo in cuisine_list) # True si hay algun tipo de cocina unico
     return False 
 
 #Se obtiene el tipo de comida que hay en la lista "cuisine" si este es unico
-def obtener_tipo_unico(cuisine_list): 
+def obtener_tipo_unico(cuisine_list, tipos_unicos): 
     for tipo in cuisine_list:
         if tipo in tipos_unicos.values:
             return tipo
     return None
 
 #Evidentemente cuenta los establecimientos que tienen pizza
-def contar_establecimientos_con_pizza():
+def contar_establecimientos_con_pizza(df):
     count = 0
     for index, row in df.iterrows(): 
         if isinstance(row['menu'], dict) and 'main_courses' in row['menu']:
@@ -106,7 +106,7 @@ def platillo_mas_costoso(row):
     return None, 0
 
 #Funcion para aplicar la funcion platillo_mas_costoso al df
-def aplicar_funcion(df_copia):
+def aplicar_fun_mayor(df_copia):
     platillos = []
     precios = []
     for index, row in df_copia.iterrows():
@@ -137,16 +137,16 @@ def platillo_menos_costoso(row):
     return None, 1000000000
 
 #Funcion para aplicar la funcion platillo_menos_costoso al df
-def aplicar_funcion_(df_copia):
+def aplicar_fun_menor(df_copia_men):
     platillos = []
     precios = []
-    for index, row in df_copia.iterrows():
+    for index, row in df_copia_men.iterrows():
         platillo, precio = platillo_menos_costoso(row)
         platillos.append(platillo)
         precios.append(precio)
-    df_copia['platillo_menos_costoso'] = platillos
-    df_copia['precio'] = precios
-    return df_copia
+    df_copia_men['platillo_menos_costoso'] = platillos
+    df_copia_men['precio'] = precios
+    return df_copia_men
 
 #Encuentra los diferentes precios de un plato
 def check_price_range(aux, plato): 
@@ -277,7 +277,7 @@ def load_dict(ruta_dict):
         return set(word.strip().lower() for word in f.readlines())
 
 #ver si un nombre de un restaurante esta en ingles
-def es_nombre_en_ingles(nombre):
+def es_nombre_en_ingles(nombre, diccionario_ingles):
     if isinstance(nombre, str):
         palabras = nombre.lower().split()
         resultados = [palabra for palabra in palabras if palabra not in diccionario_ingles]
@@ -289,7 +289,7 @@ def tiene_soporte(services):
     return services['disable_support']
 
 #crear df con los lugares que ofrecen servicio 'disable_support' y sus respectivos municipios
-def establecimientos_con_soporte(municipio):
+def establecimientos_con_soporte(municipio, df):
     resultados = df[(df['district'].str.lower() == municipio.lower()) & (df['services'].apply(tiene_soporte))]
     if len(resultados) != 0:
         return resultados[['name', 'type_of_establishment']]
