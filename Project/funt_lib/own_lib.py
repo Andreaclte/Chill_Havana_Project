@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import folium
+from folium.plugins import HeatMap
 import plotly.express as px
 import numpy as np
 from collections import Counter
@@ -86,67 +87,40 @@ def offers_desserts(menu):
             return len(desserts['items']) > 0
     return False
 
-#Funcion para sacar el plato principal mas costoso
-def platillo_mas_costoso(row):
-    if 'main_courses' in row['menu'] and isinstance(row['menu']['main_courses'], dict):
-        items = row['menu']['main_courses'].get('items', [])
-        if items:
-            max_precio = -1
-            platillo_costoso = None
-            for item in items:
-                precio_actual = item.get('price')
-                if precio_actual is not None and isinstance(precio_actual, (int, float)):
-                    precio_actual = float(precio_actual)  # Convertir a float
-                    if (item['price'], (int, float)):
-                        precio_actual = float(item['price'])
-                        if precio_actual > max_precio:
-                            max_precio = precio_actual
-                            platillo_costoso = item['name']
-            return platillo_costoso, max_precio
-    return None, 0
+def func(tupla):
+    return tupla[1]
 
-#Funcion para aplicar la funcion platillo_mas_costoso al df
-def aplicar_fun_mayor(df_copia):
-    platillos = []
-    precios = []
-    for index, row in df_copia.iterrows():
-        platillo, precio = platillo_mas_costoso(row)
-        platillos.append(platillo)
-        precios.append(precio)   
-    df_copia['platillo_mas_costoso'] = platillos
-    df_copia['precio'] = precios    
-    return df_copia
-        
 #Funcion para sacar el plato principal menos costoso
 def platillo_menos_costoso(row):
-    if 'main_courses' in row['menu'] and isinstance(row['menu']['main_courses'], dict):
-        items = row['menu']['main_courses'].get('items', [])
-        if items:
-            min_precio = float('inf')
-            platillo_barato = None
-            for item in items:
-                precio_actual = item.get('price')
-                if precio_actual is not None and isinstance(precio_actual, (int, float)):
-                    precio_actual = float(precio_actual)  # Convertir a float
-                    if (item['price'], (int, float)):
-                        precio_actual = float(item['price'])
-                        if precio_actual <min_precio:
-                            min_precio = precio_actual
-                            platillo_barato = item['name']
-                return platillo_barato, min_precio
-    return None, 1000000000
+    mini = []
+    if "main_courses" in row.keys() and row["main_courses"]:
+        items = row["main_courses"]["items"]
+        for i in items:
+            if i['price']:
+                mini.append((i["name"], float(i["price"])))
+        return min(mini, key=func)
+    return 'aeiou', 10000000000
 
 #Funcion para aplicar la funcion platillo_menos_costoso al df
 def aplicar_fun_menor(df_copia_men):
-    platillos = []
-    precios = []
-    for index, row in df_copia_men.iterrows():
-        platillo, precio = platillo_menos_costoso(row)
-        platillos.append(platillo)
-        precios.append(precio)
-    df_copia_men['platillo_menos_costoso'] = platillos
-    df_copia_men['precio'] = precios
+    df_copia_men["platillo_menos_costoso"] = df_copia_men["menu"].apply(platillo_menos_costoso)
     return df_copia_men
+
+#Funcion para sacar el plato principal mas costoso
+def platillo_mas_costoso(row):
+    maxi = []
+    if "main_courses" in row.keys() and row["main_courses"]:
+        items = row["main_courses"]["items"]
+        for i in items:
+            if i['price']:
+                maxi.append((i["name"], float(i["price"])))
+        return max(maxi, key=func)
+    return 'aeiou', 0
+
+#Funcion para aplicar la funcion platillo_mas_costoso al df
+def aplicar_fun_mayor(df_copia):
+    df_copia["platillo_mas_costoso"] = df_copia["menu"].apply(platillo_mas_costoso)
+    return df_copia
 
 #Encuentra los diferentes precios de un plato
 def check_price_range(aux, plato): 
