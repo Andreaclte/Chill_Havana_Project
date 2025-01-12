@@ -1,0 +1,249 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Pacomeralgo",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.066165087925306, 
+        "longitude": -82.45070559198918
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "tuesday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "wednesday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "thursday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "friday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "saturday": {
+            "open": "1030",
+            "close": "0100"
+        },
+        "sunday": {
+            "open": "1030",
+            "close": "0100"
+        }
+    },
+    "rating": 2.5,
+    "intake_capacity": "baja",
+    "cuisine": ["italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "entremes de jamon y queso",
+                    "price": 450
+                },
+                {
+                    "name": "entremes de aceitunas",
+                    "price": 300
+                },
+                {
+                    "name": "croquetas",
+                    "price": 300
+                },
+                {
+                    "name": "papas fritas",
+                    "price": 333
+                },
+                {
+                    "name": "picadera paco",
+                    "price": 850
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "sandwich de queso",
+                    "price": 400
+                },
+                {
+                    "name": "sandwich de jamon",
+                    "price": 400
+                },
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 450
+                },
+                {
+                    "name": "sandwich de atun",
+                    "price": 450
+                },
+                {
+                    "name": "pan con hamburguesa",
+                    "price": 450
+                },
+                {
+                    "name": "lasagna",
+                    "price": 615
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 600
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 770
+                },
+                {
+                    "name": "pizza de chorizo",
+                    "price": 770
+                },
+                {
+                    "name": "pizza de cebolla",
+                    "price": 750
+                },
+                {
+                    "name": "pizza de aji",
+                    "price": 730
+                },
+                {
+                    "name": "pizza de aceituna",
+                    "price": 780
+                },
+                {
+                    "name": "pizza hawaiana",
+                    "price": 820
+                },
+                {
+                    "name": "pizza de pasas con piña",
+                    "price": 730
+                },
+                {
+                    "name": "pizza de atun",
+                    "price": 840
+                },
+                {
+                    "name": "pizza paco",
+                    "price": 1000
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 600
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 720
+                },
+                {
+                    "name": "spaghetti de chorizo",
+                    "price": 720
+                },
+                {
+                    "name": "spaghetti de atun",
+                    "price": 790
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name" : "refresco de cola",
+                    "price" : 250
+                },
+                {
+                    "name" : "refresco de limon",
+                    "price" : 250
+                },
+                {
+                    "name" : "refresco de naranja",
+                    "price" : 250
+                },
+                {
+                    "name" : "malta",
+                    "price" : 350
+                },
+                {
+                    "name" : "malteada",
+                    "price" : 650
+                },
+                {
+                    "name" : "energizante",
+                    "price" : 350
+                }
+            ],
+            "juices" : [
+                {
+                    "name" : "jugo pequeño",
+                    "price" : 250
+                },
+                {
+                    "name" : "jugo grande",
+                    "price" : 900
+                }
+            ],
+            "smoothie" : [
+                {
+                    "name" : "yogurt vaso",
+                    "price" : 200
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza",
+                    "price" : 250
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expresso",
+                    "price" : 150
+                },
+                {
+                    "name" : "americano",
+                    "price" : 150
+                },
+                {
+                    "name" : "cortadito",
+                    "price" : 220
+                },
+                {
+                    "name" : "bombon",
+                    "price" : 350
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

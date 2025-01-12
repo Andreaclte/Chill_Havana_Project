@@ -1,0 +1,150 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "Café Atardecer",
+    "district": "Regla",
+    "coordinates": {
+        "latitude": 23.125469635245604, 
+        "longitude": -82.33014753559166
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "tuesday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "wednesday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "thursday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "friday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "saturday": {
+            "open": "0700",
+            "close": "1900"
+        },
+        "sunday": {
+            "open": "0700",
+            "close": "1900"
+        }
+    },
+    "rating": 5.0,
+    "intake_capacity": "media",
+    "cuisine": ["criolla"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": false
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "pan con croqueta",
+                    "price": 75
+                },
+                {
+                    "name": "pan con medallon",
+                    "price": 90
+                },
+                {
+                    "name": "pan con queso",
+                    "price": 90
+                },
+                {
+                    "name": "pan con perro",
+                    "price": 120
+                },
+                {
+                    "name": "pan con jamon y queso",
+                    "price": 150
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "pollo empanado",
+                    "price": 450
+                },
+                {
+                    "name": "fajitas de pollo",
+                    "price": 450
+                },
+                {
+                    "name": "cerdo escalope",
+                    "price": 480
+                },
+                {
+                    "name": "fajitas de cerdo",
+                    "price": 480
+                },
+                {
+                    "name": "fricase de cerdo",
+                    "price": 380
+                },
+                {
+                    "name": "pescado empanado",
+                    "price": 330
+                },
+                {
+                    "name": "spaghetti napolitano",
+                    "price": 250
+                },
+                {
+                    "name": "spaghetti de jamon",
+                    "price": 300
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : false,
+            "soft_drinks" : [
+                {
+                    "name" : "refresco",
+                    "price" : 20
+                }
+            ],
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : false,
+            "coffee" : [
+                {
+                    "name" : "café",
+                    "price" : 15
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

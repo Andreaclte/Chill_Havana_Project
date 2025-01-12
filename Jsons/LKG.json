@@ -1,0 +1,158 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "LKG",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.070410939396403, 
+        "longitude": -82.45756089679794
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2200"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2200"
+        }
+    },
+    "rating": 2.5,
+    "intake_capacity": "baja",
+    "cuisine": ["caribeña"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": false,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "bistec",
+                    "price": 900
+                },
+                {
+                    "name": "fricase",
+                    "price": 900
+                },
+                {
+                    "name": "pollo",
+                    "price": 1200
+                },
+                {
+                    "name": "cangrejo",
+                    "price": 550
+                },
+                {
+                    "name": "arroz frito",
+                    "price": 600
+                },
+                {
+                    "name": "langosta",
+                    "price": 1400
+                },
+                {
+                    "name": "rueda de pescado",
+                    "price": 950
+                },
+                {
+                    "name": "pescado entero",
+                    "price": 950
+                },
+                {
+                    "name": "pizza de jamon",
+                    "price": 300
+                },
+                {
+                    "name": "pizza de queso",
+                    "price": 200
+                },
+                {
+                    "name": "pizza de doble queso",
+                    "price": 250
+                },
+                {
+                    "name": "pizza de queso gouda",
+                    "price": 250
+                }
+            ]
+        },
+        "sides": false,
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua mineral",
+                "price" : 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco importado",
+                    "price" : 230
+                }
+            ],
+            "juices" : false,
+            "smoothie" : [
+                {
+                    "name" : "batido de frutas",
+                    "price" : 235
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza",
+                    "price" : 250
+                }
+            ],
+            "coffee" : [
+                {
+                    "name" : "expresso",
+                    "price" : 20
+                }
+            ]
+        },
+        "special_offers": false
+    }
+}

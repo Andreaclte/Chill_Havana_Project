@@ -1,0 +1,144 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La Baliza",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.06752335433779, 
+        "longitude": -82.46813129014343
+    },
+    "contact": {
+        "phone_number": "78322553",
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": "53005060",
+        "facebook": "La Baliza",
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": false,
+            "close": false
+        },
+        "tuesday": {
+            "open": "1000",
+            "close": "2130"
+        },
+        "wednesday": {
+            "open": "1000",
+            "close": "2130"
+        },
+        "thursday": {
+            "open": "1000",
+            "close": "2130"
+        },
+        "friday": {
+            "open": "1000",
+            "close": "2130"
+        },
+        "saturday": {
+            "open": "1000",
+            "close": "2130"
+        },
+        "sunday": {
+            "open": "1000",
+            "close": "2130"
+        }
+    },
+    "rating": 4.7,
+    "intake_capacity": "media",
+    "cuisine": ["americana", "italiana"],
+    "services": {
+        "plant": false,
+        "child_care": true,
+        "disable_support": true,
+        "parking": true,
+        "delivery": true,
+        "reserves": false,
+        "takeaway": true,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": true
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": false,
+        "main_courses": {
+            "items": [
+                {
+                    "name": "sandwich de jamon y queso",
+                    "price": 500
+                },
+                {
+                    "name": "hamburguesa",
+                    "price": 490
+                },
+                {
+                    "name": "super hamburguesa",
+                    "price": 950
+                },
+                {
+                    "name": "pizza con queso gouda (small)",
+                    "price": 450
+                },
+                {
+                    "name": "pizza con queso gouda (large)",
+                    "price": 700
+                },
+                {
+                    "name": "pizza de queso blanco (small)",
+                    "price": 350
+                },
+                {
+                    "name": "pizza de queso blanco (large)",
+                    "price": 520
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "queso",
+                    "price": 200
+                },
+                {
+                    "name": "jamon",
+                    "price": 150
+                }
+            ]
+        },
+        "desserts": false,
+        "drinks" : {
+            "water" : [
+                {
+                "name" : "agua mineral natural",
+                "price" : 150
+                }
+            ],
+            "soft_drinks" : [
+                {
+                    "name" : "refresco importado",
+                    "price" : 230
+                }
+            ],
+            "juices" : false,
+            "smoothie" : [
+                {
+                    "name" : "batido de Mamey",
+                    "price" : 230
+                }
+            ],
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza importada",
+                    "price" : 250
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}
