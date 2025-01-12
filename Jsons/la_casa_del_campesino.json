@@ -1,0 +1,164 @@
+{
+    "type_of_establishment": "restaurante",
+    "name": "La casa del campesino",
+    "district": "La Lisa",
+    "coordinates": {
+        "latitude": 23.01984142812014, 
+        "longitude": -82.48766936323709
+    },
+    "contact": {
+        "phone_number": false,
+        "e-mail": false,
+        "web_page": false,
+        "whatsapp": false,
+        "facebook": false,
+        "instagram": false
+    },
+    "schedule": {
+        "monday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "tuesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "wednesday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "thursday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "friday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "saturday": {
+            "open": "1100",
+            "close": "2300"
+        },
+        "sunday": {
+            "open": "1100",
+            "close": "2300"
+        }
+    },
+    "rating": 2.5,
+    "intake_capacity": "alta",
+    "cuisine": ["cubana"],
+    "services": {
+        "plant": false,
+        "child_care": false,
+        "disable_support": false,
+        "parking": true,
+        "delivery": false,
+        "reserves": false,
+        "takeaway": false,
+        "vip_zone": false,
+        "interactive_act": false
+    },
+    "pay_meth": {
+        "cash": true,
+        "transfer": false
+    },
+    "menu": {
+        "breakfasts": false,
+        "appetizers": {
+            "items": [
+                {
+                    "name": "entremes de embuido y queso",
+                    "price": 350
+                },
+                {
+                    "name": "ensalada fria",
+                    "price": 150
+                },
+                {
+                    "name": "croquetas",
+                    "price": 200
+                }
+            ]
+        },
+        "main_courses": {
+            "items": [
+                {
+                    "name": "chuleta de cerdo",
+                    "price": 1600
+                },
+                {
+                    "name": "bistec de cerdo",
+                    "price": 1350
+                },
+                {
+                    "name": "costilla de cerdo",
+                    "price": 1600
+                },
+                {
+                    "name": "pollo asado",
+                    "price": 650
+                }
+            ]
+        },
+        "sides": {
+            "items": [
+                {
+                    "name": "vianda frita",
+                    "price": 120
+                }
+            ]
+        },
+        "desserts": {
+            "items": [
+                {
+                    "name": "mermelada de mango con queso",
+                    "price" : 190
+                },
+                {
+                    "name" : "fruta en almibar",
+                    "price" : 160
+                }
+            ]
+        },
+        "drinks" : {
+            "water" : [
+                {
+                    "name" : "agua mineral",
+                    "price" : 88
+                }
+            ],
+            "soft_drinks" : false,
+            "juices" : false,
+            "smoothie" : false,
+            "ice_cream_shake" : false,
+            "alcoholic" : [
+                {
+                    "name" : "cerveza presidente",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza parranda",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza bucanero",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza moosehead",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza cristal",
+                    "price" : 180
+                },
+                {
+                    "name" : "cerveza super bock",
+                    "price" : 180
+                }
+            ],
+            "coffee" : false
+        },
+        "special_offers": false
+    }
+}

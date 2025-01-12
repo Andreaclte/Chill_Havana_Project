@@ -175,10 +175,6 @@
                     "price": 8500
                 },
                 {
-                    "name": "tomahawk steak",
-                    "price": 19200
-                },
-                {
                     "name": "risotto parmesano",
                     "price": 1500
                 },
@@ -277,6 +273,10 @@
                 {
                     "name": "cowboy ribeye steak",
                     "price": 9000
+                },
+                {
+                    "name": "tomahawk steak",
+                    "price": 19200  
                 },
                 {
                     "name": "chilindron de cordero al vino",

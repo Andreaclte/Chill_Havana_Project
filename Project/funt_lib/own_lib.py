@@ -8,10 +8,7 @@ import plotly.express as px
 import numpy as np
 from collections import Counter
 import csv 
-import os
-import plotly.graph_objects as go
 import warnings
-import seaborn as sns
 warnings.filterwarnings("ignore")
 
 #Crear df con los json
@@ -21,8 +18,7 @@ def crear_data_frame():
     for archivo in glob.glob(ruta + "/*.json"):
         with open(archivo, 'r', encoding='utf-8') as f:
             contenido = json.load(f)
-            data.append(contenido)
-            
+            data.append(contenido)     
     df = pd.DataFrame(data)
     return df
 
@@ -33,7 +29,7 @@ def redes(contact):
 #Ver si un lugar tiene tipos únicos de comida
 def tiene_tipo_unico(cuisine_list, tipos_unicos): 
     if isinstance(cuisine_list, list): 
-        return any(tipo in tipos_unicos.values for tipo in cuisine_list) # True si hay algun tipo de cocina unico
+        return any(tipo in tipos_unicos.values for tipo in cuisine_list) 
     return False 
 
 #Se obtiene el tipo de comida que hay en la lista "cuisine" si este es unico
@@ -57,7 +53,7 @@ def pizza(df):
 
 #Ver si un lugar tiene desayuno en su menu
 def tiene_desayuno(menu):
-    if isinstance(menu, dict): #Ver si 'breakfasts' es un dict y contiene una lista no vacía
+    if isinstance(menu, dict): 
         if isinstance(menu.get('breakfasts'), dict) and 'items' in menu['breakfasts']:
             return len(menu['breakfasts']['items']) > 0
     return False
@@ -65,7 +61,7 @@ def tiene_desayuno(menu):
 #Ver si un lugar tiene ofertas especiales en su menu
 def tiene_ofertas_especiales(menu):
     if isinstance(menu, dict): 
-        if isinstance(menu.get('special_offers'), list) and menu['special_offers']:#Ver si special offers es una list y no está vacía
+        if isinstance(menu.get('special_offers'), list) and menu['special_offers']:
             return True
     return False
 
@@ -74,7 +70,7 @@ def tiene_alcohol(menu):
     if isinstance(menu.get('drinks'), dict): 
         alcoholic = menu['drinks'].get('alcoholic') 
         if isinstance(alcoholic, list):
-            return len(alcoholic) > 0  #True si hay elementos en la lista
+            return len(alcoholic) > 0 
         elif isinstance(alcoholic, bool): 
             return alcoholic #si es un bool, entonces es False, por lo q retorna eso mismo
     return False
@@ -135,11 +131,11 @@ def precios_plato(aux, plato):
 
 #Halla el precio maximo y minimo de ese plato en cada municipio donde se oferta
 def filtrar_precios(_df, plato):
-    municipios = _df['district'].unique()  #Obtiene todos los municipios
+    municipios = _df['district'].unique()  
     resultados = []
 
     for municipio in municipios:
-        aux = _df[_df['district'] == municipio]  #Filtra por municipio
+        aux = _df[_df['district'] == municipio] 
         if len(aux) == 0:
             continue
         
@@ -170,7 +166,7 @@ def precio_promedio(_df, plato):
         for index, row in aux.iterrows():
             precios += precios_plato(row['menu'], plato)   
         if precios: 
-            average_price = round(sum(precios) / len(precios))  # Calcular y redondear precio promedio
+            average_price = round(sum(precios) / len(precios)) #Calcular y redondear precio promedio
             resultados.append({
                 'municipio': municipio,
                 'plato': plato,
@@ -193,7 +189,7 @@ def check_nombre_precio(aux, plato, price):
             if aux[i]:
                 for j in aux[i]:
                     if (
-                        j["name"].lower().strip().find(plato.lower().strip()) != -1
+                        j["name"].lower().strip().find(plato.lower().strip()) != -1 #find devuelve -1 si no se encuentra
                         and j["price"] <= price
                     ):
                         return True
@@ -219,13 +215,13 @@ def sitio_recomendado(_df, plato, price, servicios, municipio):
     if len(aux) == 0:
         return "No hay resultado"
     aux["cumple_name_price"] = aux["menu"].apply(
-        check_nombre_precio, plato = plato, price = price # verifica algun restaurante del "menu" cumple con  nombre y precio, si cumple se guarda en 'cumple_name_price'.
+        check_nombre_precio, plato = plato, price = price 
     ) 
-    aux["cumple_service"] = aux['services'].apply(check_servicio, servicio = servicios) #hace lo mismo con "services"
-    result = aux[(aux["cumple_name_price"] ==  True) & (aux["cumple_service"] == True)] #se quedan solo los que cumplen ambas condiciones
+    aux["cumple_service"] = aux['services'].apply(check_servicio, servicio = servicios) 
+    result = aux[(aux["cumple_name_price"] ==  True) & (aux["cumple_service"] == True)] 
     if len(result) != 0:
         r = result.sort_values(by = "rating") #los resultados se ordenan por rating
-        return r.iloc[0] #se queda el de mejor rating
+        return r.iloc[0] 
     return "No hay resultado"
 
 #recomienda las rutas de guagua segun destino y origen solicitado
@@ -246,7 +242,7 @@ def ruta_ideal(origen, destino, df):
 #cargar un archivo txt externo
 def load_dict(ruta_dict):
     with open(ruta_dict, 'r', encoding='utf-8') as f:
-        return set(word.strip().lower() for word in f.readlines())
+        return set(word.strip().lower() for word in f.readlines()) #quita los dulicados
 
 #ver si un nombre de un restaurante esta en ingles
 def ingles(nombre, diccionario_ingles):
